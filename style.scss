@@ -1,0 +1,175 @@
+---
+---
+
+@import "normalize";
+
+$primary-color: #7b399c;
+
+h2 {
+  font-size: 1.2em;
+  margin-top: 2em;
+}
+
+li {
+  margin: 1em 0;
+}
+
+@media (max-width: 700px) {
+
+}
+
+@media (min-width: 700px) {
+
+  #container {
+    width: 700px;
+  }
+
+  nav li {
+    display: inline-block;
+  }
+
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  font-family: Helvetica, sans-serif;
+  line-height: 1.5;
+}
+
+a {
+  color: $primary-color;
+}
+
+#container {
+  margin: 0 auto;
+  padding: 0 1em 2em 1em;
+}
+
+.blue {
+  color: $primary-color;
+}
+
+#logo {
+  display: block;
+  margin: 2em auto;
+  max-width: 330px;
+  width: 66%;
+}
+
+#team {
+  background-image: url("ahouhpuc-team.jpg");
+  height: 40%;
+  background-position: center center;
+  background-size: cover;
+}
+
+nav {
+  -webkit-font-kerning: normal;
+  font-kerning: normal;
+  font-size: 125%;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin: 1em auto;
+}
+
+nav ul {
+  padding: 0;
+  text-align: center;
+  list-style-type: none;
+}
+
+nav li {
+  margin: 0;
+}
+
+nav a {
+  color: inherit;
+  display: inline-block;
+  padding: 0.7em 1em;
+  text-decoration: none;
+}
+
+nav a:hover,
+nav a.current {
+  background: $primary-color;
+  color: #fff;
+}
+
+footer {
+  text-align: center;
+  padding: 1em 0 2em 0;
+}
+
+footer a {
+  color: $primary-color;
+  font-size: 0.9em;
+  font-weight: bold;
+  padding: 0 0.5em;
+}
+
+#storyline {
+  font-size: 150%;
+}
+
+p.join-us {
+  text-align: center;
+  font-size: 150%;
+  margin: 2em 0;
+}
+
+a.join-us {
+  font-weight: bold;
+  color: white;
+  background: $primary-color;
+  text-decoration: none;
+  padding: 0.7em 1em;
+}
+
+table {
+  margin: 0 auto;
+}
+
+td {
+  border: 1px solid #999;
+  padding: 0.5em;
+  text-align: center;
+}
+
+td:first-child {
+  text-align: right;
+}
+
+td:first-child,
+tr:first-child {
+  font-weight: bold;
+}
+
+.home.fb-like-box {
+  margin: 2em auto;
+}
+
+.home.fb-like-box,
+.home.fb-like-box span,
+.home.fb-like-box iframe {
+  /* width/min-width hack is for iOS */
+  width: 100px !important;
+  min-width: 100% !important;
+}
+
+.summer-love {
+  text-align: center;
+}
+
+#charlety {
+  border: none;
+  width: 100%;
+  height: 400px;
+}
+
+#summer-love {
+  left: 0;
+  width: 100%;
+}

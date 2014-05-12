@@ -1,3 +1,9 @@
-name: Your New Jekyll Site
-markdown: redcarpet
-pygments: true
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: default
+sass:
+  sass_dir: _css
+  style: :compressed
