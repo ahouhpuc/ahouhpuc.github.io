@@ -3,7 +3,7 @@
 
 ## À propos
 
-[![Logo PUC Paris Université Club](logo-puc-paris-université-club.jpg)](http://www.puc.paris/)
+[![Logo PUC Paris Université Club](logo-puc-paris-université-club.jpg)](http://www.puc.paris/)
 
 Ah Ouh Puc est un club d'Ultimate Frisbee. C'est une section sportive du PUC, le [Paris Université Club](http://www.puc.paris/). Le PUC est un grand club omnisport qui regroupe 30 sections sportives autour du Stade Charléty et de la Cité Universitaire dans le sud de Paris.
 
