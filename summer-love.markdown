@@ -7,7 +7,7 @@ La Summer Love est une compétion hat que nous organisons tous les étés. Les �
 
 La Summer Love est annoncée chaque année sur notre page Facebook :
 
-<div class="summer-love"><div class="fb-like-box" data-href="https://www.facebook.com/ahouhpuc" data-colorscheme="light" data-show-faces="false" data-header="false" data-stream="false" data-show-border="false"></div></div>
+<div id="summer-love-fb"><div class="fb-like-box" data-href="https://www.facebook.com/ahouhpuc" data-colorscheme="light" data-show-faces="false" data-header="false" data-stream="false" data-show-border="false"></div></div>
 
 ## Édition 2013 : Video Games
 

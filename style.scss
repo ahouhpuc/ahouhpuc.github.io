@@ -5,27 +5,61 @@
 
 $primary-color: #7b399c;
 
-h2 {
-  font-size: 1.2em;
-  margin-top: 2em;
-}
-
-li {
-  margin: 1em 0;
-}
-
 @media (max-width: 700px) {
 
+  nav {
+
+    #logo {
+      margin-left: 1rem;
+    }
+
+    ul, #menu {
+      position: absolute;
+    }
+
+    ul {
+      visibility: hidden;
+      width: 100%;
+      border-top: 1px solid $primary-color;
+      border-bottom: 1px solid $primary-color;
+      text-align: center;
+    }
+
+    li a {
+      padding: 0.5rem 0;
+    }
+  }
+
 }
 
-@media (min-width: 700px) {
+@media (min-width: 701px) {
 
-  #container {
+  #container, nav {
     width: 700px;
   }
 
-  nav li {
-    display: inline-block;
+  nav {
+
+    #logo {
+      margin-left: 0.7rem;
+    }
+
+    #menu {
+      display: none;
+    }
+
+    ul {
+      visibility: visible;
+    }
+
+    li {
+      display: inline-block;
+    }
+
+    li a {
+      padding: 0.5rem 0.7rem;
+    }
+
   }
 
 }
@@ -39,85 +73,108 @@ body {
   line-height: 1.5;
 }
 
-a {
-  color: $primary-color;
-}
-
-#container {
-  margin: 0 auto;
-  padding: 0 1em 2em 1em;
-}
-
+a,
 .blue {
   color: $primary-color;
 }
 
-#logo {
-  display: block;
-  margin: 2em auto;
-  max-width: 330px;
-  width: 66%;
+h2 {
+  font-size: 1.2rem;
+  margin-top: 2rem;
+}
+
+li {
+  margin: 1rem 0;
+}
+
+#container {
+  margin: 0 auto;
+  padding: 0 1rem 2rem 1rem;
 }
 
 #team {
   background-image: url("ahouhpuc-team.jpg");
-  height: 40%;
+  height: 30%;
   background-position: center center;
   background-size: cover;
 }
 
 nav {
-  -webkit-font-kerning: normal;
-  font-kerning: normal;
-  font-size: 125%;
+
+  position: relative;
   font-weight: bold;
   text-transform: uppercase;
-  margin: 1em auto;
-}
+  margin: 0 auto;
+  font-size: 90%;
 
-nav ul {
-  padding: 0;
-  text-align: center;
-  list-style-type: none;
-}
+  #logo {
+    margin-top: 1rem;
+    height: 4rem;
+  }
 
-nav li {
-  margin: 0;
-}
+  a {
+    text-decoration: none;
+  }
 
-nav a {
-  color: inherit;
-  display: inline-block;
-  padding: 0.7em 1em;
-  text-decoration: none;
-}
+  ul {
+    margin: 0;
+    padding: 0;
+    top: 4.5rem;
+    background: #fff;
+    list-style-type: none;
+    z-index: 1; // otherwise <sup> elements appear on top
+  }
 
-nav a:hover,
-nav a.current {
-  background: $primary-color;
-  color: #fff;
-}
+  ul.on {
+    visibility: visible;
+  }
 
-footer {
-  text-align: center;
-  padding: 1em 0 2em 0;
-}
+  li {
+    margin: 0;
+  }
 
-footer a {
-  color: $primary-color;
-  font-size: 0.9em;
-  font-weight: bold;
-  padding: 0 0.5em;
+  li a {
+    display: block;
+  }
+
+  li a:hover,
+  li a.current {
+    background-color: $primary-color;
+    color: #fff;
+  }
+
+  li:first-child a {
+    margin-top: 0.5rem;
+  }
+
+  li:last-child a {
+    margin-bottom: 0.5rem;
+  }
+
+  #menu {
+    border: 1px solid $primary-color;
+    color: $primary-color;
+    padding: 0.2rem 0.6rem;
+    top: 2.1rem;
+    right: 1rem;
+    line-height: 1.4rem;
+    box-sizing: border-box;
+  }
+
+  #menu.on {
+    background-color: $primary-color;
+    color: #fff;
+  }
 }
 
 #storyline {
-  font-size: 150%;
+  font-size: 120%;
 }
 
 p.join-us {
   text-align: center;
   font-size: 150%;
-  margin: 2em 0;
+  margin: 2rem 0;
 }
 
 a.join-us {
@@ -125,7 +182,7 @@ a.join-us {
   color: white;
   background: $primary-color;
   text-decoration: none;
-  padding: 0.7em 1em;
+  padding: 0.7rem 1rem;
 }
 
 table {
@@ -134,7 +191,7 @@ table {
 
 td {
   border: 1px solid #999;
-  padding: 0.5em;
+  padding: 0.5rem;
   text-align: center;
 }
 
@@ -148,18 +205,18 @@ tr:first-child {
 }
 
 .home.fb-like-box {
-  margin: 2em auto;
+  margin: 2rem auto;
 }
 
 .home.fb-like-box,
 .home.fb-like-box span,
 .home.fb-like-box iframe {
-  /* width/min-width hack is for iOS */
+  // width/min-width hack is for iOS
   width: 100px !important;
   min-width: 100% !important;
 }
 
-.summer-love {
+#summer-love-fb {
   text-align: center;
 }
 
@@ -169,7 +226,54 @@ tr:first-child {
   height: 400px;
 }
 
-#summer-love {
+img[alt*="Summer Love"] {
   left: 0;
   width: 100%;
+}
+
+img[alt*="Paris Université Club"] {
+  width: 100px;
+  display: block;
+  margin: 0 auto;
+}
+
+img[alt*="Ah Ouh Puc Invalides"] {
+  width: 80%;
+  display: block;
+  margin: 0 auto;
+}
+
+form {
+
+  max-width: 500px;
+  width: 100%;
+  margin: 0 auto;
+
+  textarea,
+  input[type="text"] {
+    box-sizing: border-box;
+    border: 1px solid $primary-color;
+    outline: none;
+    display: block;
+    padding: 0.5rem;
+    margin: 0.5rem 0;
+    width: 100%;
+  }
+
+  textarea {
+    height: 10rem;
+    outline: none;
+  }
+
+
+  input[type="submit"] {
+    display: block;
+    background-color: $primary-color;
+    border: none;
+    color: #fff;
+    font-weight: bold;
+    padding: 0.7rem 1rem;
+    margin-top: 1rem;
+  }
+
 }
