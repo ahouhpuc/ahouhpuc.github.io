@@ -93,13 +93,6 @@ li {
   padding: 0 1rem 2rem 1rem;
 }
 
-#team {
-  background-image: url("ahouhpuc-team.jpg");
-  height: 30%;
-  background-position: center center;
-  background-size: cover;
-}
-
 nav {
 
   position: relative;
@@ -227,9 +220,11 @@ tr:first-child {
   height: 400px;
 }
 
-img[alt*="Summer Love"] {
-  left: 0;
-  width: 100%;
+.cover {
+  height: 40%;
+  background-position: center center;
+  background-size: cover;
+  margin: 1rem 0 2rem 0;
 }
 
 img[alt*="Paris Université Club"] {
@@ -251,21 +246,22 @@ form {
   margin: 0 auto;
 
   textarea,
-  input[type="text"] {
+  input[type="email"] {
     box-sizing: border-box;
-    border: 1px solid $primary-color;
+    border: 1px solid #b1b1b1;
     outline: none;
     display: block;
     padding: 0.5rem;
     margin: 0.5rem 0;
     width: 100%;
+    font-size: 85%;
+    color: #333;
   }
 
   textarea {
     height: 10rem;
     outline: none;
   }
-
 
   input[type="submit"] {
     display: block;

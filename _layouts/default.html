@@ -49,11 +49,8 @@
         <li><a {% if page.path contains "contact" %} class="current" {% endif %} href="contact.html">Contact</a></li>
       </ul>
     </nav>
-    {% if page.team %}
-      <div id="team"></div>
-    {% endif %}
-    {% if page.summerlove %}
-      <img src="summer-love.jpg" alt="Summer Love">
+    {% if page.cover %}
+      <div class="cover" style="background-image: url('{{page.cover.src}}');" title="{{page.cover.title}}"></div>
     {% endif %}
     <div id="container">
       {{content}}
