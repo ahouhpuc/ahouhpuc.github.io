@@ -18,6 +18,8 @@ En cours d'année, les entraînements sont réservés aux joueurs qui ont été 
 
 **Mercredi**, 20h30. Lillipuc et Open 1.
 
+_Ces créneaux sont valables pour la saison 2013-2014, il y aura quelques ajustements pour la saison 2014-2015._
+
 ## Informations
 
 * Qu'il pleuve, qu'il vente ou qu'il neige, l'entraînement a toujours lieu.
