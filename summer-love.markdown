@@ -14,6 +14,10 @@ La Summer Love est annoncée chaque année sur notre page Facebook :
 
 <div id="summer-love-fb"><div class="fb-like-box" data-href="https://www.facebook.com/ahouhpuc" data-colorscheme="light" data-show-faces="false" data-header="false" data-stream="false" data-show-border="false"></div></div>
 
+## Édition 2014 : Candy
+
+Pour l'été 2014, la Summer Love s'est déplacée au Stage Georges Carpentier pour accueillir pluuuuuus de joueurs sur 4 terrains ! En plus de faire une overdose de bonbons, des réductions spéciales Summer Love t'attendent au QG du Ah Ouh Puc, le <a href="http://www.lefleurus.com/">Fleurus</a>.
+
 ## Édition 2013 : Video Games
 
 L'été 2013 a de nouveau accueilli la Summer Love au stade de la Poterne des Peupliers, avec cette année, à l'honneur les jeux videos pixelisés ou lissés d'une HD impeccable !
