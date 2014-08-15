@@ -9,11 +9,11 @@ L'équipe féminine compétitive. Elle est composée des meilleures joueuses du 
 
 ### Open 1
 
-L'équipe masculine compétitive. L'équipe Open 1 évolue en première division du championnat de France. Elle est composée des meilleurs joueurs du club qui sont sélectionnés en chaque début saison.
+L'équipe masculine compétitive. L'équipe Open 1 est composée des meilleurs joueurs du club qui sont sélectionnés en chaque début saison. Après avoir évolué pendant plusieurs années en première division du championnat de France, l'Open 1 redescend en 2014 en deuxième division. La motivation pour remonter en D1 n'a jamais été aussi forte !
 
 ### Open 2 et 3
 
-Peu importe son niveau, il y a une place pour chacun nos nombreux licenciés dans une des équipes Open qui évoluent en troisième division du championnat de France. L'Open 2 a pour objectif de monter en 2<sup>ème</sup> division.
+Peu importe son niveau, il y a une place pour chacun nos nombreux licenciés dans une des équipes Open qui évoluent dans différentes divisions du championnat de France. L'Open 2 qui a toujours eu pour objectif de monter en 2<sup>ème</sup> division a atteint son but en 2014, qui restera à jamais une saison historique pour l'équipe !
 
 ### Coed 1
 

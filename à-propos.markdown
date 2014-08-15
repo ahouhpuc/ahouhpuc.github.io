@@ -46,4 +46,4 @@ En 2009, Ah Ouh Puc représente la France aux Championnats d'Europe des clubs or
 
 Depuis 2008, le club organise tous les étés la Summer Love, une compétition hat qui se déroule pendant les mois de juillet et août. La Summer Love connait chanque année un succès grandissant, à tel point qu'en 2013 toutes les places se sont vendues en quelques heures !
 
-Aujourd'hui, Ah Ouh Puc est solidement installé en division 1 dans les catégories open et mixte, et son équipe féminine figure dans le top 3 français. Mais même s'il reste naturellement attiré par la compétition de haut niveau, le club n'oublie pas pour autant sa mission d'accueil et de formation des débutants qui représentent une bonne part de l'effectif du club.
+Aujourd'hui, Ah Ouh Puc est solidement installé dans l'Ultimate français : en première division en mixte, en deuxème division en open, et son équipe féminine figure dans le top 3 français. Mais même s'il reste naturellement attiré par la compétition de haut niveau, le club n'oublie pas pour autant sa mission d'accueil et de formation des débutants qui représentent une bonne part de l'effectif du club.
