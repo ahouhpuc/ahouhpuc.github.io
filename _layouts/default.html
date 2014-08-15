@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="{{page.lang}}">
   <head>
     <meta charset="utf-8">
     <title>{{page.title}}</title>
@@ -55,5 +55,12 @@
     <div id="container">
       {{content}}
     </div>
+    <footer>
+      {% if page.lang == "fr" %}
+        <a href="/en.html">Ah Ouh Puc in English</a>
+      {% else %}
+        <a href="/fr.html">Ah Ouh Puc en français</a>
+      {% endif %}
+    </footer>
   </body>
 </html>

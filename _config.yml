@@ -4,6 +4,7 @@ defaults:
       path: ""
     values:
       layout: default
+      lang: fr
 sass:
   sass_dir: _css
   style: :compressed

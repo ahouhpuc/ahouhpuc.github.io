@@ -276,3 +276,18 @@ form {
   }
 
 }
+
+footer {
+  font-size: 85%;
+  margin: 1rem;
+  text-align: center;
+  font-weight: bold;
+}
+
+footer a {
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
