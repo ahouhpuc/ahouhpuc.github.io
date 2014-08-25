@@ -48,5 +48,6 @@ Les entraînements ont lieu sur le terrain synthétique annexe du Stade Charlety
 * **RER B** : Cité Universitaire
 * **Bus 21** et **67** : arrêt Stade Charlety – Porte de Gentilly
 * **Tram T3** : arrêt Stade Charlety – Porte de Gentilly
+* **Vélib'** : station située au 5 boulevard Jourdan
 
 <iframe id="charlety" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2627.0851737938037!2d2.34429935!3d48.818436299999995!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e6719e53149097%3A0x1d31aa0c9b73fd5!2s17+Avenue+Pierre+de+Coubertin!5e0!3m2!1sen!2s!4v1395597209687"></iframe>
