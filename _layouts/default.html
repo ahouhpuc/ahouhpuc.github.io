@@ -40,14 +40,11 @@
     <nav>
       <a href="/"><img id="logo" src="ahouhpuc-logo.svg" alt="Ah Ouh Puc Paris Ultimate"></a>
       <a href="#" id="menu">Menu</a>
-      <ul>
-        <li><a {% if page.path contains "équipes" %} class="current" {% endif %} href="équipes.html">Équipes</a></li>
-        <li><a {% if page.path contains "entraînements" %} class="current" {% endif %} href="entraînements.html">Entraînements</a></li>
-        <li><a {% if page.path contains "inscription" %} class="current" {% endif %} href="inscription.html">Inscription</a></li>
-        <li><a {% if page.path contains "summer-love" %} class="current" {% endif %} href="summer-love.html">Summer&nbsp;Love&nbsp;♥</a></li>
-        <li><a {% if page.path contains "à-propos" %} class="current" {% endif %} href="à-propos.html">À propos</a></li>
-        <li><a {% if page.path contains "contact" %} class="current" {% endif %} href="contact.html">Contact</a></li>
-      </ul>
+      {% if page.lang == "fr" %}
+        {% include menu.fr.html %}
+      {% else %}
+        {% include menu.en.html %}
+      {% endif %}
     </nav>
     {% if page.cover %}
       <div class="cover" style="background-image: url('{{page.cover.src}}');" title="{{page.cover.title}}"></div>
