@@ -12,13 +12,28 @@ En cours d'année, les entraînements sont réservés aux joueurs qui ont été 
 
 ## Quand&nbsp;?
 
-**Lundi**, 20h30. Open 2 et 3, et débutants.
-
-**Mardi**, 20h30. Coed 1 et 2.
-
-**Mercredi**, 20h30. Lillipuc et Open 1.
-
-_Ces créneaux sont valables pour la saison 2013-2014, il y aura quelques ajustements pour la saison 2014-2015._
+<table>
+  <tr>
+    <td></td>
+    <td>Novembre à Mai</td>
+    <td>Juin à Octobre</td>
+  </tr>
+  <tr>
+    <td>Lundi 20h30</td>
+    <td>Féminin et Open</td>
+    <td>Coed</td>
+  </tr>
+  <tr>
+    <td>Mardi 20h30</td>
+    <td>Rookies</td>
+    <td>Rookies</td>
+  </tr>
+  <tr>
+    <td>Mercredi 20h30</td>
+    <td>Féminin et Open</td>
+    <td>Coed</td>
+  </tr>
+</table>
 
 ## Informations
 
