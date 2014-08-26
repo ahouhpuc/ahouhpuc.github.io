@@ -1,4 +1,5 @@
 ---
+lang: en
 title: Équipes Ultimate Ah Ouh Puc
 description: Le Ah Ouh Puc a une équipe féminine, trois équipes open et deux équipes coed qui participent chaque année aux championnats de France d'Ultimate.
 ---

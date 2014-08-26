@@ -1,4 +1,5 @@
 ---
+lang: en
 summerlove: true
 facebook: true
 title: Summer Love
