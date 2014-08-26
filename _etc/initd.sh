@@ -24,6 +24,7 @@ SERVER_LOGFILE=$AOP_ROOT/server.log
 case "$1" in
 	start)
 		start-stop-daemon --start \
+      --chuid martin \
 			--background \
 			--no-close \
 			--exec "$SERVER" \
