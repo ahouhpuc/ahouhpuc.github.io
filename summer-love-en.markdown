@@ -17,7 +17,7 @@ La Summer Love est annoncée chaque année sur notre page Facebook :
 
 ## Édition 2014 : Candy
 
-Pour l'été 2014, la Summer Love s'est déplacée au Stage Georges Carpentier pour accueillir pluuuuuus de joueurs sur 4 terrains ! En plus de faire une overdose de bonbons, des réductions spéciales Summer Love t'attendent au QG du Ah Ouh Puc, le <a href="http://www.lefleurus.com/">Fleurus</a>.
+Pour l'été 2014, la Summer Love s'est déplacée au Stage Georges Carpentier pour accueillir pluuuuuus de joueurs sur 4 terrains ! En plus de faire une overdose de bonbons, des réductions spéciales Summer Love t'attendent au QG du Ah Ouh Puc, le <a href="http://www.lefleurus.com/" target="_blank">Fleurus</a>.
 
 ## Édition 2013 : Video Games
 

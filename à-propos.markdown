@@ -5,11 +5,11 @@ description: Ah Ouh Puc est un club d'Ultimate Frisbee à Paris. Il a été fond
 
 ## À propos
 
-[![Logo PUC Paris Université Club](logo-puc-paris-université-club.jpg)](http://www.puc.paris/)
+<a href="http://www.puc.paris/" target="_blank">![Logo PUC Paris Université Club](logo-puc-paris-université-club.jpg)</a>
 
-Ah Ouh Puc est un club d'Ultimate Frisbee. C'est une section sportive du PUC, le [Paris Université Club](http://www.puc.paris/). Le PUC est un grand club omnisport qui regroupe 30 sections sportives autour du Stade Charléty et de la Cité Universitaire dans le sud de Paris.
+Ah Ouh Puc est un club d'Ultimate Frisbee. C'est une section sportive du PUC, le <a href="http://www.puc.paris/" target="_blank">Paris Université Club</a>. Le PUC est un grand club omnisport qui regroupe 30 sections sportives autour du Stade Charléty et de la Cité Universitaire dans le sud de Paris.
 
-Ah Ouh Puc est un club affilié à la FFDF, la [Fédération Flying Disc France](http://www.ffdf.fr/).
+Ah Ouh Puc est un club affilié à la FFDF, la <a href="http://www.ffdf.fr/" target="_blank">Fédération Flying Disc France</a>.
 
 ## L'Ultimate
 
@@ -19,10 +19,10 @@ L’Ultimate est un sport auto-arbitré, qui repose sur l'esprit du jeu qui plac
 
 Tu trouveras plus d'information sur notre sport :
 
-* [sur la page Wikipedia à propos de l'Ultimate](https://fr.wikipedia.org/wiki/Ultimate_(sport))
-* [sur le site de la Fédération Flying Disc France](http://www.ffdf.fr/)
-* [sur le site de la World Flying Disc Federation](http://http://www.wfdf.org/)
-* [en lisant les règles !](http://www.ffdf.fr/content/download/18299/122766/file/WFDF%20Ultimate%20Rules%202013%20-%20French.pdf)
+* <a href="https://fr.wikipedia.org/wiki/Ultimate_(sport)" target="_blank">sur la page Wikipedia à propos de l'Ultimate</a>
+* <a href="http://www.ffdf.fr/" target="_blank">sur le site de la Fédération Flying Disc France</a>
+* <a href="http://www.wfdf.org/" target="_blank">sur le site de la World Flying Disc Federation</a>
+* <a href="http://www.ffdf.fr/content/download/18299/122766/file/WFDF%20Ultimate%20Rules%202013%20-%20French.pdf" target="_blank">en lisant les règles !</a>
 
 ## Histoire
 
