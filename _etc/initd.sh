@@ -19,6 +19,7 @@ SERVER_PID=$AOP_ROOT/server.pid
 SERVER_LOGFILE=$AOP_ROOT/server.log
 
 . /lib/lsb/init-functions
+. "$AOP_ROOT/env"
 
 case "$1" in
 	start)
