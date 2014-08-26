@@ -1,4 +1,4 @@
-#!/bin/bash -ex
+#!/bin/bash -e
 
 BUILD_DIR=`mktemp -d -t ahouhpuc`
 BUILD_SHA=`git rev-parse HEAD`
@@ -6,22 +6,27 @@ git archive --format=tar HEAD | (cd $BUILD_DIR && tar xf -)
 cd $BUILD_DIR
 jekyll build
 gnutar czf _site.tgz _site/
-scp _site.tgz martin@martinottenwaelter.fr:ahouhpuc/
-ssh -T martin@martinottenwaelter.fr <<EOF
+scp _site.tgz martin@37.59.112.124:ahouhpuc/
+ssh -T martin@37.59.112.124 <<EOF
 cd ahouhpuc
-if [ -d $BUILD_SHA ]; then
-  echo "$BUILD_SHA already exists. Aborting."
-  exit 1
+if [ ! -d $BUILD_SHA ]; then
+  tar xzf _site.tgz
+  mv _site $BUILD_SHA
+  convmv -r -f utf8 -t utf8 --nfc --notest --replace $BUILD_SHA
+  rm -f current && ln -s $BUILD_SHA current
 fi
-tar xzf _site.tgz
-mv _site $BUILD_SHA
-convmv -r -f utf8 -t utf8 --nfc --notest --replace $BUILD_SHA
 rm _site.tgz
-rm -f current && ln -s $BUILD_SHA current
 EOF
 rm _site.tgz
 
-scp _etc/nginx.conf martin@martinottenwaelter.fr:ahouhpuc/nginx.conf
-ssh -T root@martinottenwaelter.fr <<EOF
+scp _etc/server.go martin@37.59.112.124:ahouhpuc/
+ssh -T martin@37.59.112.124 <<EOF
+go build -o ahouhpuc/server ahouhpuc/server.go
+EOF
+
+scp _etc/nginx.conf root@37.59.112.124:/etc/nginx/conf.d/ahouhpuc.conf
+
+ssh -T root@37.59.112.124 <<EOF
 /etc/init.d/nginx restart
+/etc/init.d/ahouhpuc restart
 EOF
