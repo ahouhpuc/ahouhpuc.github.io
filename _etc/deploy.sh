@@ -24,7 +24,7 @@ ssh -T martin@37.59.112.124 <<EOF
 go build -o ahouhpuc/server ahouhpuc/server.go
 EOF
 
-scp _etc/nginx.conf root@37.59.112.124:/etc/nginx/conf.d/ahouhpuc.conf
+scp _etc/nginx.conf root@37.59.112.124:/etc/nginx/sites-enabled/ahouhpuc.conf
 
 ssh -T root@37.59.112.124 <<EOF
 /etc/init.d/nginx restart
