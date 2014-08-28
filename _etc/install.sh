@@ -1,8 +1,12 @@
 apt-get -y install unattended-upgrades
 dpkg-reconfigure -plow unattended-upgrades
 
-apt-get -y install nginx convmv ca-certificates
+echo "deb http://http.debian.net/debian wheezy-backports main" >> /etc/apt/sources.list
+apt-get update
+apt-get -t wheezy-backports install nginx
 /etc/init.d/nginx start
+
+apt-get -y install convmv ca-certificates
 
 adduser --disabled-password --gecos "" martin
 su - martin -c 'mkdir /home/martin/.ssh'
