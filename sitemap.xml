@@ -1,51 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.ahouhpuc.fr/fr.html</loc>
-    <link rel="alternate" href="http://www.ahouhpuc.fr/en.html" hreflang="en" />
+    <xhtml:link rel="alternate" href="http://www.ahouhpuc.fr/en.html" hreflang="en" />
   </url>
   <url>
     <loc>http://www.ahouhpuc.fr/en.html</loc>
-    <link rel="alternate" href="http://www.ahouhpuc.fr/fr.html" hreflang="fr" />
+    <xhtml:link rel="alternate" href="http://www.ahouhpuc.fr/fr.html" hreflang="fr" />
   </url>
   <url>
     <loc>http://www.ahouhpuc.fr/équipes.html</loc>
-    <link rel="alternate" href="http://www.ahouhpuc.fr/teams.html" hreflang="en" />
+    <xhtml:link rel="alternate" href="http://www.ahouhpuc.fr/teams.html" hreflang="en" />
   </url>
   <url>
     <loc>http://www.ahouhpuc.fr/teams.html</loc>
-    <link rel="alternate" href="http://www.ahouhpuc.fr/équipes.html" hreflang="fr" />
+    <xhtml:link rel="alternate" href="http://www.ahouhpuc.fr/équipes.html" hreflang="fr" />
   </url>
   <url>
     <loc>http://www.ahouhpuc.fr/entraînements.html</loc>
-    <link rel="alternate" href="http://www.ahouhpuc.fr/practices.html" hreflang="en" />
+    <xhtml:link rel="alternate" href="http://www.ahouhpuc.fr/practices.html" hreflang="en" />
   </url>
   <url>
     <loc>http://www.ahouhpuc.fr/practices.html</loc>
-    <link rel="alternate" href="http://www.ahouhpuc.fr/entraînements.html" hreflang="fr" />
+    <xhtml:link rel="alternate" href="http://www.ahouhpuc.fr/entraînements.html" hreflang="fr" />
   </url>
   <url>
     <loc>http://www.ahouhpuc.fr/summer-love.html</loc>
-    <link rel="alternate" href="http://www.ahouhpuc.fr/summer-love-en.html" hreflang="en" />
+    <xhtml:link rel="alternate" href="http://www.ahouhpuc.fr/summer-love-en.html" hreflang="en" />
   </url>
   <url>
     <loc>http://www.ahouhpuc.fr/summer-love-en.html</loc>
-    <link rel="alternate" href="http://www.ahouhpuc.fr/summer-love.html" hreflang="fr" />
+    <xhtml:link rel="alternate" href="http://www.ahouhpuc.fr/summer-love.html" hreflang="fr" />
   </url>
   <url>
     <loc>http://www.ahouhpuc.fr/à-propos.html</loc>
-    <link rel="alternate" href="http://www.ahouhpuc.fr/about-us.html" hreflang="en" />
+    <xhtml:link rel="alternate" href="http://www.ahouhpuc.fr/about-us.html" hreflang="en" />
   </url>
   <url>
     <loc>http://www.ahouhpuc.fr/about-us.html</loc>
-    <link rel="alternate" href="http://www.ahouhpuc.fr/à-propos.html" hreflang="fr" />
+    <xhtml:link rel="alternate" href="http://www.ahouhpuc.fr/à-propos.html" hreflang="fr" />
   </url>
   <url>
     <loc>http://www.ahouhpuc.fr/contact.html</loc>
-    <link rel="alternate" href="http://www.ahouhpuc.fr/contact-en.html" hreflang="en" />
+    <xhtml:link rel="alternate" href="http://www.ahouhpuc.fr/contact-en.html" hreflang="en" />
   </url>
   <url>
     <loc>http://www.ahouhpuc.fr/contact-en.html</loc>
-    <link rel="alternate" href="http://www.ahouhpuc.fr/contact.html" hreflang="fr" />
+    <xhtml:link rel="alternate" href="http://www.ahouhpuc.fr/contact.html" hreflang="fr" />
   </url>
 </urlset>
