@@ -29,4 +29,7 @@ scp _etc/nginx.conf root@37.59.112.124:/etc/nginx/sites-enabled/ahouhpuc.conf
 ssh -T root@37.59.112.124 <<EOF
 /etc/init.d/nginx restart
 /etc/init.d/ahouhpuc restart
+sleep 1
+/etc/init.d/nginx status
+/etc/init.d/ahouhpuc status
 EOF
