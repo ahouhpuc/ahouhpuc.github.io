@@ -6,20 +6,20 @@ description: Ah Ouh Puc has a women's team, three open teams and two coed teams 
 
 ### Lillipuc
 
-The competitive women's team. The objective every year is the French championships top 3.
+Competitive women’s team whose aim is for a Top 3 finish yearly at the French Championships.
 
 ### Open 1
 
-The competitive men's team. Tryouts are organised every season to select the club's best players. After having played for several years in the French championships first division, the Open 1 goes down in the second division in 2014. The team is motivated as ever to go back in the first division!
+Competitive men’s team for which the club's best players are selected during tryouts at the start of each season. The Open 1 team has played several years in division 1, however the upcoming 2014 season sees it relegated to division 2, with player motivation stronger than ever before to re-enter division 1!
 
 ### Open 2 and 3
 
-There is a team for every player in the club, whether you're a beginner or a more experienced player. The Open 2 team's objective has always been to go up in the second division of the French championships. They reached that goal in 2014, which will be an unforgettable year for the team!
+Whether you’re a beginner or a more experienced player, there is a team for you! Our Open 2 team had a truly fantastic 2013/2014 season seeing it climb into division 2, where they aim to stay.
 
 ### Coed 1
 
-The competitive mixted team. The team plays in the first division of the French championships. Tryouts are organised every year to select the best players. In the past, the team played at the XEUCF in Bordeaux in 2013, at the EUCR in Bergamo in 2013 and at the WUCC in Prague in 2010.
+Competitive mixed team playing in division 1 of the French Championships. Players are selected via tryouts. The team has often competed at an international level, both at World and European Championships, notably the XEUCF in Bordeaux and EUCR in Bergamo (2013), as well as the WUCC in Prague (2010).
 
 ### Coed 2
 
-The club has enough players to form a second mixed team that plays in the second division of the French championships.
+Our club boasts enough players for a second mixed team playing in division 2.

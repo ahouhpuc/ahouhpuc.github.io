@@ -7,9 +7,10 @@ cover:
   title: Stade Charlety
 ---
 
-Practices are open to all players in September and October. We encourage anyone who wants to join the club to try out a few practices to get an idea of the club and meet some of the players.
+Practices are open to all players in September and October. Anyone and everyone is encouraged to come along to get to know us, both players and club alike, and why not join us in the new season!
 
-During the rest of the year, practices are restricted to team members only. If you want to join the club during year, send us an email and we'll see which practice fits best.
+During the rest of the year however practices are restricted to team members only. If you want to join then, do send us an email and we’ll see which practice fits you best.
+
 
 ## When?
 
@@ -38,13 +39,13 @@ During the rest of the year, practices are restricted to team members only. If y
 
 ## Information
 
-* Practice always take place, whether it's windy, raining or snowing.
-* Practice starts at 8:30 pm sharp. Plan to arrive 15 minutes before to have time to get prepared. Changing rooms are available to get changed before, and to take a shower after the practice.
-* You'll need both running shoes for the track and cleats for the turf field.
+* Practice is never cancelled, whether it’s windy, raining or snowing. No being a pussy!
+* Practice starts at 8:30 pm sharp. Players are asked to arrive 15 minutes early to get ready. Changing rooms equipped with showers are available both before and after trainings.
+* You’ll need both your runners (for the track) and cleats/boots (for the synthetic pitch).
 
 ## Where?
 
-Practices take place on the secondary turf field of Stade Charlety located at 17 avenue Pierre de Coubertin, 75014 Paris. It is accessible by public transport:
+Practices are on the synthetic pitch at Stade Charlety, located at 17 avenue Pierre de Coubertin, 75014 Paris. It is readily accessible by public transport:
 
 * **RER B** : Cité Universitaire
 * **Bus 21** and **67** : stop at Stade Charlety – Porte de Gentilly
