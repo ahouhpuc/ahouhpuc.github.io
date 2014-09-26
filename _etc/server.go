@@ -69,7 +69,7 @@ func indexHandler(w http.ResponseWriter, r *http.Request) {
 		acceptLanguage := r.Header.Get("Accept-Language")
 		fr := strings.Index(acceptLanguage, "fr")
 		en := strings.Index(acceptLanguage, "en")
-		if 0 <= fr && fr < en {
+		if 0 <= fr && (en == -1 || fr < en) {
 			urlPath = "/fr.html"
 		} else {
 			urlPath = "/en.html"
