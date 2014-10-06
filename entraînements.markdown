@@ -43,7 +43,7 @@ En cours d'année, les entraînements sont réservés aux joueurs qui ont été 
 
 ## Où&nbsp;?
 
-Les entraînements ont lieu sur le terrain synthétique annexe du Stade Charlety, 17 avenue Pierre de Coubertin, 75014 Paris. Pour venir en transports en commun :
+<p itemscope itemtype="http://schema.org/StadiumOrArena">Les entraînements ont lieu sur le terrain synthétique annexe du <span itemprop="name">Stade Charlety</span>, <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress"><span itemprop="streetAddress">17 avenue Pierre de Coubertin</span>, <span itemprop="postalCode">75014</span> <span itemprop="addressLocality">Paris</span></span>. Pour venir en transports en commun :</p>
 
 * **RER B** : Cité Universitaire
 * **Bus 21** et **67** : arrêt Stade Charlety – Porte de Gentilly

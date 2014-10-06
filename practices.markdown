@@ -45,7 +45,7 @@ During the rest of the year however practices are restricted to team members onl
 
 ## Where?
 
-Practices are on the synthetic pitch at Stade Charlety, located at 17 avenue Pierre de Coubertin, 75014 Paris. It is readily accessible by public transport:
+<p itemscope itemtype="http://schema.org/StadiumOrArena">Practices are on the synthetic pitch at <span itemprop="name">Stade Charlety</span>, located at <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress"><span itemprop="streetAddress">17 avenue Pierre de Coubertin</span>, <span itemprop="postalCode">75014</span> <span itemprop="addressLocality">Paris</span></span>. It is readily accessible by public transport:</p>
 
 * **RER B** : Cité Universitaire
 * **Bus 21** and **67** : stop at Stade Charlety – Porte de Gentilly
