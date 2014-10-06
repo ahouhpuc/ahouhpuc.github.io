@@ -16,7 +16,7 @@ Ah Ouh Puc est un club affilié à la FFDF, la <a href="http://www.ffdf.fr/" tar
 
 L'Ultimate est un sport collectif utilisant un disque opposant deux équipes de 7 joueurs. L'objectif est de marquer des points en progressant sur le terrain par passes successives vers la zone d'en-but adverse et d'y réceptionner le disque. L'Ultimate se joue en équipe féminine, masculine ou mixte.
 
-L’Ultimate est un sport auto-arbitré, qui repose sur l'esprit du jeu qui place la responsabilité du fair-play en chaque joueur.
+L’Ultimate est un sport auto-arbitré, qui repose sur l'esprit du jeu qui place la responsabilité du fair-play en chaque joueur.
 
 Tu trouveras plus d'information sur notre sport :
 
