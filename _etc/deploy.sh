@@ -5,6 +5,7 @@ BUILD_SHA=`git rev-parse HEAD`
 git archive --format=tar HEAD | (cd $BUILD_DIR && tar xf -)
 cd $BUILD_DIR
 jekyll build
+_etc/validate.sh
 gnutar czf _site.tgz _site/
 scp _site.tgz martin@37.59.112.124:ahouhpuc/
 ssh -T martin@37.59.112.124 <<EOF
