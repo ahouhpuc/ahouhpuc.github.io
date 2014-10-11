@@ -14,6 +14,20 @@ $primary-color: #7b399c;
       margin-left: 1rem;
     }
 
+    .flag {
+      display: none;
+    }
+
+    ul .flag {
+      display: block;
+    }
+
+    .flag img {
+      width: 1.2rem;
+      height: 1.2rem;
+      vertical-align: bottom;
+    }
+
     ul, #menu {
       position: absolute;
     }
@@ -43,6 +57,21 @@ $primary-color: #7b399c;
 
     #logo {
       margin-left: 0.7rem;
+    }
+
+    .flag {
+      position: absolute;
+      top: 1rem;
+      right: 1rem;
+    }
+
+    ul .flag {
+      display: none;
+    }
+
+    .flag img {
+      width: 1.5rem;
+      height: 1.5rem;
     }
 
     #menu {
@@ -279,19 +308,4 @@ form {
     margin-top: 1rem;
   }
 
-}
-
-footer {
-  font-size: 85%;
-  margin: 1rem;
-  text-align: center;
-  font-weight: bold;
-}
-
-footer a {
-  text-decoration: none;
-}
-
-footer a:hover {
-  text-decoration: underline;
 }

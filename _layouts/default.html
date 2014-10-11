@@ -44,6 +44,11 @@
         <a href="/en.html">
       {% endif %}
       <img id="logo" src="ahouhpuc-logo.svg" alt="Ah Ouh Puc Paris Ultimate"></a>
+      {% if page.lang == "fr" %}
+        <a class="flag" href="en.html" title="Ah Ouh Puc in English"><img src="en.png" alt="Ah Ouh Puc in English"></a>
+      {% else %}
+        <a class="flag" href="fr.html" title="Ah Ouh Puc en français"><img src="fr.png" alt="Ah Ouh Puc en français"></a>
+      {% endif %}
       <a href="#" id="menu">Menu</a>
       {% if page.lang == "fr" %}
         {% include menu.fr.html %}
@@ -57,12 +62,5 @@
     <div id="container">
       {{content}}
     </div>
-    <footer>
-      {% if page.lang == "fr" %}
-        <a href="/en.html">Ah Ouh Puc in English</a>
-      {% else %}
-        <a href="/fr.html">Ah Ouh Puc en français</a>
-      {% endif %}
-    </footer>
   </body>
 </html>
