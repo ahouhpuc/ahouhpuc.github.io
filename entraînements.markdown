@@ -25,8 +25,8 @@ En cours d'année, les entraînements sont réservés aux joueurs qui ont été 
   </tr>
   <tr>
     <td>Mardi 20h30</td>
-    <td>Rookies</td>
-    <td>Rookies</td>
+    <td>Débutants</td>
+    <td>Débutants</td>
   </tr>
   <tr>
     <td>Mercredi 20h30</td>
