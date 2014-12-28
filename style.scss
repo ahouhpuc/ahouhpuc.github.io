@@ -238,18 +238,6 @@ tr:first-child {
   font-weight: bold;
 }
 
-.home.fb-like-box {
-  margin: 2rem auto;
-}
-
-.home.fb-like-box,
-.home.fb-like-box span,
-.home.fb-like-box iframe {
-  // width/min-width hack is for iOS
-  width: 100px !important;
-  min-width: 100% !important;
-}
-
 #summer-love-fb {
   width: 300px;
   height: 70px;
@@ -313,6 +301,41 @@ form {
     font-weight: bold;
     padding: 0.7rem 1rem;
     margin-top: 1rem;
+  }
+
+}
+
+.news {
+
+  .created_at {
+    margin: 0;
+  }
+
+  .created_at a {
+    font-size: 90%;
+    font-weight: bold;
+    color: $primary-color;
+    text-decoration: none;
+  }
+
+	.created_at a:hover {
+		text-decoration: underline;
+	}
+
+  .message {
+    margin: 0.5rem 0;
+    white-space: pre-wrap;
+  }
+
+  article {
+    font-size: 90%;
+    margin-bottom: 3rem;
+  }
+
+  article img {
+    max-width: 60%;
+    margin: 0 auto;
+    display: block;
   }
 
 }

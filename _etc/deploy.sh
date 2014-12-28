@@ -20,9 +20,9 @@ rm _site.tgz
 EOF
 rm _site.tgz
 
-scp _etc/server.go martin@37.59.112.124:ahouhpuc/
+scp _etc/*.go martin@37.59.112.124:ahouhpuc/
 ssh -T martin@37.59.112.124 <<EOF
-go build -o ahouhpuc/server ahouhpuc/server.go
+go build -o ahouhpuc/server ahouhpuc/*.go
 EOF
 
 scp _etc/nginx.conf root@37.59.112.124:/etc/nginx/sites-enabled/ahouhpuc.conf
