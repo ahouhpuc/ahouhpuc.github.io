@@ -62,12 +62,11 @@ func checkConfiguration() {
 }
 
 func handleFunc(pattern string, handler func(http.ResponseWriter, *http.Request)) {
-	if port == "80" || port == "443" {
+	if port == ":80" || port == ":443" {
 		pattern = host + pattern
 	} else {
 		pattern = host + port + pattern
 	}
-	log.Println(pattern)
 	http.HandleFunc(pattern, handler)
 }
 

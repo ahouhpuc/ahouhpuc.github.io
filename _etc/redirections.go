@@ -16,7 +16,7 @@ func handleGoogleSiteVerification() {
 func handleRootHost() {
 	if rootHost := strings.TrimPrefix(host, "www."); rootHost != host {
 		pattern := rootHost + port + "/"
-		if port == "80" || port == "443" {
+		if port == ":80" || port == ":443" {
 			pattern = rootHost + "/"
 		}
 		http.HandleFunc(pattern, func(w http.ResponseWriter, r *http.Request) {
