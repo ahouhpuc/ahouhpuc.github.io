@@ -67,6 +67,7 @@ func handleFunc(pattern string, handler func(http.ResponseWriter, *http.Request)
 	} else {
 		pattern = host + port + pattern
 	}
+	log.Println(pattern)
 	http.HandleFunc(pattern, handler)
 }
 
