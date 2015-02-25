@@ -5,7 +5,6 @@ BUILD_SHA=`git rev-parse HEAD`
 git archive --format=tar HEAD | (cd $BUILD_DIR && tar xf -)
 cd $BUILD_DIR
 jekyll build
-# _etc/validate.sh
 gnutar czf _site.tgz _site/
 scp _site.tgz martin@37.59.112.124:ahouhpuc/
 ssh -T martin@37.59.112.124 <<EOF
@@ -23,14 +22,12 @@ rm _site.tgz
 scp _etc/*.go martin@37.59.112.124:ahouhpuc/
 ssh -T martin@37.59.112.124 <<EOF
 go build -o ahouhpuc/server ahouhpuc/*.go
+rm ahouhpuc/*.go
 EOF
 
-scp _etc/nginx.conf root@37.59.112.124:/etc/nginx/sites-enabled/ahouhpuc.conf
-
 ssh -T root@37.59.112.124 <<EOF
-/etc/init.d/nginx restart
+setcap cap_net_bind_service=+ep /home/martin/ahouhpuc/server
 /etc/init.d/ahouhpuc restart
 sleep 1
-/etc/init.d/nginx status
 /etc/init.d/ahouhpuc status
 EOF
