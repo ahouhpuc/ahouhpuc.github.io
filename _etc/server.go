@@ -9,8 +9,9 @@ import (
 
 var host = os.Getenv("AOP_HOST")
 var port = ":" + os.Getenv("AOP_PORT")
+var staticDir = os.Getenv("AOP_STATIC_DIR")
 
-var fileServer = GzipFileServer(http.FileServer(http.Dir("_site")))
+var fileServer = GzipFileServer(http.FileServer(http.Dir(staticDir)))
 
 func indexHandler(w http.ResponseWriter, r *http.Request) {
 	urlPath := r.URL.Path
@@ -53,6 +54,10 @@ func checkConfiguration() {
 
 	if len(port) < 2 {
 		panic("AOP_PORT environment variable is required.")
+	}
+
+	if len(staticDir) == 0 {
+		panic("AOP_STATIC_DIR environment variable is required.")
 	}
 }
 
