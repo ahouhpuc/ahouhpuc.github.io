@@ -169,7 +169,7 @@ func (page *Page) cache() {
 func facebookHandler(w http.ResponseWriter, r *http.Request) {
 	aop.cache()
 
-	t, err := template.ParseFiles("_site/fr.html", "_site/facebook.html")
+	t, err := template.ParseFiles(path.Join(staticDir, "fr.html"), path.Join(staticDir, "facebook.html"))
 
 	if err != nil {
 		panic(err)
