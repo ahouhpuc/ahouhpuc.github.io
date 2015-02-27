@@ -73,6 +73,7 @@ func handleFunc(pattern string, handler func(http.ResponseWriter, *http.Request)
 
 func main() {
 	checkConfiguration()
+	setupFacebook()
 
 	handleRedirections()
 	handleFunc("/send_message", mailHandler)

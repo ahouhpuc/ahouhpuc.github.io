@@ -16,6 +16,7 @@ import (
 var facebookAccessToken = os.Getenv("AOP_FACEBOOK_ACCESS_TOKEN")
 
 var aop Page
+var facebookTemplate *template.Template
 
 type JsonTime time.Time
 
@@ -40,8 +41,7 @@ type Post struct {
 }
 
 type Page struct {
-	Posts    []Post    `json:"data"`
-	cachedAt time.Time `json:"-"`
+	Posts []Post `json:"data"`
 }
 
 func (page Page) url() string {
@@ -139,44 +139,51 @@ func get(url string) []byte {
 	return body
 }
 
-func (page *Page) cache() {
-	if page.cachedAt.Add(time.Hour).Before(time.Now()) {
-		fetch(page)
+func NewPage() *Page {
+	page := &Page{}
 
-		ch := make(chan Photo)
-		n := 0
+	fetch(page)
 
-		for i := range page.Posts {
-			post := &page.Posts[i]
-			if post.Type == "photo" {
-				go func(p *Post) {
-					post.Photo = Photo{Id: post.ObjectId}
-					fetch(&(post.Photo))
-					ch <- p.Photo
-				}(post)
-				n += 1
-			}
+	ch := make(chan Photo)
+	n := 0
+
+	for i := range page.Posts {
+		post := &page.Posts[i]
+		if post.Type == "photo" {
+			go func(p *Post) {
+				post.Photo = Photo{Id: post.ObjectId}
+				fetch(&(post.Photo))
+				ch <- p.Photo
+			}(post)
+			n += 1
 		}
-
-		for i := 0; i < n; i++ {
-			<-ch
-		}
-
-		page.cachedAt = time.Now()
 	}
+
+	for i := 0; i < n; i++ {
+		<-ch
+	}
+
+	return page
 }
 
-func facebookHandler(w http.ResponseWriter, r *http.Request) {
-	aop.cache()
-
-	t, err := template.ParseFiles(path.Join(staticDir, "fr.html"), path.Join(staticDir, "facebook.html"))
-
+func setupFacebook() {
+	var err error
+	facebookTemplate, err = template.ParseFiles(path.Join(staticDir, "fr.html"), path.Join(staticDir, "facebook.html"))
 	if err != nil {
 		panic(err)
 	}
 
-	err = t.Execute(w, aop)
+	go func() {
+		aop = *NewPage()
+		c := time.Tick(1 * time.Hour)
+		for range c {
+			aop = *NewPage()
+		}
+	}()
+}
 
+func facebookHandler(w http.ResponseWriter, r *http.Request) {
+	err := facebookTemplate.Execute(w, aop)
 	if err != nil {
 		panic(err)
 	}
