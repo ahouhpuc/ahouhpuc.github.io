@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"html/template"
 	"io/ioutil"
+	"log"
 	"net/http"
 	"net/url"
 	"os"
@@ -140,6 +141,8 @@ func get(url string) []byte {
 }
 
 func NewPage() *Page {
+	log.Println("NewPage() called")
+
 	page := &Page{}
 
 	fetch(page)
