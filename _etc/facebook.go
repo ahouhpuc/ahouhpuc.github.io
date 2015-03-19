@@ -77,7 +77,7 @@ func (photo *Photo) Data() []byte {
 	return photo.cacheData
 }
 
-func (t JsonTime) String() string {
+func (t JsonTime) HumanString() string {
 	r := strings.NewReplacer(
 		"January",
 		"janvier",
@@ -106,6 +106,10 @@ func (t JsonTime) String() string {
 	)
 
 	return r.Replace(time.Time(t).Format("2 January à 15:04"))
+}
+
+func (t JsonTime) RFC3339String() string {
+	return time.Time(t).Format(time.RFC3339)
 }
 
 func (t *JsonTime) UnmarshalJSON(data []byte) (err error) {

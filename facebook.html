@@ -4,10 +4,14 @@
     {{range .Posts}}
       {{if eq .Type "status" "photo" "link"}}
         {{if or (ne .Message "") (ne .Description "")}}
-          <article>
-            <p class="created_at"><a href="https://www.facebook.com/{{or .ObjectId .Id}}">{{.CreatedTime.String}}</a></p>
-            <p class="message">{{or .Message .Description}}{{if eq .Type "link"}} <a class="external-link" href="{{.Link}}">➔</a>{{end}}</p>
-            {{if eq .Type "photo"}}<img src="{{.Photo.CacheUrl}}">{{end}}
+          <article itemscope itemtype="http://schema.org/BlogPosting">
+            <p class="created_at">
+              <a href="https://www.facebook.com/{{or .ObjectId .Id}}">
+                <time itemprop="datePublished" datetime="{{.CreatedTime.RFC3339String}}">{{.CreatedTime.HumanString}}</time>
+              </a>
+            </p>
+            <p class="message" itemprop="articleBody">{{or .Message .Description}}{{if eq .Type "link"}} <a class="external-link" href="{{.Link}}">➔</a>{{end}}</p>
+            {{if eq .Type "photo"}}<img src="{{.Photo.CacheUrl}}" itemprop="image">{{end}}
           </article>
         {{end}}
       {{end}}
