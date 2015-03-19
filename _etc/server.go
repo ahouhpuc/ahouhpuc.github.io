@@ -61,13 +61,38 @@ func checkConfiguration() {
 	}
 }
 
+type logHandler struct {
+	http.Handler
+}
+
+type logResponseWriter struct {
+	status int
+	http.ResponseWriter
+}
+
+func (w *logResponseWriter) WriteHeader(status int) {
+	w.status = status
+	w.ResponseWriter.WriteHeader(status)
+}
+
+func (lh *logHandler) ServeHTTP(w http.ResponseWriter, r *http.Request) {
+	lw := &logResponseWriter{ResponseWriter: w}
+
+	lh.Handler.ServeHTTP(lw, r)
+
+	status := lw.status
+	if status == 0 {
+		status = http.StatusOK
+	}
+	log.Println(r.RemoteAddr, status, r.Method, r.RequestURI, r.Proto, r.Header.Get("User-Agent"))
+}
+
 func handleFunc(pattern string, handler func(http.ResponseWriter, *http.Request)) {
 	if port == ":80" || port == ":443" {
 		pattern = host + pattern
 	} else {
 		pattern = host + port + pattern
 	}
-	log.Println(pattern)
 	http.HandleFunc(pattern, handler)
 }
 
@@ -82,7 +107,7 @@ func main() {
 	handleFunc("/", indexHandler)
 
 	log.Printf("Server %v started…\n", host+port)
-	err := http.ListenAndServe(port, nil)
+	err := http.ListenAndServe(port, &logHandler{http.DefaultServeMux})
 	if err != nil {
 		panic(err)
 	}
