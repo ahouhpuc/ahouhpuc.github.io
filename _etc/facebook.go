@@ -35,8 +35,10 @@ type Post struct {
 	Id          string
 	CreatedTime JsonTime `json:"created_time"`
 	Message     string
+	Description string
 	ObjectId    string `json:"object_id"`
 	Type        string
+	Link        string
 	Photo       Photo
 }
 
