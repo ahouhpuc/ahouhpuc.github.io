@@ -15,23 +15,23 @@ En cours d'année, les entraînements sont réservés aux joueurs qui ont été 
 <table>
   <tr>
     <td></td>
-    <td>Novembre à Mai</td>
-    <td>Juin à Octobre</td>
+    <td>Entraînement 1</td>
+    <td>Entraînement 2</td>
   </tr>
   <tr>
     <td>Lundi 20h30</td>
-    <td>Féminin et Open</td>
-    <td>Coed</td>
+    <td>Coed 1</td>
+    <td>Open 2 et 3</td>
   </tr>
   <tr>
     <td>Mardi 20h30</td>
-    <td>Débutants</td>
-    <td>Débutants</td>
+    <td>Coed 2</td>
+    <td>Loisirs et débutants</td>
   </tr>
   <tr>
     <td>Mercredi 20h30</td>
-    <td>Féminin et Open</td>
-    <td>Coed</td>
+    <td>Féminin</td>
+    <td>Open 1</td>
   </tr>
 </table>
 

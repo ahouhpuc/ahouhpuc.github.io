@@ -17,23 +17,23 @@ During the rest of the year however practices are restricted to team members onl
 <table>
   <tr>
     <td></td>
-    <td>November — May</td>
-    <td>June — October</td>
+    <td>Practice 1</td>
+    <td>Practice 2</td>
   </tr>
   <tr>
     <td>Monday 8:30 pm</td>
-    <td>Women and Open</td>
-    <td>Coed</td>
+    <td>Coed 1</td>
+    <td>Open 2 and 3</td>
   </tr>
   <tr>
     <td>Tuesday 8:30 pm</td>
-    <td>Rookies</td>
+    <td>Coed 2</td>
     <td>Rookies</td>
   </tr>
   <tr>
     <td>Wednesday 8:30 pm</td>
-    <td>Women and Open</td>
-    <td>Coed</td>
+    <td>Women</td>
+    <td>Open 1</td>
   </tr>
 </table>
 
