@@ -15,6 +15,10 @@ La Summer Love est annoncée chaque année sur notre page Facebook :
 
 <div id="summer-love-fb"><div class="fb-like-box" data-href="https://www.facebook.com/ahouhpuc" data-colorscheme="light" data-show-faces="false" data-header="false" data-stream="false" data-show-border="false"></div></div>
 
+## Édition 2015 : Far West
+
+C'est dans une très chaude ambiance que la Summer Love 2015 s’est déroulée ! Les tribus autochtones et les Cow-boys du grand ouest ont réécrit l'histoire en s'échangeant de joyeux tirs de disques. Magnanime, le saloon du Fleurus aura su réconcilier ce petit monde autour de jolis calumets de la paix "maison". 
+
 ## Édition 2014 : Candy
 
 Pour l'été 2014, la Summer Love s'est déplacée au Stage Georges Carpentier pour accueillir pluuuuuus de joueurs sur 4 terrains ! En plus de faire une overdose de bonbons, des réductions spéciales Summer Love t'attendent au QG du Ah Ouh Puc, le <a href="http://www.lefleurus.com/" target="_blank">Fleurus</a>.
