@@ -1,4 +1,4 @@
-#!/bin/bash -e
+#!/bin/bash -xe
 
 BUILD_DIR=`mktemp -d -t ahouhpuc`
 BUILD_SHA=`git rev-parse HEAD`
@@ -20,7 +20,7 @@ EOF
 rm _site.tgz
 
 rm -f _etc/server
-GOOS=linux GOARCH=amd64 go build -o _etc/server _etc/*.go
+GOPATH=$(pwd)/_etc GOOS=linux GOARCH=amd64 go build -o _etc/server _etc/*.go
 ssh -T root@37.59.112.124 <<EOF
 /etc/init.d/ahouhpuc stop
 EOF

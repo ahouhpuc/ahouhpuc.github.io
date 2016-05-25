@@ -1,9 +1,11 @@
 package main
 
 import (
+	"crypto/tls"
 	"log"
 	"net/http"
 	"os"
+	"rsc.io/letsencrypt"
 	"strings"
 )
 
@@ -76,8 +78,9 @@ func (w *logResponseWriter) WriteHeader(status int) {
 }
 
 func (lh *logHandler) ServeHTTP(w http.ResponseWriter, r *http.Request) {
-	lw := &logResponseWriter{ResponseWriter: w}
+	w.Header().Add("Strict-Transport-Security", "max-age=63072000")
 
+	lw := &logResponseWriter{ResponseWriter: w}
 	lh.Handler.ServeHTTP(lw, r)
 
 	status := lw.status
@@ -106,8 +109,22 @@ func main() {
 	handleFunc("/photo/", photoHandler)
 	handleFunc("/", indexHandler)
 
-	log.Printf("Server %v started…\n", host+port)
-	err := http.ListenAndServe(port, &logHandler{http.DefaultServeMux})
+	log.Printf("Server %v starting…\n", host+port)
+
+	var m letsencrypt.Manager
+	err := m.CacheFile("/home/martin/ahouhpuc/letsencrypt.cache")
+	if err != nil {
+		panic(err)
+	}
+
+	go http.ListenAndServe("", http.HandlerFunc(httpsRedirect))
+
+	server := &http.Server{
+		Addr:      port,
+		Handler:   &logHandler{http.DefaultServeMux},
+		TLSConfig: &tls.Config{GetCertificate: m.GetCertificate},
+	}
+	err = server.ListenAndServeTLS("", "")
 	if err != nil {
 		panic(err)
 	}

@@ -52,6 +52,13 @@ func legacyHandler(w http.ResponseWriter, r *http.Request) {
 	http.Redirect(w, r, "/", http.StatusMovedPermanently)
 }
 
+func httpsRedirect(w http.ResponseWriter, r *http.Request) {
+	url := *r.URL
+	url.Host = host
+	url.Scheme = "https"
+	http.Redirect(w, r, url.String(), http.StatusMovedPermanently)
+}
+
 func handleRedirections() {
 
 	// http://ahouhpuc.fr/google6fc913931bb74ee6.html
