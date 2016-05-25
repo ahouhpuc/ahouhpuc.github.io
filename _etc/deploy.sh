@@ -19,15 +19,18 @@ rm _site.tgz
 EOF
 rm _site.tgz
 
-scp _etc/*.go martin@37.59.112.124:ahouhpuc/
-ssh -T martin@37.59.112.124 <<EOF
-go build -o ahouhpuc/server ahouhpuc/*.go
-rm ahouhpuc/*.go
+rm -f _etc/server
+GOOS=linux GOARCH=amd64 go build -o _etc/server _etc/*.go
+ssh -T root@37.59.112.124 <<EOF
+/etc/init.d/ahouhpuc stop
 EOF
+sleep 1
+scp _etc/server martin@37.59.112.124:ahouhpuc/server
+rm _etc/server
 
 ssh -T root@37.59.112.124 <<EOF
 setcap cap_net_bind_service=+ep /home/martin/ahouhpuc/server
-/etc/init.d/ahouhpuc restart
+/etc/init.d/ahouhpuc start
 sleep 1
 /etc/init.d/ahouhpuc status
 EOF
