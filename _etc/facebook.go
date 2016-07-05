@@ -26,7 +26,7 @@ type FacebookObject interface {
 
 type Photo struct {
 	Id        string
-	Source    string
+	Images    []struct{ Source string }
 	cacheUrl  string `json:"-"`
 	cacheData []byte `json:"-"`
 }
@@ -47,7 +47,7 @@ type Page struct {
 }
 
 func (page Page) url() string {
-	return "ahouhpuc/posts"
+	return "v2.6/ahouhpuc/posts?fields=id,created_time,message,description,object_id,type,link"
 }
 
 func (post Post) url() string {
@@ -55,12 +55,12 @@ func (post Post) url() string {
 }
 
 func (photo Photo) url() string {
-	return photo.Id
+	return fmt.Sprintf("v2.6/%s?fields=id,images", photo.Id)
 }
 
 func (photo *Photo) CacheUrl() string {
 	if photo.cacheUrl == "" {
-		u, err := url.Parse(photo.Source)
+		u, err := url.Parse(photo.Images[0].Source)
 		if err == nil {
 			photo.cacheUrl = fmt.Sprintf("/photo/%s%s", photo.Id, path.Ext(u.Path))
 		}
@@ -71,7 +71,7 @@ func (photo *Photo) CacheUrl() string {
 
 func (photo *Photo) Data() []byte {
 	if len(photo.cacheData) == 0 {
-		photo.cacheData = get(photo.Source)
+		photo.cacheData = get(photo.Images[0].Source)
 	}
 
 	return photo.cacheData
@@ -120,7 +120,7 @@ func (t *JsonTime) UnmarshalJSON(data []byte) (err error) {
 
 func fetch(object FacebookObject) {
 	body := get(fmt.Sprintf(
-		"https://graph.facebook.com/%s?access_token=%s",
+		"https://graph.facebook.com/%s&access_token=%s",
 		object.url(),
 		facebookAccessToken,
 	))
