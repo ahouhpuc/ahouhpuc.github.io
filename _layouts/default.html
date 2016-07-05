@@ -38,12 +38,15 @@
       });
     </script>
     <nav>
-      {% if page.lang == "fr" %}
-        <a href="/fr.html">
-      {% else %}
-        <a href="/en.html">
-      {% endif %}
-      <img id="logo" src="ahouhpuc-logo.svg" alt="Ah Ouh Puc Paris Ultimate"></a>
+      <h1>
+        {% if page.lang == "fr" %}
+          <a href="/fr.html">
+        {% else %}
+          <a href="/en.html">
+        {% endif %}
+        <img id="logo" src="ahouhpuc-logo.svg" alt="Ah Ouh Puc Paris Ultimate"></a>
+        paris ultimate frisbee
+      </h1>
       {% if page.lang == "fr" %}
         <a class="flag" href="en.html" title="Ah Ouh Puc in English"><img src="en.png" alt="Ah Ouh Puc in English"></a>
       {% else %}

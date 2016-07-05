@@ -10,7 +10,7 @@ $primary-color: #7b399c;
 
   nav {
 
-    #logo {
+    h1 {
       margin-left: 1rem;
     }
 
@@ -55,7 +55,7 @@ $primary-color: #7b399c;
 
   nav {
 
-    #logo {
+    h1 {
       margin-left: 0.7rem;
     }
 
@@ -130,9 +130,20 @@ nav {
 
   position: relative;
   font-weight: bold;
-  text-transform: uppercase;
   margin: 0 auto;
   font-size: 87%;
+
+  h1 {
+
+    font-size: 0.7rem;
+    color: $primary-color;
+
+    a {
+      display: block;
+      margin-bottom: -1rem;
+    }
+
+  }
 
   #logo {
     margin-top: 1rem;
@@ -144,6 +155,7 @@ nav {
   }
 
   ul {
+    text-transform: uppercase;
     margin: 0;
     padding: 0;
     top: 4.5rem;
@@ -197,7 +209,7 @@ nav {
 #storyline {
   font-size: 120%;
 
-  h1 {
+  h2 {
     display: inline;
     font-weight: normal;
     font-size: 100%;
