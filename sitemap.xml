@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.ahouhpuc.fr/</loc>
-    <xhtml:link rel="alternate" href="https://www.ahouhpuc.fr/" hreflang="x-default" />
-    <xhtml:link rel="alternate" href="https://www.ahouhpuc.fr/fr.html" hreflang="fr" />
-    <xhtml:link rel="alternate" href="https://www.ahouhpuc.fr/en.html" hreflang="en" />
-  </url>
-  <url>
     <loc>https://www.ahouhpuc.fr/fr.html</loc>
     <xhtml:link rel="alternate" href="https://www.ahouhpuc.fr/" hreflang="x-default" />
     <xhtml:link rel="alternate" href="https://www.ahouhpuc.fr/fr.html" hreflang="fr" />
