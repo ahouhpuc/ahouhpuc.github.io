@@ -22,13 +22,13 @@ During the rest of the year however practices are restricted to team members onl
   </tr>
   <tr>
     <td>Monday 8:30 pm</td>
-    <td>Women</td>
-    <td>Open 1 and 2</td>
+    <td>Coed 1</td>
+    <td>Open 2 and 3</td>
   </tr>
   <tr>
     <td>Tuesday 8:30 pm</td>
-    <td>Open 3</td>
-    <td>Open 4 and Rookies</td>
+    <td>Coed 2</td>
+    <td>Rookies</td>
   </tr>
   <tr>
     <td>Wednesday 8:30 pm</td>
