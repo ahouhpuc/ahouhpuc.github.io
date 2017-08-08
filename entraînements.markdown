@@ -20,18 +20,16 @@ En cours d'année, les entraînements sont réservés aux joueurs qui ont été 
   </tr>
   <tr>
     <td>Lundi 20h30</td>
-    <td>Coed 1</td>
-    <td>Open 2 et 3</td>
+    <td colspan="2">Coed</td>
   </tr>
   <tr>
     <td>Mardi 20h30</td>
-    <td>Coed 2</td>
-    <td>Débutants</td>
+    <td colspan="2">Débutants</td>
   </tr>
   <tr>
     <td>Mercredi 20h30</td>
     <td>Féminin</td>
-    <td>Open 1</td>
+    <td>Open</td>
   </tr>
 </table>
 
