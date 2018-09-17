@@ -1,8 +1,6 @@
 ---
 title: Entraînements Ultimate Ah Ouh Puc
-description: Les entraînements d'Ultimate du Ah Ouh Puc ont lieu toute l'année
-sans interruption au stade Charlety et au stade ouest de la cité universitaire
-dans le sud de Paris.
+description: Les entraînements d'Ultimate du Ah Ouh Puc ont lieu toute l'année sans interruption au stade Charlety et au stade ouest de la cité universitaire dans le sud de Paris.
 cover:
   src: charlety.jpg
   title: Stade Charlety
