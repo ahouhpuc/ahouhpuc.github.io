@@ -20,9 +20,10 @@ EOF
 rm _site.tgz
 
 rm -f _etc/server
-GOPATH=$(pwd)/_etc GOOS=linux GOARCH=amd64 go build -o _etc/server _etc/*.go
+cd _etc && GOOS=linux GOARCH=amd64 go build -o server
+cd ..
 ssh -T root@37.59.112.124 <<EOF
-/etc/init.d/ahouhpuc stop
+systemctl stop ahouhpuc.service
 EOF
 sleep 1
 scp _etc/server martin@37.59.112.124:ahouhpuc/server
@@ -30,7 +31,7 @@ rm _etc/server
 
 ssh -T root@37.59.112.124 <<EOF
 setcap cap_net_bind_service=+ep /home/martin/ahouhpuc/server
-/etc/init.d/ahouhpuc start
+systemctl start ahouhpuc.service
 sleep 1
-/etc/init.d/ahouhpuc status
+systemctl status ahouhpuc.service
 EOF
