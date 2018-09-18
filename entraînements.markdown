@@ -39,7 +39,7 @@ Si tu veux nous rejoindre, nous t'invitons à nous contacter par email !
   </tr>
 </table>
 
-### à partir du 29 octobre 2018
+### À partir du 29 octobre 2018
 
 <table>
   <tr>
@@ -72,18 +72,15 @@ Si tu veux nous rejoindre, nous t'invitons à nous contacter par email !
 
 ## Où&nbsp;?
 
-<p itemscope itemtype="http://schema.org/StadiumOrArena">Les entraînements du lundi et du mardi ont lieu sur le terrain synthétique annexe du <span itemprop="name">Stade Charlety</span>, <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress"><span itemprop="streetAddress">17 avenue Pierre de Coubertin</span>, <span itemprop="postalCode">75013</span> <span itemprop="addressLocality">Paris</span></span>. </p>
+* Les entraînements du lundi et du mardi ont lieu sur le terrain synthétique annexe du Stade Charlety, 17 avenue Pierre de Coubertin, 75013 Paris.
 
+<iframe class="charlety" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2627.0851737938037!2d2.34429935!3d48.818436299999995!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e6719e53149097%3A0x1d31aa0c9b73fd5!2s17+Avenue+Pierre+de+Coubertin!5e0!3m2!1sen!2s!4v1395597209687"></iframe>
 
-<iframe id="charlety" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2627.0851737938037!2d2.34429935!3d48.818436299999995!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e6719e53149097%3A0x1d31aa0c9b73fd5!2s17+Avenue+Pierre+de+Coubertin!5e0!3m2!1sen!2s!4v1395597209687"></iframe>
-
-<p itemscope itemtype="http://schema.org/StadiumOrArena">Les entraînements du
-jeudi ont lieu sur le terrain stade ouest de la cité universitaire. L'accès se
-fait par l'avenue André Rivoire.
+* Les entraînements du jeudi ont lieu sur le terrain stade ouest de la cité universitaire. L'accès se fait par l'avenue André Rivoire.
 </p>
 
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1313.511257225524!2d2.3299169582910815!3d48.81963186087285!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e671a63b6a4c6f%3A0xd5ab8a3826c34384!2sStade+Ouest+CIUP!5e0!3m2!1sfr!2sfr!4v1537263743348" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe class="charlety" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1313.511257225524!2d2.3299169582910815!3d48.81963186087285!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e671a63b6a4c6f%3A0xd5ab8a3826c34384!2sStade+Ouest+CIUP!5e0!3m2!1sfr!2sfr!4v1537263743348"></iframe>
 
 
 <p>Pour venir en transports en commun :</p>
