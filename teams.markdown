@@ -18,8 +18,8 @@ The Open 1 team plays in division 1 and fights year after year to stay on top le
 
 Whether you’re a beginner or a more experienced player, there is a team for
 you!
-Our Open 2 team plays in ``Nationale 3'' but aim to climb into division 2, level that had been reached in 2014 season.
-Our Open 3  team plays in ``Regional'', progresses years after years and aims to reach National level in a few years.
+Our Open 2 team plays in *Nationale 3* but aim to climb into division 2, level that had been reached in 2014 season.
+Our Open 3  team plays in *Regional*, progresses years after years and aims to reach National level in a few years.
 
 ### Rookies (Open 4)
 
