@@ -9,40 +9,38 @@ cover:
   title: Summer Love
 ---
 
-La Summer Love est une compétition hat que nous organisons tous les étés. Les équipes s'affrontent chaque mercredi soir des mois de juillet et août. À l'inscription, tu nous donnes tes disponibilités en fonction de tes vacances et ton niveau, et les équipes sont faîtes en conséquence.
+The Summer Love is a hat competition we organyze each summers.
+Teams compete each Thursday during July and August. 
 
-La Summer Love est annoncée chaque année sur notre page Facebook :
+
+It is announced each years on our Facebook page:
 
 <div id="summer-love-fb"><div class="fb-like-box" data-href="https://www.facebook.com/ahouhpuc" data-colorscheme="light" data-show-faces="false" data-header="false" data-stream="false" data-show-border="false"></div></div>
 
-## Édition 2015 : Far West
+## 2018 : Summer of Love
 
-C'est dans une très chaude ambiance que la Summer Love 2015 s’est déroulée ! Les tribus autochtones et les Cow-boys du grand ouest ont réécrit l'histoire en s'échangeant de joyeux tirs de disques. Magnanime, le saloon du Fleurus aura su réconcilier ce petit monde autour de jolis calumets de la paix "maison". 
+## 2017 : SuMEUHlove 
 
-## Édition 2014 : Candy
+## 2016 : Back to the Summer
 
-Pour l'été 2014, la Summer Love s'est déplacée au Stage Georges Carpentier pour accueillir pluuuuuus de joueurs sur 4 terrains ! En plus de faire une overdose de bonbons, des réductions spéciales Summer Love t'attendent au QG du Ah Ouh Puc, le <a href="http://www.lefleurus.com/" target="_blank">Fleurus</a>.
+## 2015: Far West
 
-## Édition 2013 : Video Games
 
-L'été 2013 a de nouveau accueilli la Summer Love au stade de la Poterne des Peupliers, avec cette année, à l'honneur les jeux videos pixelisés ou lissés d'une HD impeccable !
+## 2014: Candy
 
-## Édition 2012 : TV Series
 
-Pendant tout l'été 2012, la cinquième Summer Love s'est déroulée chaque mercredi soir au Stade de la Poterne des Peupliers, avec 6 équipes aux noms tirés des séries télévisées d'hier et d'aujourd'hui !
+## 2013: Video Games
 
-## Édition 2011 : Boys & Girls Bands
 
-En juillet et août 2011, la quatrième Summer Love s'est déroulée chaque mercredi soir au Stade de la Poterne des Peupliers, avec 6 équipes aux noms inspirés des meilleurs boys bands et girls bands des années 1990 !
+## 2012: TV Series
 
-## Édition 2010 : Super-Héros
+## 2011: Boys & Girls Bands
 
-La troisième Summer Love s'est déroulée chaque mercredi soir au Stade Charléty et à la Poterne des Peupliers, avec 6 équipes aux noms inspirés des super-héros de notre enfance…
+## 2010: Super-Héros
 
-## Édition 2009 : Cocktail
 
-En juillet et août 2009, nous organisons la deuxième édition de la Summerlove ! Tous les mercredi soir à partir de 19h30, 6 équipes aux noms inspirés des meilleurs cocktails se retrouvent à Charléty.
+## 2009: Cocktail
 
-## Édition 2008 : Summer Love
 
-En juillet et août 2008, nous avons organisé la première Paris Midsummer Night League ! Tous les mardis soirs, 6 équipes hat de joueurs et joueuses de toute la France se sont affrontées à Charléty. Le nom Summer Love s'est vite imposé après cette première édition.
+## 2008: Summer Love
+

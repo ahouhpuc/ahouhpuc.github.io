@@ -14,13 +14,23 @@ La Summer Love est annoncée chaque année sur notre page Facebook :
 
 <div id="summer-love-fb"><div class="fb-like-box" data-href="https://www.facebook.com/ahouhpuc" data-colorscheme="light" data-show-faces="false" data-header="false" data-stream="false" data-show-border="false"></div></div>
 
+## Édition 2018 : Summer of Love
+Alors que Mai 68 a 50 ans, la SummerLove fête ses 10 ans ! Dix années d'amour estival, que vous ayez l'âme d'un étudiant manifestant expert du scoober de parpaing, d'un hippie adepte du pick câlin ou d'un astronaute pouvant sky jusqu'à la Lune, bienvenus pour ce voyage dans les sixties ! 
+
+## Édition 2017 : SuMEUHlove 
+Cette année, la SummerLove te transporte chez LES ANIMAUX DE LA FERME !!!!
+Mieux que Chirac caressant les vaches, mieux que Karine Lemarchand caressant les éleveurs, le PUC te donne de l'été, de l'amour <3 et du disque tous les jeudis soirs à 19H, à la halle Carpentier !
+
+## Édition 2016 : Back to the Summer
+Le comité organisateur est au regret de vous informer que cette 9ème édition de la SummerLove sera perturbée par une faille spatio-temporelle d'une ampleur sans précédent ! Celle-ci frappera, d'après notre expert l'illustre Dr Emmett Brown, aux alentours du stade Carpentier, approximativement tous les mardis à 19h30 (c'est pas de pot nom de Zeus !). Attendez-vous donc à voir s'affronter sur les terrains les plus féroces guerriers sortis tout droit des pages des manuels d'Histoire.
+
 ## Édition 2015 : Far West
 
 C'est dans une très chaude ambiance que la Summer Love 2015 s’est déroulée ! Les tribus autochtones et les Cow-boys du grand ouest ont réécrit l'histoire en s'échangeant de joyeux tirs de disques. Magnanime, le saloon du Fleurus aura su réconcilier ce petit monde autour de jolis calumets de la paix "maison". 
 
 ## Édition 2014 : Candy
 
-Pour l'été 2014, la Summer Love s'est déplacée au Stage Georges Carpentier pour accueillir pluuuuuus de joueurs sur 4 terrains ! En plus de faire une overdose de bonbons, des réductions spéciales Summer Love t'attendent au QG du Ah Ouh Puc, le <a href="http://www.lefleurus.com/" target="_blank">Fleurus</a>.
+Pour l'été 2014, la Summer Love s'est déplacée au Stage Georges Carpentier pour accueillir pluuuuuus de joueurs sur 4 terrains ! En plus de faire une overdose de bonbons, des réductions spéciales Summer Love t'attendent au QG du Ah Ouh Puc, le <a href="https://www.facebook.com/Le-fleurus-171124089604067/" target="_blank">Fleurus</a>.
 
 ## Édition 2013 : Video Games
 

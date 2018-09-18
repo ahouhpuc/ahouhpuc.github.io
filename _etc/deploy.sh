@@ -1,11 +1,17 @@
 #!/bin/bash -xe
 
-BUILD_DIR=`mktemp -d -t ahouhpuc`
+BUILD_DIR=`mktemp -d -t ahouhpucXXX`
 BUILD_SHA=`git rev-parse HEAD`
-git archive --format=tar HEAD | (cd $BUILD_DIR && tar xf -)
+
+TAR="tar"
+if [ -x "$(command -v gnutar)" ]; then
+  TAR="gnutar"
+fi
+
+git archive --format=tar HEAD | (cd $BUILD_DIR && $TAR xf -)
 cd $BUILD_DIR
 jekyll build
-gnutar czf _site.tgz _site/
+$TAR czf _site.tgz _site/
 scp _site.tgz martin@37.59.112.124:ahouhpuc/
 ssh -T martin@37.59.112.124 <<EOF
 cd ahouhpuc
