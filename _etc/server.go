@@ -1,11 +1,10 @@
 package main
 
 import (
-	"crypto/tls"
+	"github.com/golang/crypto/acme/autocert"
 	"log"
 	"net/http"
 	"os"
-	"rsc.io/letsencrypt"
 	"strings"
 )
 
@@ -111,10 +110,10 @@ func main() {
 
 	log.Printf("Server %v starting…\n", host+port)
 
-	var m letsencrypt.Manager
-	err := m.CacheFile("/home/martin/ahouhpuc/letsencrypt.cache")
-	if err != nil {
-		panic(err)
+	m := &autocert.Manager{
+		Cache:      autocert.DirCache("/home/martin/ahouhpuc/autocert"),
+		Prompt:     autocert.AcceptTOS,
+		HostPolicy: autocert.HostWhitelist("ahouhpuc.fr", "www.ahouhpuc.fr"),
 	}
 
 	go http.ListenAndServe("", http.HandlerFunc(httpsRedirect))
@@ -122,9 +121,10 @@ func main() {
 	server := &http.Server{
 		Addr:      port,
 		Handler:   &logHandler{http.DefaultServeMux},
-		TLSConfig: &tls.Config{GetCertificate: m.GetCertificate},
+		TLSConfig: m.TLSConfig(),
 	}
-	err = server.ListenAndServeTLS("", "")
+
+	err := server.ListenAndServeTLS("", "")
 	if err != nil {
 		panic(err)
 	}
