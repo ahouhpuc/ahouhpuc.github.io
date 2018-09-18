@@ -35,6 +35,55 @@ During the rest of the year however practices are restricted to team members onl
   </tr>
 </table>
 
+### Until 2018 October 26
+
+<table>
+  <tr>
+    <td></td>
+    <td>Practice 1</td>
+    <td>Practice 2</td>
+  </tr>
+  <tr>
+    <td>Monday 20:30 at stade Charlety</td>
+    <td>Rookies</td>
+    <td>Open 2/3</td>
+  </tr>
+  <tr>
+    <td>Tuesday 20:30 at stade Charlety</td>
+    <td colspan="2">Mixed</td>
+  </tr>
+  <tr>
+    <td>Thursday 20h30 at stade ouest of cité universitaire</td>
+    <td>Women</td>
+    <td>Tryout Open 1</td>
+  </tr>
+</table>
+
+### à partir du 29 octobre 2018
+
+<table>
+  <tr>
+    <td></td>
+    <td>Practice 1</td>
+    <td>Practice 2</td>
+  </tr>
+  <tr>
+    <td>Monday 20:30 at stade Charlety</td>
+    <td>Rookies</td>
+    <td>Mixed 2</td>
+  </tr>
+  <tr>
+    <td>Tuesday 20:30 at stade Charlety</td>
+    <td>Mixed 1</td>
+    <td>Open 2/3</td>
+  </tr>
+  <tr>
+    <td>Jeudi 20h30 au stade ouest de la cité universitaire</td>
+    <td>Thursday 20h30 at stade ouest of cité universitaire</td>
+    <td>Women</td>
+    <td>Open 1</td>
+  </tr>
+</table>
 ## Information
 
 * Practice is never cancelled, whether it’s windy, raining or snowing. No being a pussy!
@@ -51,3 +100,6 @@ During the rest of the year however practices are restricted to team members onl
 * **Vélib'** : station located at 5 boulevard Jourdan
 
 <iframe id="charlety" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2627.0851737938037!2d2.34429935!3d48.818436299999995!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e6719e53149097%3A0x1d31aa0c9b73fd5!2s17+Avenue+Pierre+de+Coubertin!5e0!3m2!1sen!2s!4v1395597209687"></iframe>
+
+<p itemscope itemtype="http://schema.org/StadiumOrArena">Thursday's trainings take place at Stade Ouest of Cité Universitaire. The entrance is located at André Rivoire street.
+</p>
