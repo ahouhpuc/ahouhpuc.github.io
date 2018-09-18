@@ -43,8 +43,14 @@ Grâce à sa situation privilégiée dans Paris, Ah Ouh Puc attire un nombre cro
 
 En 2008, le club organise l'EUCF 08, les Championnats d'Europe des Clubs. L'événement rassemble plus de 400 joueurs et joueuses de 12 pays différents pendant trois jours sur sept terrains parisien. Les meilleures équipes européennes attirent plus de 1 500 personnes pour les grandes finales open et féminine, exceptionnellement disputées sur le terrain d'honneur du Stade Charléty.
 
-En 2009, Ah Ouh Puc représente la France aux Championnats d'Europe des clubs organisés à Londres (XEUCF 09) dans la catégorie mixte, et se classe 11<sup>ème</sup> sur 20. L'année suivante, l'expérience est renouvelée à l'échelon supérieur : aux Championnats du Monde des clubs de Prague (WUCC 2010), le club honore son seeding en terminant 25<sup>ème</sup> sur 40 (8<sup>ème</sup> équipe européenne), toujours en division mixte. Rebellote en 2013, l'équipe mixte participe eux EUCR&#8209;S&nbsp;X à Bergamme, puis aux XEUCF 2013 à Bordeaux, mais terminera malheureusement dernière de sa catégorie. Ces expériences extraordinaires ont marqué les joueuses et les joueurs qui y ont participé, et ont permis d'entretenir la tradition de rayonnement à l'étranger initiée il y a plus de vingt ans !
+En 2009, Ah Ouh Puc représente la France aux Championnats d'Europe des clubs organisés à Londres (XEUCF 09) dans la catégorie mixte, et se classe 11<sup>ème</sup> sur 20. L'année suivante, l'expérience est renouvelée à l'échelon supérieur : aux Championnats du Monde des clubs de Prague (WUCC 2010), le club honore son seeding en terminant 25<sup>ème</sup> sur 40 (8<sup>ème</sup> équipe européenne), toujours en division mixte. 
 
-Depuis 2008, le club organise tous les étés la Summer Love, une compétition hat qui se déroule pendant les mois de juillet et août. La Summer Love connait chanque année un succès grandissant, à tel point qu'en 2013 toutes les places se sont vendues en quelques heures !
+Rebellote en 2013, où l’équipe mixte se qualifie aux EUCR‑S X à Bergame pour participer aux XEUCF à Bordeaux, puis en 2016 avec une qualification aux  EUCR‑S X à  Stezzano et une participation aux EUCF à Frankfort mais où elle terminera malheureusement dernière de sa catégorie. 
+Ces expériences extraordinaires ont marqué les joueuses et les joueurs qui y ont participé, et ont permis d'entretenir la tradition de rayonnement à l'étranger initiée il y a plus de vingt ans !
 
-Aujourd'hui, Ah Ouh Puc est solidement installé dans l'Ultimate français : en première division en mixte, en deuxème division en open, et son équipe féminine figure dans le top 3 français. Mais même s'il reste naturellement attiré par la compétition de haut niveau, le club n'oublie pas pour autant sa mission d'accueil et de formation des débutants qui représentent une bonne part de l'effectif du club.
+Depuis 2008, le club organise tous les étés la Summer Love, une compétition hat
+qui se déroule pendant les mois de juillet et août. La Summer Love connait
+chanque année un succès grandissant, à tel point que ces cinq dernières années toutes les places
+se sont vendues en quelques heures !
+
+Aujourd'hui, Ah Ouh Puc est solidement installé dans l'Ultimate français : en première division en mixte et en open, et son équipe féminine dans le top 3 français. Mais même s'il reste naturellement attiré par la compétition de haut niveau, le club n'oublie pas pour autant sa mission d'accueil et de formation des débutants qui représentent une bonne part de l'effectif du club.
