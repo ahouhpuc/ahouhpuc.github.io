@@ -14,26 +14,6 @@ During the rest of the year however practices are restricted to team members onl
 
 ## When?
 
-<table>
-  <tr>
-    <td></td>
-    <td>Practice 1</td>
-    <td>Practice 2</td>
-  </tr>
-  <tr>
-    <td>Monday 8:30 pm</td>
-    <td colspan="2">Coed</td>
-  </tr>
-  <tr>
-    <td>Tuesday 8:30 pm</td>
-    <td colspan="2">Rookies</td>
-  </tr>
-  <tr>
-    <td>Wednesday 8:30 pm</td>
-    <td>Women</td>
-    <td>Open</td>
-  </tr>
-</table>
 
 ### Until 2018 October 26
 
@@ -44,16 +24,16 @@ During the rest of the year however practices are restricted to team members onl
     <td>Practice 2</td>
   </tr>
   <tr>
-    <td>Monday 20:30 at stade Charlety</td>
+    <td>Monday 8:30 pm at stade Charlety</td>
     <td>Rookies</td>
     <td>Open 2/3</td>
   </tr>
   <tr>
-    <td>Tuesday 20:30 at stade Charlety</td>
-    <td colspan="2">Mixed</td>
+    <td>Tuesday 8:30 pm at stade Charlety</td>
+    <td colspan="2">Coed</td>
   </tr>
   <tr>
-    <td>Thursday 20h30 at stade ouest of cité universitaire</td>
+    <td>Thursday 8:30 pm at stade ouest of cité universitaire</td>
     <td>Women</td>
     <td>Tryout Open 1</td>
   </tr>
@@ -68,17 +48,17 @@ During the rest of the year however practices are restricted to team members onl
     <td>Practice 2</td>
   </tr>
   <tr>
-    <td>Monday 20:30 at stade Charlety</td>
+    <td>Monday 8:30 pm at stade Charlety</td>
     <td>Rookies</td>
-    <td>Mixed 2</td>
+    <td>Coed 2</td>
   </tr>
   <tr>
-    <td>Tuesday 20:30 at stade Charlety</td>
-    <td>Mixed 1</td>
+    <td>Tuesday 8:30 pm at stade Charlety</td>
+    <td>Coed 1</td>
     <td>Open 2/3</td>
   </tr>
   <tr>
-    <td>Thursday 20h30 at stade ouest of cité universitaire</td>
+    <td>Thursday 8:30 pm at stade ouest of cité universitaire</td>
     <td>Women</td>
     <td>Open 1</td>
   </tr>
