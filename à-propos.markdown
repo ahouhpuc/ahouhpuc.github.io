@@ -26,53 +26,98 @@ Tu trouveras plus d'information sur notre sport :
 
 ## Histoire
 
-Ah Ouh Puc a été fondé en 2006 en tant que nouvelle section sportive du Paris Université Club, le grand club omnisports situé dans le 13<sup>ème</sup> arrondissement. Mais l'histoire commence en réalité en 1989 avec la naissance des Invalids.
+Ah Ouh Puc a été fondé en 2006 en tant que section sportive du Paris Université
+Club. Mais l’histoire commence en réalité en 1989 avec la naissance des
+Invalids.
 
-### Les Invalids
+### 1989 - Les Invalids
 
 ![Ah Ouh Puc Invalides 2006](ah-ouh-puc-invalides-2006.jpg)
 
-À l'époque, quelques joueurs se retrouvent le mercredi soir sur l'esplanade des Invalides et le week-end sur la pelouse de Bagatelle dans le bois de Boulogne. Une bonne partie de l'effectif est alors composé d'expatriés de diverses nationalités qui font découvrir l'Ultimate aux Français. Lors de la saison 1990-91, alors que le jeu commence tout juste à se structurer dans l'Hexagone sous l'impulsion de la Fédération Flying Disc France, les Invalids réussissent le doublé Championnat de France Indoor et Outdoor.
+Au commencement, quelques joueurs se retrouvent le mercredi soir sur
+l’esplanade des Invalides et le week-end sur la pelouse de Bagatelle dans le
+bois de Boulogne. L’effectif est alors surtout composé d’expatriés de diverses
+nationalités qui font découvrir l’Ultimate aux Français.
 
-Au cours des années 1990 et jusqu'à la première moitié des années 2000, l'effectif du club se stabilise autour d'une vingtaine de licenciés. Les Invalids prennent l'habitude d'aller jouer sur les différents tournois qui voient le jour en Europe, comme celui de Paganello sur la plage de Rimini en Italie.
+Les Invalids, composée d'une vingtaine de joueurs parcours la France et
+l'Europe pour jouer dans les tournois qui voient le jour, mais le club peine à
+se développer et stagne sportivement.
 
-Pendant ces années, le club ne se développe guère, ni en nombre de licenciés, ni sportivement, car les conditions d'entraînement dans des lieux publics sur des terrains de mauvaise qualité ne favorisent pas la progression. À la fin de la saison 2005, les Invalids descendent pour la première fois en division 2. Le constat est clair : les autres clubs français ont plus de créneaux et de moyens, et le niveau général de l'Ultimate français a monté.
+En 2005, les Invalids descendent pour la première fois en division 2. Le
+constat est clair : les autres clubs français ont plus de moyens, et le niveau
+de l’Ultimate français progresse.
 
-### AhOuhPuc
+### 2006 - AhOuhPUC
 
-En 2006, après deux ans d'efforts, le club entre dans une nouvelle ère en rejoignant le Paris Université Club, dont il devient une nouvelle section sportive à part entière. Pour marquer le changement, il prend le nom de Ah Ouh Puc, en double référence à sa nouvelle maison-mère et à Ah Puch, le dieu de la mort dans la religion maya… tout un programme ! Les entraînements se déroulent désormais sur l'excellent terrain synthétique du Stade Charléty, à raison de deux puis trois créneaux par semaine en soirée. Pour sa première saison sous sa nouvelle identité, le club compte plus de 70 adhérents.
+En 2006, le club rejoint le Paris Université Club. Pour marquer le changement,
+il prend le nom de AhOuhPUC en référence à sa nouvelle maison-mère et à Ah
+Puch, le dieu de la mort maya…
 
-Grâce à sa situation privilégiée dans Paris, Ah Ouh Puc attire un nombre croissant de pratiquants : des joueurs confirmés, mais aussi de plus en plus de débutants, des étrangers comme des Français. Des filles aussi : en 2007, l'équipe des Lillipuc est créée, et participe depuis à des compétitions féminines en France et à l'étranger. Après deux ans d'existence au sein du PUC, l'effectif dépasse pour la première fois les 100 licenciés, faisant du Ah Ouh Puc le plus grand club de France !
+Le club s'installe sur l’excellent terrain synthétique du Stade Charléty, à
+raison de deux puis trois créneaux par semaine en soirée. Pour sa première
+saison sous sa nouvelle identité, le club compte plus de 70 adhérents.
 
-En 2008, le club organise l'EUCF 08, les Championnats d'Europe des Clubs. L'événement rassemble plus de 400 joueurs et joueuses de 12 pays différents pendant trois jours sur sept terrains parisien. Les meilleures équipes européennes attirent plus de 1 500 personnes pour les grandes finales open et féminine, exceptionnellement disputées sur le terrain d'honneur du Stade Charléty.
+En 2008, le club organise les championnats d’Europe des clubs, EUCF 08.
+L’événement rassemble plus de 400 joueurs et joueuses de 12 pays différents
+pendant trois jours sur sept terrains parisien. Les meilleures équipes
+européennes attirent plus de 1 500 personnes pour les grandes finales open et
+féminine, exceptionnellement disputées sur le terrain d’honneur du Stade
+Charléty.
 
-En 2009, Ah Ouh Puc représente la France aux Championnats d'Europe des clubs organisés à Londres (XEUCF 09) dans la catégorie mixte, et se classe 11<sup>ème</sup> sur 20. L'année suivante, l'expérience est renouvelée à l'échelon supérieur : aux Championnats du Monde des clubs de Prague (WUCC 2010), le club honore son seeding en terminant 25<sup>ème</sup> sur 40 (8<sup>ème</sup> équipe européenne), toujours en division mixte. 
+La même année, le club organise la première Summer Love, tournoi qui rythme
+depuis la période estivale de la région parisienne.
 
-Rebellote en 2013, où l’équipe mixte se qualifie aux EUCR‑S X à Bergame pour
-participer aux XEUCF à Bordeaux, puis en 2016 avec une qualification aux
-EUCR‑S X à Stezzano et une participation aux EUCF à Frankfort mais où elle
-terminera malheureusement dernière de sa catégorie.  Ces expériences
-extraordinaires ont marqué les joueuses et les joueurs qui y ont participé, et
-ont permis d'entretenir la tradition de rayonnement à l'étranger initiée il y a
-plus de vingt ans !
+En 2009, le club, avec son équipe mixte, participe pour la première fois à un
+grand championnat international au championnat d’Europe (EUCF) de Londres, puis
+aux Championnats du monde (WUCC) à Varsovie l’année suivante.
 
-Depuis 2008, le club organise tous les étés la Summer Love, une compétition hat
-qui se déroule pendant les mois de juillet et août. La Summer Love connait
-chanque année un succès grandissant, à tel point que ces cinq dernières années toutes les places
-se sont vendues en quelques heures !
+En 2017, pour fêter ses 10 ans, un voyage en Afrique du Sud est organisé avec
+les anciens des Invalids et joueurs-euses actuels. Deux équipes mixtes ont
+participé au tournois Rocktober, à Johannesburg. Ce voyage s'est accompagné
+d'une semaine de découverte du pays de Johannesburg à Soweto en passant par le
+Blyde River Canyon et le Parc Kruger. Ce moment restera gravé dans les
+mémoires.
 
-En 2017, pour fêter les 10 ans du Club, un voyage en Afrique du Sud a été
-organisé avec les anciens et les joueuses et joueurs actuels. Deux équipes ont
-participé au tournois Rocktober, à Johannesburg et ont terminés aux 3e et 8e
-places du tournois et 2e et 6e au spirit. Une semaine de découverte du pays
-nous ont permis de découvrir certains lieux emblématiques : Johannesburg,
-Soweto, le Blyde River Canyon et le Parc Kruger pour un Safari de 3 jours. Ce
-moment restera gravé dans les mémoires.
 
-Aujourd'hui, Ah Ouh Puc est solidement installé dans l'Ultimate français : en
-première division en mixte et en open, et son équipe féminine dans le top 3
-français. Mais même s'il reste naturellement attiré par la compétition de haut
-niveau, le club n'oublie pas pour autant sa mission d'accueil et de formation
-des débutants qui représentent une bonne part de l'effectif du club. Il envoie
-régulièrement des équipes aux différents tournois en France et à l'étranger,
-pour tous les niveaux.
+
+Aujourd’hui, AhOuhPuc compte plus de 120 licenciés et est solidement installé
+dans l’Ultimate français, avec de nombreuses équipes de niveaux divers : 
+* 4 équipes Open, de N1 à régional 3 ;
+* 2 équipes mixtes en N1 et N3 ;
+* 1 équipe féminine, dans le top 3 français.
+
+Le club continu à accueillir de nombreux débutants qui représentent une bonne
+part de l’effectif du club. Il envoie régulièrement des équipes aux différents
+tournois en France et à l’étranger, pour tous les niveaux.
+
+Le club conserve un esprit festif avec de nombreux rendez-vous annuels
+incontournables : les AhOuhWards, décernant les meilleurs prix, des fêtes
+inter-rives avec nos voisins Révolution'air et bien d'autres encore !
+
+
+
+### Résultats marquants et palmarès
+
+<table>
+<tr><td>Championnat</td><td>Niveau</td><td>Equipe</td><td>Année</td><td>Résultat</td></tr>
+<tr><td>Outdoor</td><td>France D1</td><td>Open</td><td>1991</td><td>1er</td></tr>
+<tr><td>Indoor</td><td>France D1</td><td>Open</td><td>1991</td><td>1er</td></tr>
+</table>
+
+### Résultats récents 
+<table>
+<tr><td>Championnat</td><td>Niveau</td><td>Equipe</td><td>Année</td><td>Résultat</td></tr>
+<tr><td>Outdoor</td><td>Monde (WUCC)</td><td>Mixte</td><td>2010</td><td>25e</td></tr>
+<tr><td>Outdoor</td><td>Europe (EUCF)</td><td>Mixte</td><td>2009</td><td>11e</td></tr>
+<tr><td>Outdoor</td><td>Europe zone sud (EUCR)</td><td>Mixte</td><td>2017</td><td>7e</td></tr>
+<tr><td>Outdoor</td><td>France D1</td><td>Féminin</td><td>2016--2018</td><td>3e</td></tr>
+<tr><td>Outdoor</td><td>France D1</td><td>Mixte</td><td>2018</td><td>6e</td></tr>
+<tr><td>Outdoor</td><td>France D1</td><td>Open</td><td>2018</td><td>8e</td></tr>
+</table>
+
+L’équipe mixte a participé à 3 championnats d’Europe et à 1 championnat du monde.
+
+L’équipe féminine a participé à 1 championnat d’Europe.
+
+
+
