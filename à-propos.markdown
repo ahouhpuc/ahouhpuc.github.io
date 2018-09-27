@@ -24,7 +24,7 @@ Tu trouveras plus d'information sur notre sport :
 * <a href="http://www.wfdf.org/" target="_blank">sur le site de la World Flying Disc Federation</a>
 * <a href="https://www.ffdf.fr/content/download/18299/122766/file/WFDF%20Ultimate%20Rules%202013%20-%20French.pdf" target="_blank">en lisant les règles !</a>
 
-## Histoire
+## Histoire du club
 
 Ah Ouh Puc a été fondé en 2006 en tant que section sportive du Paris Université
 Club. Mais l’histoire commence en réalité en 1989 avec la naissance des
@@ -80,7 +80,7 @@ mémoires.
 
 
 
-Aujourd’hui, AhOuhPuc compte plus de 120 licenciés et est solidement installé
+**Aujourd’hui**, AhOuhPuc compte plus de 120 licenciés et est solidement installé
 dans l’Ultimate français, avec de nombreuses équipes de niveaux divers : 
 * 4 équipes Open, de N1 à régional 3 ;
 * 2 équipes mixtes en N1 et N3 ;
