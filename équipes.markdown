@@ -3,37 +3,72 @@ title: Équipes Ultimate Ah Ouh Puc
 description: Le Ah Ouh Puc a une équipe féminine, trois équipes open et deux équipes coed qui participent chaque année aux championnats de France d'Ultimate.
 ---
 
-### Lillipuc
+## Equipe féminine : Lillipuc
 
-L'équipe féminine compétitive. Elle est composée des meilleures joueuses du club et vise chaque année le haut de tableau de la coupe féminine.
+Les Lillis représentent le club en championnat de N1 féminin. L'équipe est composée
+des meilleures joueuses du club et se place depuis plusieurs années dans le top
+3 français. L’équipe a participé en 2018 à sa première phase de championnat
+d’Europe de la zone sud (EUCR) à Bologne.
 
-### Open 1
+Une équipe 2 est envisagée dans les prochaines années.
 
-L'équipe masculine compétitive. L'équipe Open 1 est composée des meilleurs
-joueurs du club qui sont sélectionnés en chaque début saison. 
-L'Open 1 évolue en première division du championnat de France et se bat chaque année pour s’y maintenir.
 
-### Open 2 et 3
+## Equipes Mixte (Coed)
 
-Peu importe son niveau, il y a une place pour chacun nos nombreux licenciés
-dans une des équipes Open qui évoluent dans différentes divisions du
-championnat de France. 
-L’Open 2 évolue en Nationale 3 mais a pour objectif de monter en 2ème division, niveau qu’elle avait atteint en 2014 !
-L'Open 3 évolue au niveau régional, mais a pour ambition de monter en D3 dans les prochaines années.
+Les équipes mixtes doivent aligner obligatoirement à chaque point soit :
 
-## Débutants (Open 4)
-
-Chaque année, le club envoie une équipe composée principalement des recrues de l'année disputer les championnats régionaux.
+* 3 garçons, 4 filles
+* 4 garçons, 3 filles
 
 ### Coed 1
 
-L'équipe mixte compétitive. Elle est composée des meilleurs joueuses et joueurs
-du club et évolue en première division du championnat de France.  Le Coed 1 a
-participé à de nombreux championnats d'Europe (2017 EUCR‑S X Versailles, 2016
-EUCR‑S X Stezzano et qualification EUCF Frankfort, 2013 EUCR Bergame et
-qualification XEUCF Bordeaux, 2009 XEUCF Londres) et même au championnat du
-Monde des clubs WUCC à Prague en 2010!
+L’équipe est composée des meilleurs joueuses et joueurs du club sélectionnés en
+début d’année. Elle évolue en première division (N1) du championnat de France.
+Le Coed 1 a participé à 3 phases finales de championnats d’Europe (EUCF) en
+2009, 2013 et 2016 ; et l'équipe a pour objectif chaque saison de se qualifier
+pour la phase régionale.  En 2010, l’équipe a également participé au
+championnat du Monde des clubs WUCC à Prague.
 
 ### Coed 2
 
-Nous avons suffisamment de joueurs pour pouvoir former une deuxième équipe Coed qui se bat pour se faire une place en deuxième division du championnat de France mixte.
+L’équipe est composée de filles et de garçons désireux de progresser dans une
+ambiance compétitive tout en prenant du plaisir ensemble. Elle a pour objectif d'évoluer en nationale 2 (N2).
+
+Une Coed 3 est envisagée dans les prochaines années.
+ 
+##  Equipes Open
+
+Open signifie que l’équipe est ouverte garçons et aux filles, sans restrictions
+quant à la composition d’équipe. En pratique, à haut niveau, les équipes open
+sont essentiellement masculines.
+
+###  Open 1
+
+![Open1 2018](open1-2018.jpg)
+
+L'équipe Open 1 est composée des meilleurs joueurs du club, sélectionnés au
+début de chaque saison.  Elle évolue en première division du championnat de
+France, vise le haut de tableau et participe chaque année à des tournois
+européens.
+
+ 
+### Open 2
+
+L’Open 2 évolue en N3 et a pour objectif une montée en N2. L’équipe est
+composée de joueurs performants, d’anciens et de débutants.
+
+ 
+
+### Open 3
+
+L'open 3 s'est développé au sein du club depuis 2014 et connaît des succès
+sportifs croissants. Proche de l'open 2 aux entraînements, c'est une équipe
+ouverte à tous les joueurs et joueuses qui veulent progresser individuellement
+et collectivement, avec pour objectif de monter en division nationale.
+
+### Open 4 : Débutants, dits Rookies
+
+Chaque année, le club envoie une équipe composée principalement des recrues
+(filles et garçons) de l’année disputer leurs premiers championnats en open régional.
+
+

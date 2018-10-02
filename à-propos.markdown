@@ -7,15 +7,22 @@ description: Ah Ouh Puc est un club d'Ultimate Frisbee à Paris. Il a été fond
 
 <a href="http://www.puc.paris/" target="_blank">![Logo PUC Paris Université Club](logo-puc-paris-université-club.jpg)</a>
 
-Ah Ouh Puc est un club d'Ultimate Frisbee. C'est une section sportive du PUC, le <a href="http://www.puc.paris/" target="_blank">Paris Université Club</a>. Le PUC est un grand club omnisport qui regroupe 30 sections sportives autour du Stade Charléty et de la Cité Universitaire dans le sud de Paris.
+Ah Ouh Puc est un club d'Ultimate Frisbee. C'est une section sportive du PUC,
+le <a href="http://www.puc.paris/" target="_blank">Paris Université Club</a>.
+Le PUC est un grand club omnisports qui regroupe 30 sections sportives autour du
+Stade Charléty et de la Cité Universitaire dans le sud de Paris.
 
 Ah Ouh Puc est un club affilié à la FFDF, la <a href="https://www.ffdf.fr/" target="_blank">Fédération Flying Disc France</a>.
 
 ## L'Ultimate
 
-L'Ultimate est un sport collectif utilisant un disque opposant deux équipes de 7 joueurs. L'objectif est de marquer des points en progressant sur le terrain par passes successives vers la zone d'en-but adverse et d'y réceptionner le disque. L'Ultimate se joue en équipe féminine, masculine ou mixte.
+L'Ultimate est un sport collectif utilisant un disque opposant deux équipes de
+7 joueurs. L'objectif est de marquer des points en progressant sur le terrain
+par passes successives vers la zone d'en-but adverse et d'y réceptionner le
+disque. L'Ultimate se joue en équipe féminine, masculine ou mixte.
 
-L’Ultimate est un sport auto-arbitré, qui repose sur l'esprit du jeu qui place la responsabilité du fair-play en chaque joueur.
+L’Ultimate est un sport auto-arbitré, qui repose sur l'esprit du jeu qui place
+la responsabilité du fair-play en chaque joueur.
 
 Tu trouveras plus d'information sur notre sport :
 
@@ -69,10 +76,11 @@ depuis la période estivale de la région parisienne.
 
 En 2009, le club, avec son équipe mixte, participe pour la première fois à un
 grand championnat international au championnat d’Europe (EUCF) de Londres, puis
-aux Championnats du monde (WUCC) à Varsovie l’année suivante.
+aux Championnats du monde (WUCC) à Pragues l’année suivante et aux championnats
+d'europe étendus (XEUCF) à Bordeaux en 2013 puis à Francfort en 2016.
 
 En 2017, pour fêter ses 10 ans, un voyage en Afrique du Sud est organisé avec
-les anciens des Invalids et joueurs-euses actuels. Deux équipes mixtes ont
+les anciens des Invalids et les joueurs actuels. Deux équipes mixtes ont
 participé au tournois Rocktober, à Johannesburg. Ce voyage s'est accompagné
 d'une semaine de découverte du pays de Johannesburg à Soweto en passant par le
 Blyde River Canyon et le Parc Kruger. Ce moment restera gravé dans les
@@ -107,12 +115,13 @@ inter-rives avec nos voisins Révolution'air et bien d'autres encore !
 ### Résultats récents 
 <table>
 <tr><td>Championnat</td><td>Niveau</td><td>Equipe</td><td>Année</td><td>Résultat</td></tr>
-<tr><td>Outdoor</td><td>Monde (WUCC)</td><td>Mixte</td><td>2010</td><td>25e</td></tr>
 <tr><td>Outdoor</td><td>Europe (EUCF)</td><td>Mixte</td><td>2009</td><td>11e</td></tr>
+<tr><td>Outdoor</td><td>Monde (WUCC)</td><td>Mixte</td><td>2010</td><td>25e</td></tr>
 <tr><td>Outdoor</td><td>Europe zone sud (EUCR)</td><td>Mixte</td><td>2017</td><td>7e</td></tr>
 <tr><td>Outdoor</td><td>France D1</td><td>Féminin</td><td>2016--2018</td><td>3e</td></tr>
 <tr><td>Outdoor</td><td>France D1</td><td>Mixte</td><td>2018</td><td>6e</td></tr>
 <tr><td>Outdoor</td><td>France D1</td><td>Open</td><td>2018</td><td>8e</td></tr>
+<tr><td>Outdoor</td><td>Europe zone sud (EUCR)</td><td>Féminin</td><td>2018</td><td>5e</td></tr>
 </table>
 
 L’équipe mixte a participé à 3 championnats d’Europe et à 1 championnat du monde.
