@@ -22,6 +22,8 @@ Les équipes mixtes doivent aligner obligatoirement à chaque point soit :
 
 ### Coed 1
 
+![Coed1 2018](coed1-2018.jpg)
+
 L’équipe est composée des meilleurs joueuses et joueurs du club sélectionnés en
 début d’année. Elle évolue en première division (N1) du championnat de France.
 Le Coed 1 a participé à 3 phases finales de championnats d’Europe (EUCF) en
