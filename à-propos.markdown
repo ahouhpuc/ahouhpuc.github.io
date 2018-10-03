@@ -29,7 +29,7 @@ Tu trouveras plus d'information sur notre sport :
 * <a href="https://fr.wikipedia.org/wiki/Ultimate_(sport)" target="_blank">sur la page Wikipedia à propos de l'Ultimate</a>
 * <a href="https://www.ffdf.fr/" target="_blank">sur le site de la Fédération Flying Disc France</a>
 * <a href="http://www.wfdf.org/" target="_blank">sur le site de la World Flying Disc Federation</a>
-* <a href="https://www.ffdf.fr/content/download/18299/122766/file/WFDF%20Ultimate%20Rules%202013%20-%20French.pdf" target="_blank">en lisant les règles !</a>
+* <a href="wfdf_ultimate_rules_2017_-_french.pdf" target="_blank">en lisant les règles !</a>
 
 ## Histoire du club
 
@@ -119,9 +119,9 @@ inter-rives avec nos voisins Révolution'air et bien d'autres encore !
 <tr><td>Outdoor</td><td>Monde (WUCC)</td><td>Mixte</td><td>2010</td><td>25e</td></tr>
 <tr><td>Outdoor</td><td>Europe zone sud (EUCR)</td><td>Mixte</td><td>2017</td><td>7e</td></tr>
 <tr><td>Outdoor</td><td>France D1</td><td>Féminin</td><td>2016--2018</td><td>3e</td></tr>
+<tr><td>Outdoor</td><td>Europe zone sud (EUCR)</td><td>Féminin</td><td>2018</td><td>5e</td></tr>
 <tr><td>Outdoor</td><td>France D1</td><td>Mixte</td><td>2018</td><td>6e</td></tr>
 <tr><td>Outdoor</td><td>France D1</td><td>Open</td><td>2018</td><td>8e</td></tr>
-<tr><td>Outdoor</td><td>Europe zone sud (EUCR)</td><td>Féminin</td><td>2018</td><td>5e</td></tr>
 </table>
 
 L’équipe mixte a participé à 3 championnats d’Europe et à 1 championnat du monde.
