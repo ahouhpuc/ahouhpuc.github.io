@@ -63,7 +63,7 @@ composée de joueurs performants, d’anciens et de débutants.
 
 ### Open 3
 
-L'open 3 s'est développé au sein du club depuis 2014 et connaît des succès
+L'open 3 s'est développé au sein du club depuis 2015 et connaît des succès
 sportifs croissants. Proche de l'open 2 aux entraînements, c'est une équipe
 ouverte à tous les joueurs et joueuses qui veulent progresser individuellement
 et collectivement, avec pour objectif de monter en division nationale.

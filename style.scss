@@ -269,8 +269,11 @@ tr:first-child {
   margin: 1rem 0 2rem 0;
 }
 
+img[alt*="Open1 2018"] {
+}
+
 img[alt*="Paris Université Club"] {
-  height: 100px;
+  width: 80%;
   display: block;
   margin: 0 auto;
 }
