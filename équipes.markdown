@@ -22,7 +22,7 @@ Les équipes mixtes doivent aligner obligatoirement à chaque point soit :
 
 ### Coed 1
 
-![Coed1 2018](coed1-2018.jpg)
+![equipe](coed1-2018.jpg)
 
 L’équipe est composée des meilleurs joueuses et joueurs du club sélectionnés en
 début d’année. Elle évolue en première division (N1) du championnat de France.
@@ -46,7 +46,7 @@ sont essentiellement masculines.
 
 ###  Open 1
 
-![Open1 2018](open1-2018.jpg)
+![equipe](open1-2018.jpg)
 
 L'équipe Open 1 est composée des meilleurs joueurs du club, sélectionnés au
 début de chaque saison.  Elle évolue en première division du championnat de
