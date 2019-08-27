@@ -33,13 +33,17 @@ During the rest of the year however practices are restricted to team members onl
     <td colspan="2">Coed 1, 2 and 3</td>
   </tr>
   <tr>
-    <td>Tuesday 8:30 pm at stade ouest of cité universitaire</td>
+    <td>Tuesday 8:30 pm at stade ouest of Cité Universitaire</td>
     <td colspan="2">Rookies</td>
   </tr>
   <tr>
-    <td>Thursday 8:30 pm at stade ouest of cité universitaire</td>
+    <td>Thursday 8:30 pm at stade ouest of Cité Universitaire</td>
     <td>Women</td>
     <td>Open 1</td>
+  </tr>
+  <tr>
+    <td>Saturday 9h - 12h at stade Ouest of Cité Universitaire</td>
+    <td colspan="2"><a href="young.html">Young</a></td>
   </tr>
 </table>
 
