@@ -87,12 +87,11 @@ Blyde River Canyon et le Parc Kruger. Ce moment restera gravé dans les
 mémoires.
 
 
-
-**Aujourd’hui**, AhOuhPuc compte plus de 120 licenciés et est solidement installé
-dans l’Ultimate français, avec de nombreuses équipes de niveaux divers : 
+**Aujourd’hui**, AhOuhPuc compte plus de 150 licenciés et est solidement installé
+dans l’Ultimate français, avec de nombreuses équipes de niveaux divers :
 * 4 équipes Open, de N1 à régional 3 ;
-* 2 équipes mixtes en N1 et N3 ;
-* 1 équipe féminine, dans le top 3 français.
+* 3 équipes mixtes en N1, N2 et N3 ;
+* 2 équipes féminines, dans le top 3 français.
 
 Le club continu à accueillir de nombreux débutants qui représentent une bonne
 part de l’effectif du club. Il envoie régulièrement des équipes aux différents
@@ -112,19 +111,20 @@ inter-rives avec nos voisins Révolution'air et bien d'autres encore !
 <tr><td>Indoor</td><td>France D1</td><td>Open</td><td>1991</td><td>1er</td></tr>
 </table>
 
-### Résultats récents 
+### Résultats récents
 <table>
 <tr><td>Championnat</td><td>Niveau</td><td>Equipe</td><td>Année</td><td>Résultat</td></tr>
 <tr><td>Outdoor</td><td>Europe (EUCF)</td><td>Mixte</td><td>2009</td><td>11e</td></tr>
 <tr><td>Outdoor</td><td>Monde (WUCC)</td><td>Mixte</td><td>2010</td><td>25e</td></tr>
 <tr><td>Outdoor</td><td>Europe zone sud (EUCR)</td><td>Mixte</td><td>2017</td><td>7e</td></tr>
-<tr><td>Outdoor</td><td>France D1</td><td>Féminin</td><td>2016--2018</td><td>3e</td></tr>
+<tr><td>Outdoor</td><td>France D1</td><td>Féminin</td><td>2016--2019</td><td>3e</td></tr>
 <tr><td>Outdoor</td><td>Europe zone sud (EUCR)</td><td>Féminin</td><td>2018</td><td>5e</td></tr>
-<tr><td>Outdoor</td><td>France D1</td><td>Mixte</td><td>2018</td><td>6e</td></tr>
-<tr><td>Outdoor</td><td>France D1</td><td>Open</td><td>2018</td><td>8e</td></tr>
+<tr><td>Outdoor</td><td>France D1</td><td>Mixte</td><td>2019</td><td>3e</td></tr>
+<tr><td>Outdoor</td><td>France D1</td><td>Open</td><td>2019</td><td>3e</td></tr>
+<tr><td>Outdoor</td><td>Europe zone sud (EUCR)</td><td>Mixte</td><td>2019</td><td>1er</td></tr>
 </table>
 
-L’équipe mixte a participé à 3 championnats d’Europe et à 1 championnat du monde.
+L’équipe mixte a participé à 4 championnats d’Europe et à 1 championnat du monde.
 
 L’équipe féminine a participé à 1 championnat d’Europe.
 
