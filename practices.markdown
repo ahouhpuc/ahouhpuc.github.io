@@ -15,7 +15,7 @@ During the rest of the year however practices are restricted to team members onl
 ## When?
 
 
-### Until 2018 October 26
+### Froom 2019 September 9
 
 <table>
   <tr>
@@ -50,7 +50,7 @@ During the rest of the year however practices are restricted to team members onl
 
 ## Information
 
-* Practice is never cancelled, whether it’s windy, raining or snowing. No being a pussy!
+* Practice is never cancelled, whether it’s windy, raining or snowing.
 * Practice starts at 8:30 pm sharp. Players are asked to arrive 15 minutes early to get ready. Changing rooms equipped with showers are available both before and after trainings.
 * You’ll need both your runners (for the track) and cleats/boots (for the synthetic pitch).
 
