@@ -1,6 +1,6 @@
 ---
 title: Section Juniors Ultimate Ah Ouh Puc
-description: Notre section jeune s'entraîne le samedi matin pour découvrir l'ultimate et participer aux championnats de France en fin d'année.
+description: Notre section junior s'entraîne le samedi matin pour découvrir l'ultimate et participer aux championnats de France en fin d'année.
 cover:
   src: charlety.jpg
   title: Stade Charlety
@@ -16,7 +16,7 @@ L'ultimate se démarque des autres sports collectifs par :
 * Self-referring
 * Fair-play, which is evaluated at the end of each game
 
-Young people training is much developed in France and young French win fame regularly. In August 2019 they won two titles at <a href="https://www.youtube.com/watch?v=26fasW7isYM">European Youth Ultimate Championship</a>
+Youth training is much developed in France and the French win fame regularly. In August 2019 they won two titles at <a href="https://www.youtube.com/watch?v=26fasW7isYM">European Youth Ultimate Championship</a>
 
 ## Training
 

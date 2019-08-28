@@ -33,14 +33,14 @@
     <xhtml:link rel="alternate" href="https://www.ahouhpuc.fr/practices.html" hreflang="en" />
   </url>
   <url>
-    <loc>https://www.ahouhpuc.fr/jeunes.html</loc>
-    <xhtml:link rel="alternate" href="https://www.ahouhpuc.fr/jeunes.html" hreflang="fr" />
-    <xhtml:link rel="alternate" href="https://www.ahouhpuc.fr/young.html" hreflang="en" />
+    <loc>https://www.ahouhpuc.fr/junior.html</loc>
+    <xhtml:link rel="alternate" href="https://www.ahouhpuc.fr/junior.html" hreflang="fr" />
+    <xhtml:link rel="alternate" href="https://www.ahouhpuc.fr/youth.html" hreflang="en" />
   </url>
   <url>
-    <loc>https://www.ahouhpuc.fr/young.html</loc>
-    <xhtml:link rel="alternate" href="https://www.ahouhpuc.fr/jeunes.html" hreflang="fr" />
-    <xhtml:link rel="alternate" href="https://www.ahouhpuc.fr/young.html" hreflang="en" />
+    <loc>https://www.ahouhpuc.fr/youth.html</loc>
+    <xhtml:link rel="alternate" href="https://www.ahouhpuc.fr/junior.html" hreflang="fr" />
+    <xhtml:link rel="alternate" href="https://www.ahouhpuc.fr/youth.html" hreflang="en" />
   </url>
   <url>
     <loc>https://www.ahouhpuc.fr/summer-love.html</loc>

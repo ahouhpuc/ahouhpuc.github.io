@@ -43,7 +43,7 @@ During the rest of the year however practices are restricted to team members onl
   </tr>
   <tr>
     <td>Saturday 9h - 12h at stade Ouest of Cité Universitaire</td>
-    <td colspan="2"><a href="young.html">Young</a></td>
+    <td colspan="2"><a href="youth.html">Youth</a></td>
   </tr>
 </table>
 

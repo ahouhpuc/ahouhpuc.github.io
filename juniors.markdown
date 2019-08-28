@@ -1,6 +1,6 @@
 ---
 title: Section Juniors Ultimate Ah Ouh Puc
-description: Notre section jeune s'entraîne le samedi matin pour découvrir l'ultimate et participer aux championnats de France en fin d'année.
+description: Notre section junior s'entraîne le samedi matin pour découvrir l'ultimate et participer aux championnats de France en fin d'année.
 cover:
   src: charlety.jpg
   title: Stade Charlety
