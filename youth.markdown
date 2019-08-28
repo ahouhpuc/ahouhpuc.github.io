@@ -20,6 +20,8 @@ Youth training is much developed in France and the French win fame regularly. In
 
 ## Training
 
+All players must be 8 or older to be eligible for our youth training.
+
 * The training is on Saturday from 10am to 12am, from 2019 September 9
 * Practices take place at Stade Ouest of Cité Universitaire. The entrance is located at André Rivoire avenue.
 
@@ -29,7 +31,7 @@ Youth training is much developed in France and the French win fame regularly. In
 
 * Practice is never cancelled, whether it’s windy, raining or snowing.
 * Practice starts at 10 pm sharp. Players are asked to arrive 15 minutes early to get ready. Changing rooms equipped with showers are available both before and after trainings.
-* You’ll need both your runners (for the track) and cleats/boots (for the synthetic pitch).
+* You’ll need both your sportswear and your cleats for the synthetic pitch.
 
 <p> It is readily accessible by public transport:</p>
 

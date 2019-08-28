@@ -19,6 +19,8 @@ La formation est très développée en France et les jeunes français s'illustre
 
 ## Entraînement
 
+L'entraînement est accessible aux jeunes à partir de 8 ans.
+
 * L'entraînement a lieu le samedi matin de 10h à 12h à partir du 14 septembre 2019
 
 * Les entraînements ont lieu sur le terrain synthétique annexe du Stade Charlety, 17 avenue Pierre de Coubertin, 75013 Paris.
@@ -30,7 +32,7 @@ La formation est très développée en France et les jeunes français s'illustre
 
 * Qu'il pleuve, qu'il vente ou qu'il neige, l'entraînement a toujours lieu.
 * L'entraînement commence à l'horaire indiqué, en tenue. Prévois donc d'arriver 15 minutes en avance. Un vestiaire est disponible pour se changer avant, et prendre une douche après.
-* Prends tes crampons moulés ou stabilisés pour le jeu sur le terrain synthétique.
+* Prends une tenue de sport et tes crampons moulés ou stabilisés pour le jeu sur le terrain synthétique.
 
 ## Pour venir en transports en commun
 
