@@ -6,7 +6,7 @@ layout: ""
 
 $primary-color: #7b399c;
 
-@media (max-width: 700px) {
+@media (max-width: 800px) {
 
   nav {
 
@@ -47,10 +47,10 @@ $primary-color: #7b399c;
 
 }
 
-@media (min-width: 701px) {
+@media (min-width: 801px) {
 
   #container, nav {
-    width: 700px;
+    width: 800px;
   }
 
   nav {
