@@ -66,7 +66,7 @@ En cours d'année, les entraînements sont réservés aux joueurs qui ont été 
 
 * Les entraînements au Gymnase des Arts et Métiers ont lieu dans la Cité Universitaire
 
-<iframe class="charlety" src="https://www.google.com/maps/place/Gymnase+des+Arts+et+M%C3%A9tiers/@48.818136,2.3343372,15z/data=!4m5!3m4!1s0x0:0xcc60ba1872d72493!8m2!3d48.818136!4d2.3343372"></iframe>
+<iframe class="charlety" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10508.403649345673!2d2.3343372!3d48.818136!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xcc60ba1872d72493!2sGymnase%20des%20Arts%20et%20M%C3%A9tiers!5e0!3m2!1sfr!2sfr!4v1567499121068!5m2!1sfr!2sfr"></iframe>
 
 <p>Pour venir en transports en commun :</p>
 
