@@ -29,6 +29,10 @@ During the rest of the year however practices are restricted to team members onl
     <td>Open 3/4</td>
   </tr>
   <tr>
+    <td>Tuesday 6 pm at Gymnase des Arts et Métiers</td>
+    <td colspan="2"><a href="youth.html">Youth</a></td>
+  </tr>
+  <tr>
     <td>Tuesday 8:30 pm at stade Charlety</td>
     <td colspan="2">Coed 1, 2 and 3</td>
   </tr>
@@ -62,8 +66,11 @@ During the rest of the year however practices are restricted to team members onl
 
 * Practices at Cité Universitaire take place at Stade Ouest of Cité Universitaire. The entrance is located at André Rivoire avenue.
 
-
 <iframe class="charlety" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1313.511257225524!2d2.3299169582910815!3d48.81963186087285!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e671a63b6a4c6f%3A0xd5ab8a3826c34384!2sStade+Ouest+CIUP!5e0!3m2!1sfr!2sfr!4v1537263743348"></iframe>
+
+* Practices at Gymnase des Arts et Métiers take place inside Cité Universitaire
+
+<iframe class="charlety" src="https://www.google.com/maps/place/Gymnase+des+Arts+et+M%C3%A9tiers/@48.818136,2.3343372,15z/data=!4m5!3m4!1s0x0:0xcc60ba1872d72493!8m2!3d48.818136!4d2.3343372"></iframe>
 
 
 <p> It is readily accessible by public transport:</p>

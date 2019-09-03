@@ -21,11 +21,15 @@ La formation est très développée en France et les jeunes français s'illustre
 
 L'entraînement est accessible aux jeunes à partir de 8 ans.
 
-* L'entraînement a lieu le samedi matin de 10h à 12h à partir du 14 septembre 2019
+Deux créneaux sont ouverts :
 
-* Les entraînements ont lieu à la Cité Universitaire ont lieu sur le terrain du stade Ouest de la Cité Universitaire. L'accès se fait par l'avenue André Rivoire.
+* Le samedi matin de 10h à 12h à partir du 14 septembre 2019 sur le terrain du stade Ouest de la Cité Universitaire. L'accès se fait par l'avenue André Rivoire.
 
 <iframe class="charlety" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1313.511257225524!2d2.3299169582910815!3d48.81963186087285!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e671a63b6a4c6f%3A0xd5ab8a3826c34384!2sStade+Ouest+CIUP!5e0!3m2!1sfr!2sfr!4v1537263743348"></iframe>
+
+* Le mardi de 18h à 19h au Gymnase des Arts et Métiers dans la Cité Universitaire
+
+<iframe class="charlety" src="https://www.google.com/maps/place/Gymnase+des+Arts+et+M%C3%A9tiers/@48.818136,2.3343372,15z/data=!4m5!3m4!1s0x0:0xcc60ba1872d72493!8m2!3d48.818136!4d2.3343372"></iframe>
 
 ## Informations
 
