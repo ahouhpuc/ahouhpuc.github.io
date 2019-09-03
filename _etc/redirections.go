@@ -35,8 +35,8 @@ func handleRootHost() {
 
 var redirections = map[string]string{
 	"option=com_content&task=view&id=20&Itemid=38": "/summer-love.html",
-	"option=com_content&task=view&id=13&Itemid=28": "/entraînements.html",
-	"option=com_content&task=view&id=5&Itemid=6":   "/à-propos.html",
+	"option=com_content&task=view&id=13&Itemid=28": "/entrainements.html",
+	"option=com_content&task=view&id=5&Itemid=6":   "/a-propos.html",
 	"option=com_contact&Itemid=3":                  "/contact.html",
 	"/lang=english":                                "/en.html",
 }
