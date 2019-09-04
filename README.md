@@ -22,5 +22,6 @@ And visit http://localhost:4000/fr.html to see your changes
 
 ## Deployment
 
-1. Ask someone the required credentials
-2. tbc
+1. Ask someone the required credentials (ssh access)
+2. Make sure your local git points to the version you want to deploy
+3. run `_etc/deploy.sh`
