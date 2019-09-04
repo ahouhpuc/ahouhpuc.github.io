@@ -43,7 +43,7 @@ En cours d'année, les entraînements sont réservés aux joueurs qui ont été 
     <td>Open 1</td>
   </tr>
   <tr>
-    <td>Samedi 9h - 12h au stade Ouest de la Cité Universitaire</td>
+    <td>Samedi 10h - 12h à la Plaine de jeu de Bagatelle</td>
     <td colspan="2"><a href="juniors.html">Juniors</a></td>
   </tr>
 </table>
