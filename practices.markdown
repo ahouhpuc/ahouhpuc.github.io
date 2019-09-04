@@ -29,7 +29,7 @@ During the rest of the year however practices are restricted to team members onl
     <td>Open 3/4</td>
   </tr>
   <tr>
-    <td>Tuesday 6 pm at Gymnase des Arts et Métiers</td>
+    <td>Tuesday 5:30pm at Gymnase des Arts et Métiers</td>
     <td colspan="2"><a href="youth.html">Youth</a></td>
   </tr>
   <tr>

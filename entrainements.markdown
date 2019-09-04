@@ -26,7 +26,7 @@ En cours d'année, les entraînements sont réservés aux joueurs qui ont été 
     <td>Open 3/4</td>
   </tr>
   <tr>
-    <td>Mardi 18h - 19h au Gymnase des Arts et Métiers</td>
+    <td>Mardi 17h30 - 19h au Gymnase des Arts et Métiers</td>
     <td colspan="2"><a href="juniors.html">Juniors</a></td>
   </tr>
   <tr>
