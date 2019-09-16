@@ -45,10 +45,6 @@ During the rest of the year however practices are restricted to team members onl
     <td>Women</td>
     <td>Open 1</td>
   </tr>
-  <tr>
-    <td>Saturday 10am - 12am at Plaine de jeu de Bagatelle</td>
-    <td colspan="2"><a href="youth.html">Youth</a></td>
-  </tr>
 </table>
 
 

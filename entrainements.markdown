@@ -42,10 +42,6 @@ En cours d'année, les entraînements sont réservés aux joueurs qui ont été 
     <td>Féminin</td>
     <td>Open 1</td>
   </tr>
-  <tr>
-    <td>Samedi 10h - 12h à la Plaine de jeu de Bagatelle</td>
-    <td colspan="2"><a href="juniors.html">Juniors</a></td>
-  </tr>
 </table>
 
 ## Informations
