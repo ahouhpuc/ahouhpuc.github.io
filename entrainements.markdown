@@ -16,29 +16,35 @@ En cours d'année, les entraînements sont réservés aux joueurs qui ont été 
 
 <table>
   <tr>
-    <td></td>
+    <td>Horaire</td>
+    <td>Lieu</td>
     <td>Entraînement 1</td>
     <td>Entraînement 2</td>
   </tr>
   <tr>
-    <td>Lundi 20h30 au stade Charlety</td>
+    <td>Lundi 20h30</td>
+    <td>Stade Charlety</td>
     <td>Open 2</td>
     <td>Open 3/4</td>
   </tr>
   <tr>
-    <td>Mardi 17h30 - 19h au Gymnase des Arts et Métiers</td>
+    <td>Mardi 17h30 - 19h</td>
+    <td>Gymnase des Arts et Métiers</td>
     <td colspan="2"><a href="juniors.html">Juniors</a></td>
   </tr>
   <tr>
-    <td>Mardi 20h30 au stade Charlety</td>
+    <td>Mardi 20h30</td>
+    <td>Stade Charlety</td>
     <td colspan="2">Mixte 1, 2 et 3</td>
   </tr>
   <tr>
-    <td>Mardi 20h30 au stade Ouest de la Cité Universitaire</td>
+    <td>Mardi 20h30</td>
+    <td>Stade Ouest de la Cité Universitaire</td>
     <td colspan="2">Débutants</td>
   </tr>
   <tr>
-    <td>Jeudi 20h30 au stade Ouest de la Cité Universitaire</td>
+    <td>Jeudi 20h30</td>
+    <td>Stade Ouest de la Cité Universitaire</td>
     <td>Féminin</td>
     <td>Open 1</td>
   </tr>
