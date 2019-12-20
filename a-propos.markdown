@@ -109,6 +109,9 @@ inter-rives avec nos voisins Révolution'air et bien d'autres encore !
 <tr><td>Championnat</td><td>Niveau</td><td>Equipe</td><td>Année</td><td>Résultat</td></tr>
 <tr><td>Outdoor</td><td>France D1</td><td>Open</td><td>1991</td><td>1er</td></tr>
 <tr><td>Indoor</td><td>France D1</td><td>Open</td><td>1991</td><td>1er</td></tr>
+<tr><td>Outdoor</td><td>France D1</td><td>Open</td><td>2019</td><td>3e</td></tr>
+<tr><td>Outdoor</td><td>Europe zone sud (EUCR)</td><td>Mixte</td><td>2019</td><td>1er</td></tr>
+<tr><td>Outdoor</td><td>Europe (EUCF)</td><td>Mixte</td><td>2019</td><td>6e</td></tr>
 </table>
 
 ### Résultats récents
@@ -122,6 +125,7 @@ inter-rives avec nos voisins Révolution'air et bien d'autres encore !
 <tr><td>Outdoor</td><td>France D1</td><td>Mixte</td><td>2019</td><td>3e</td></tr>
 <tr><td>Outdoor</td><td>France D1</td><td>Open</td><td>2019</td><td>3e</td></tr>
 <tr><td>Outdoor</td><td>Europe zone sud (EUCR)</td><td>Mixte</td><td>2019</td><td>1er</td></tr>
+<tr><td>Outdoor</td><td>Europe (EUCF)</td><td>Mixte</td><td>2019</td><td>6e</td></tr>
 </table>
 
 L’équipe mixte a participé à 4 championnats d’Europe et à 1 championnat du monde.
