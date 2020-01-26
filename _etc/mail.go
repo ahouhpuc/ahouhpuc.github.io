@@ -13,7 +13,7 @@ var email = os.Getenv("AOP_EMAIL_ADDRESS")
 var login = os.Getenv("AOP_EMAIL_LOGIN")
 var password = os.Getenv("AOP_EMAIL_PASSWORD")
 
-func sendMail(replyTo string, body string) error {
+func sendMail(visitorEmail string, body string) error {
 	auth := smtp.PlainAuth(
 		"",
 		login,
@@ -23,8 +23,8 @@ func sendMail(replyTo string, body string) error {
 
 	msg := strings.Join([]string{
 		fmt.Sprintf("To: %s", email),
-		fmt.Sprintf("Reply-To: %s", replyTo),
-		"Subject: Message de ahouhpuc.fr",
+		fmt.Sprintf("Reply-To: %s", visitorEmail),
+		fmt.Sprintf("Subject: Message de %s sur ahouhpuc.fr", visitorEmail),
 		"",
 		body,
 	}, "\r\n")
@@ -39,12 +39,12 @@ func sendMail(replyTo string, body string) error {
 }
 
 func mailHandler(w http.ResponseWriter, r *http.Request) {
-	replyTo := r.PostFormValue("email")
+	visitorEmail := r.PostFormValue("email")
 	body := r.PostFormValue("body")
 	redirect := r.PostFormValue("redirect")
 
-	if len(replyTo) > 0 && len(body) > 0 && len(redirect) > 0 {
-		err := sendMail(replyTo, body)
+	if len(visitorEmail) > 0 && len(body) > 0 && len(redirect) > 0 {
+		err := sendMail(visitorEmail, body)
 		if err == nil {
 			http.Redirect(w, r, redirect, http.StatusFound)
 		} else {
