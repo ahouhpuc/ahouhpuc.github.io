@@ -12,8 +12,8 @@ git archive --format=tar HEAD | (cd $BUILD_DIR && $TAR xf -)
 cd $BUILD_DIR
 jekyll build
 $TAR czf _site.tgz _site/
-scp _site.tgz martin@37.59.112.124:ahouhpuc/
-ssh -T martin@37.59.112.124 <<EOF
+scp _site.tgz martin@ahouhpuc.fr:ahouhpuc/
+ssh -T martin@ahouhpuc.fr <<EOF
 cd ahouhpuc
 if [ ! -d $BUILD_SHA ]; then
   tar xzf _site.tgz
@@ -28,14 +28,14 @@ rm _site.tgz
 rm -f _etc/server
 cd _etc && GOOS=linux GOARCH=amd64 go build -o server
 cd ..
-ssh -T root@37.59.112.124 <<EOF
+ssh -T root@ahouhpuc.fr <<EOF
 systemctl stop ahouhpuc.service
 EOF
 sleep 1
-scp _etc/server martin@37.59.112.124:ahouhpuc/server
+scp _etc/server martin@ahouhpuc.fr:ahouhpuc/server
 rm _etc/server
 
-ssh -T root@37.59.112.124 <<EOF
+ssh -T root@ahouhpuc.fr <<EOF
 setcap cap_net_bind_service=+ep /home/martin/ahouhpuc/server
 systemctl start ahouhpuc.service
 sleep 1
