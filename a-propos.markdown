@@ -110,7 +110,7 @@ inter-rives avec nos voisins Révolution'air et bien d'autres encore !
 <tr><td>Outdoor</td><td>France D1</td><td>Open</td><td>1991</td><td>1er</td></tr>
 <tr><td>Indoor</td><td>France D1</td><td>Open</td><td>1991</td><td>1er</td></tr>
 <tr><td>Outdoor</td><td>France D1</td><td>Open</td><td>2019</td><td>3e</td></tr>
-<tr><td>Outdoor</td><td>Europe zone sud (EUCR)</td><td>Mixte</td><td>2019</td><td>1er</td></tr>
+<tr><td>Outdoor</td><td>Europe zone sud (EUCR)</td><td>Mixte</td><td>2019</td><td>2e</td></tr>
 <tr><td>Outdoor</td><td>Europe (EUCF)</td><td>Mixte</td><td>2019</td><td>6e</td></tr>
 </table>
 
@@ -124,7 +124,7 @@ inter-rives avec nos voisins Révolution'air et bien d'autres encore !
 <tr><td>Outdoor</td><td>Europe zone sud (EUCR)</td><td>Féminin</td><td>2018</td><td>5e</td></tr>
 <tr><td>Outdoor</td><td>France D1</td><td>Mixte</td><td>2019</td><td>3e</td></tr>
 <tr><td>Outdoor</td><td>France D1</td><td>Open</td><td>2019</td><td>3e</td></tr>
-<tr><td>Outdoor</td><td>Europe zone sud (EUCR)</td><td>Mixte</td><td>2019</td><td>1er</td></tr>
+<tr><td>Outdoor</td><td>Europe zone sud (EUCR)</td><td>Mixte</td><td>2019</td><td>2e</td></tr>
 <tr><td>Outdoor</td><td>Europe (EUCF)</td><td>Mixte</td><td>2019</td><td>6e</td></tr>
 </table>
 
