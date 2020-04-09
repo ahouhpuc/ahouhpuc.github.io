@@ -14,23 +14,6 @@ Stade Charléty et de la Cité Universitaire dans le sud de Paris.
 
 Ah Ouh Puc est un club affilié à la FFDF, la <a href="https://www.ffdf.fr/" target="_blank">Fédération Flying Disc France</a>.
 
-## L'Ultimate
-
-L'Ultimate est un sport collectif utilisant un disque opposant deux équipes de
-7 joueurs. L'objectif est de marquer des points en progressant sur le terrain
-par passes successives vers la zone d'en-but adverse et d'y réceptionner le
-disque. L'Ultimate se joue en équipe féminine, masculine ou mixte.
-
-L’Ultimate est un sport auto-arbitré, qui repose sur l'esprit du jeu qui place
-la responsabilité du fair-play en chaque joueur.
-
-Tu trouveras plus d'information sur notre sport :
-
-* <a href="https://fr.wikipedia.org/wiki/Ultimate_(sport)" target="_blank">sur la page Wikipedia à propos de l'Ultimate</a>
-* <a href="https://www.ffdf.fr/" target="_blank">sur le site de la Fédération Flying Disc France</a>
-* <a href="http://www.wfdf.org/" target="_blank">sur le site de la World Flying Disc Federation</a>
-* <a href="wfdf_ultimate_rules_2017_-_french.pdf" target="_blank">en lisant les règles !</a>
-
 ## Histoire du club
 
 Ah Ouh Puc a été fondé en 2006 en tant que section sportive du Paris Université

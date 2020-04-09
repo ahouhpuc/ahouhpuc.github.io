@@ -17,10 +17,12 @@ La Summer Love est annoncée chaque année sur notre page Facebook :
 
 <div id="summer-love-fb"><div class="fb-like-box" data-href="https://www.facebook.com/ahouhpuc" data-colorscheme="light" data-show-faces="false" data-header="false" data-stream="false" data-show-border="false"></div></div>
 
-## Édition 2018 : Summer of Love
-Alors que Mai 68 a 50 ans, la SummerLove fête ses 10 ans ! Dix années d'amour estival, que vous ayez l'âme d'un étudiant manifestant expert du scoober de parpaing, d'un hippie adepte du pick câlin ou d'un astronaute pouvant sky jusqu'à la Lune, bienvenus pour ce voyage dans les sixties ! 
+## Édition 2019 : Summer Love Channel 2019
 
-## Édition 2017 : SuMEUHlove 
+## Édition 2018 : Summer of Love
+Alors que Mai 68 a 50 ans, la SummerLove fête ses 10 ans ! Dix années d'amour estival, que vous ayez l'âme d'un étudiant manifestant expert du scoober de parpaing, d'un hippie adepte du pick câlin ou d'un astronaute pouvant sky jusqu'à la Lune, bienvenus pour ce voyage dans les sixties !
+
+## Édition 2017 : SuMEUHlove
 Cette année, la SummerLove te transporte chez LES ANIMAUX DE LA FERME !!!!
 Mieux que Chirac caressant les vaches, mieux que Karine Lemarchand caressant les éleveurs, le PUC te donne de l'été, de l'amour <3 et du disque tous les jeudis soirs à 19H, à la halle Carpentier !
 
@@ -29,7 +31,7 @@ Le comité organisateur est au regret de vous informer que cette 9ème édition 
 
 ## Édition 2015 : Far West
 
-C'est dans une très chaude ambiance que la Summer Love 2015 s’est déroulée ! Les tribus autochtones et les Cow-boys du grand ouest ont réécrit l'histoire en s'échangeant de joyeux tirs de disques. Magnanime, le saloon du Fleurus aura su réconcilier ce petit monde autour de jolis calumets de la paix "maison". 
+C'est dans une très chaude ambiance que la Summer Love 2015 s’est déroulée ! Les tribus autochtones et les Cow-boys du grand ouest ont réécrit l'histoire en s'échangeant de joyeux tirs de disques. Magnanime, le saloon du Fleurus aura su réconcilier ce petit monde autour de jolis calumets de la paix "maison".
 
 ## Édition 2014 : Candy
 
