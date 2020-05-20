@@ -48,6 +48,11 @@ En cours d'année, les entraînements sont réservés aux joueurs qui ont été 
     <td>Féminin</td>
     <td>Open 1</td>
   </tr>
+  <tr>
+    <td>Samedi 10h - 12h</td>
+    <td>Stade Ouest de la Cité Universitaire</td>
+    <td colspan="2"><a href="juniors.html">Juniors</a></td>
+  </tr>
 </table>
 
 ## Informations
