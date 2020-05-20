@@ -33,7 +33,7 @@ The practice takes place on **Tuesday from 5:30pm to 7pm at Gymnase des Arts et 
 ## Information
 
 * Practice is never cancelled, whether it’s windy, raining or snowing.
-* Practice starts at 10 pm sharp. Players are asked to arrive 15 minutes early to get ready. Changing rooms equipped with showers are available both before and after trainings.
+* Practice starts right on time. Players are asked to arrive 15 minutes early to get ready. Changing rooms equipped with showers are available both before and after trainings.
 
 <p> It is readily accessible by public transport:</p>
 
