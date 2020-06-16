@@ -14,6 +14,7 @@ During the rest of the year however practices are restricted to team members onl
 
 ## When?
 
+**Attention : After a break due to covid19, youth trainings take place on Wednesday, from 5pm to 7pm at <a href="https://goo.gl/maps/y1G4PMRBDKnC19q48" target="_blank">Complexe Sportif Poterne des Peupliers</a>.**
 
 ### Froom 2019 September 9
 

@@ -6,6 +6,8 @@ cover:
   title: Stade Charlety
 ---
 
+**Attention : Pour la reprise des entraînements après le confinement, les entraînements juniors ont lieu le mercredi de 17h à 19h au <a href="https://goo.gl/maps/y1G4PMRBDKnC19q48" target="_blank">Complexe Sportif Poterne des Peupliers</a>. Ouverts aux débutants.**
+
 ## Pourquoi s'inscrire ?
 
 L'ultimate est un sport en pleine croissance. Il nécessite des capacités athlétiques et techniques importantes à un bon niveau, mais c'est un sport sans contact, facile à apprendre. Il permet aussi d'évoluer dans un groupe et de découvrir le plaisir de relever des défis ensemble.
