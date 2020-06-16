@@ -12,6 +12,8 @@ En cours d'année, les entraînements sont réservés aux joueurs qui ont été 
 
 ## Quand&nbsp;?
 
+**Attention : Pour la reprise des entraînements après le confinement, les entraînements juniors ont lieu le mercredi de 17h à 19h au <a href="https://goo.gl/maps/y1G4PMRBDKnC19q48" target="_blank">Complexe Sportif Poterne des Peupliers</a>. Ouverts aux débutants.**
+
 ### À partir du 9 septembre 2019
 
 <table>
