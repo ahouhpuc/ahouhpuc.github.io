@@ -7,8 +7,6 @@ cover:
   title: Stade Charlety
 ---
 
-**Attention : After a break due to covid19, youth trainings take place on Wednesday, from 5pm to 7pm at <a href="https://goo.gl/maps/y1G4PMRBDKnC19q48" target="_blank">Complexe Sportif Poterne des Peupliers</a>.**
-
 ## Join us
 
 Ultimate is a fast-moving team sport enjoyed by hundreds of thousands of people around the globe. It requires strong physical and technical abilities at a high level but it is easy and fun to learn.
