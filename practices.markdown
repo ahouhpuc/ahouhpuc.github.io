@@ -26,8 +26,7 @@ During the rest of the year however practices are restricted to team members onl
   <tr>
     <td>Monday 8:30 pm</td>
     <td>Stade Charlety</td>
-    <td>Open 2</td>
-    <td>Open 3/4</td>
+    <td colspan="2">Open 1, 2, 3</td>
   </tr>
   <tr>
     <td>Tuesday 5:30pm</td>
@@ -40,15 +39,10 @@ During the rest of the year however practices are restricted to team members onl
     <td colspan="2">Coed 1, 2 and 3</td>
   </tr>
   <tr>
-    <td>Tuesday 8:30 pm</td>
-    <td>Stade ouest of Cité Universitaire</td>
-    <td colspan="2">Rookies</td>
-  </tr>
-  <tr>
     <td>Thursday 8:30 pm</td>
     <td>Stade ouest of Cité Universitaire</td>
     <td>Women</td>
-    <td>Open 1</td>
+    <td>Rookies</td>
   </tr>
   <tr>
     <td>Saturday 10am - 12pm</td>

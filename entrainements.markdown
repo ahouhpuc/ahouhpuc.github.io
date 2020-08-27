@@ -24,8 +24,7 @@ En cours d'année, les entraînements sont réservés aux joueurs qui ont été 
   <tr>
     <td>Lundi 20h30</td>
     <td>Stade Charlety</td>
-    <td>Open 2</td>
-    <td>Open 3/4</td>
+    <td colspan="2">Open 1, 2, 3</td>
   </tr>
   <tr>
     <td>Mardi 17h30 - 19h</td>
@@ -38,15 +37,10 @@ En cours d'année, les entraînements sont réservés aux joueurs qui ont été 
     <td colspan="2">Mixte 1, 2 et 3</td>
   </tr>
   <tr>
-    <td>Mardi 20h30</td>
-    <td>Stade Ouest de la Cité Universitaire</td>
-    <td colspan="2">Débutants</td>
-  </tr>
-  <tr>
     <td>Jeudi 20h30</td>
     <td>Stade Ouest de la Cité Universitaire</td>
     <td>Féminin</td>
-    <td>Open 1</td>
+    <td>Débutants</td>
   </tr>
   <tr>
     <td>Samedi 10h - 12h</td>
