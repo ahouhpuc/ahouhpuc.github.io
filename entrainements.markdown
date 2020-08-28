@@ -53,7 +53,7 @@ En cours d'année, les entraînements sont réservés aux joueurs qui ont été 
 
 * Qu'il pleuve, qu'il vente ou qu'il neige, l'entraînement a toujours lieu.
 * L'entraînement commence à l'horaire indiqué, en tenue. Prévois donc d'arriver 15 minutes en avance. Un vestiaire est disponible pour se changer avant, et prendre une douche après.
-* **Pas de vestiaire actuellement à cause du Covd19**
+* **Pas de vestiaire actuellement à cause de la Covid-19**
 * Prends tes running pour la partie physique sur la piste d'athlétisme, et tes crampons moulés ou stabilisés pour le jeu sur le terrain synthétique.
 
 ## Où&nbsp;?
