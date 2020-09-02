@@ -92,14 +92,14 @@ inter-rives avec nos voisins Révolution'air et bien d'autres encore !
 
 <table>
 <tr><td>Championnat</td><td>Niveau</td><td>Equipe</td><td>Année</td><td>Résultat</td></tr>
-<tr><td>Outdoor</td><td>France D1</td><td>Open</td><td>1991</td><td>1er</td></tr>
-<tr><td>Indoor</td><td>France D1</td><td>Open</td><td>1991</td><td>1er</td></tr>
-<tr><td>Outdoor</td><td>Europe (EUCF)</td><td>Mixte</td><td>2009</td><td>11e</td></tr>
-<tr><td>Outdoor</td><td>Monde (WUCC)</td><td>Mixte</td><td>2010</td><td>25e</td></tr>
+<tr><td>Outdoor</td><td>Europe (EUCF)</td><td>Mixte</td><td>2019</td><td>6e</td></tr>
+<tr><td>Outdoor</td><td>Europe zone sud (EUCR)</td><td>Mixte</td><td>2019</td><td>2e</td></tr>
+<tr><td>Outdoor</td><td>France D1</td><td>Mixte</td><td>2019</td><td>3e</td></tr>
+<tr><td>Outdoor</td><td>France D1</td><td>Open</td><td>2019</td><td>3e</td></tr>
 <tr><td>Outdoor</td><td>France D1</td><td>Féminin</td><td>2016--2019</td><td>3e</td></tr>
 <tr><td>Outdoor</td><td>Europe zone sud (EUCR)</td><td>Féminin</td><td>2018</td><td>5e</td></tr>
-<tr><td>Outdoor</td><td>France D1</td><td>Open</td><td>2019</td><td>3e</td></tr>
-<tr><td>Outdoor</td><td>France D1</td><td>Mixte</td><td>2019</td><td>3e</td></tr>
-<tr><td>Outdoor</td><td>Europe zone sud (EUCR)</td><td>Mixte</td><td>2019</td><td>2e</td></tr>
-<tr><td>Outdoor</td><td>Europe (EUCF)</td><td>Mixte</td><td>2019</td><td>6e</td></tr>
+<tr><td>Outdoor</td><td>Monde (WUCC)</td><td>Mixte</td><td>2010</td><td>25e</td></tr>
+<tr><td>Outdoor</td><td>Europe (EUCF)</td><td>Mixte</td><td>2009</td><td>11e</td></tr>
+<tr><td>Indoor</td><td>France D1</td><td>Open</td><td>1991</td><td>1er</td></tr>
+<tr><td>Outdoor</td><td>France D1</td><td>Open</td><td>1991</td><td>1er</td></tr>
 </table>
