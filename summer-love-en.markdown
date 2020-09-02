@@ -17,6 +17,8 @@ It is announced each years on our Facebook page:
 
 <div id="summer-love-fb"><div class="fb-like-box" data-href="https://www.facebook.com/ahouhpuc" data-colorscheme="light" data-show-faces="false" data-header="false" data-stream="false" data-show-border="false"></div></div>
 
+## 2020: Summer Hits 2020
+
 ## 2019: Summer Love Channel 2019
 
 ## 2018: Summer of Love

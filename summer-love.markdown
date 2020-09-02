@@ -17,7 +17,12 @@ La Summer Love est annoncée chaque année sur notre page Facebook :
 
 <div id="summer-love-fb"><div class="fb-like-box" data-href="https://www.facebook.com/ahouhpuc" data-colorscheme="light" data-show-faces="false" data-header="false" data-stream="false" data-show-border="false"></div></div>
 
+## Édition 2020 : Summer Hits 2020
+Nous revenons pour une année placée sous le thème des tubes de l’été pour l’édition Summer hits 2020 ! Cet été sera rythmé par vos chansons préférées !
+Charlie et Lulu vous attendent nombreux, sous les sunlights des tropiques parisiens pour danser le mia tout l’été.
+
 ## Édition 2019 : Summer Love Channel 2019
+Cette année la Summer Love revient les jeudis de juillet et d'août à la Halle Georges Carpentier pour la 11e édition !
 
 ## Édition 2018 : Summer of Love
 Alors que Mai 68 a 50 ans, la SummerLove fête ses 10 ans ! Dix années d'amour estival, que vous ayez l'âme d'un étudiant manifestant expert du scoober de parpaing, d'un hippie adepte du pick câlin ou d'un astronaute pouvant sky jusqu'à la Lune, bienvenus pour ce voyage dans les sixties !
