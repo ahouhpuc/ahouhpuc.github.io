@@ -353,3 +353,13 @@ form {
   }
 
 }
+
+@media (max-width: 800px) {
+  .phone-calendar { display: block; }
+  .desktop-calendar { display: none; }
+}
+
+@media (min-width: 801px) {
+  .phone-calendar { display: none; }
+  .desktop-calendar { display: block; }
+}
