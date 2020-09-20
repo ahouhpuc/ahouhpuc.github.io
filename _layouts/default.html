@@ -64,6 +64,11 @@
     {% endif %}
     <div id="container">
       {{content}}
+      {% if page.lang == "fr" %}
+        {% include contact.fr.html %}
+      {% else %}
+        {% include contact.en.html %}
+      {% endif %}
     </div>
   </body>
 </html>
