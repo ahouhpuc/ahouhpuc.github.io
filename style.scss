@@ -6,7 +6,7 @@ layout: ""
 
 $primary-color: #7b399c;
 
-@media (max-width: 800px) {
+@media (max-width: 840px) {
 
   nav {
 
@@ -47,7 +47,7 @@ $primary-color: #7b399c;
 
 }
 
-@media (min-width: 801px) {
+@media (min-width: 841px) {
 
   #container, nav {
     width: 800px;
@@ -354,12 +354,12 @@ form {
 
 }
 
-@media (max-width: 800px) {
+@media (max-width: 840px) {
   .phone-calendar { display: block; }
   .desktop-calendar { display: none; }
 }
 
-@media (min-width: 801px) {
+@media (min-width: 841px) {
   .phone-calendar { display: none; }
   .desktop-calendar { display: block; }
 }
