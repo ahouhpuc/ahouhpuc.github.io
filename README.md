@@ -11,7 +11,7 @@ You need a recent version of ruby and go installed.
 ```
 git clone git@github.com:martoche/ahouhpuc.git
 cd ahouhpuc
-gem install jekyll
+bundle install
 cd _etc/
 go build
 cd ..
