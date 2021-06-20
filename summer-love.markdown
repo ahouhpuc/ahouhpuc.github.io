@@ -13,7 +13,7 @@ La Summer Love est une compétition hat que nous organisons tous les étés. Les
 l'inscription, tu nous donnes tes disponibilités en fonction de tes vacances et
 de ton niveau, et les équipes sont faîtes en conséquence.
 
-La Summer Love est annoncée chaque année sur notre page Facebook :
+La Summer Love est annoncée chaque année sur nos pages <a href="https://www.facebook.com/pucultimate/" target="_blank" rel="noreferrer noopener">Facebook</a> et <a href="https://www.instagram.com/puc_ultimate/" target="_blank" rel="noreferrer noopener">Instagram</a>.
 
 <div id="summer-love-fb"><div class="fb-like-box" data-href="https://www.facebook.com/pucultimate" data-colorscheme="light" data-show-faces="false" data-header="false" data-stream="false" data-show-border="false"></div></div>
 

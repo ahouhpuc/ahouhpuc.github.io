@@ -14,6 +14,11 @@ $primary-color: #7b399c;
       margin-left: 1rem;
     }
 
+    #logo {
+      max-width: 70%;
+      height: auto;
+    }
+
     .flag {
       display: none;
     }
@@ -25,7 +30,7 @@ $primary-color: #7b399c;
     .flag img {
       width: 1.2rem;
       height: 1.2rem;
-      vertical-align: bottom;
+      vertical-align: middle;
     }
 
     ul, #menu {
@@ -56,12 +61,17 @@ $primary-color: #7b399c;
   nav {
 
     h1 {
-      margin-left: 0.7rem;
+      margin-left: 0.4rem;
+    }
+
+    #logo {
+      margin-top: 1rem;
+      height: 4rem;
     }
 
     .flag {
       position: absolute;
-      top: 1rem;
+      top: 1.2rem;
       right: 1rem;
     }
 
@@ -145,11 +155,6 @@ nav {
 
   }
 
-  #logo {
-    margin-top: 1rem;
-    height: 4rem;
-  }
-
   a {
     text-decoration: none;
   }
@@ -158,7 +163,7 @@ nav {
     text-transform: uppercase;
     margin: 0;
     padding: 0;
-    top: 4.5rem;
+    top: 2.5rem;
     background: #fff;
     list-style-type: none;
     z-index: 1; // otherwise <sup> elements appear on top
@@ -194,8 +199,8 @@ nav {
     border: 1px solid $primary-color;
     color: $primary-color;
     padding: 0.2rem 0.6rem;
-    top: 2.1rem;
-    right: 1rem;
+    top: 0.2rem;
+    right: 0.8rem;
     line-height: 1.4rem;
     box-sizing: border-box;
   }
@@ -258,7 +263,7 @@ tr:first-child {
 }
 
 .cover {
-  height: 45%;
+  height: 40%;
   background-position: center center;
   background-size: cover;
   margin: 1rem 0 2rem 0;
