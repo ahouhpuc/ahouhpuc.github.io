@@ -1,11 +1,11 @@
 ---
-title: Équipes Ultimate Ah Ouh Puc
-description: Le Ah Ouh Puc a une équipe féminine, trois équipes open et deux équipes coed qui participent chaque année aux championnats de France d'Ultimate.
+title: Équipes PUC Ultimate
+description: Le PUC Ultimate a une équipe féminine, trois équipes open et deux équipes coed qui participent chaque année aux championnats de France d'Ultimate.
 ---
 
 ## Equipes féminines
 
-Ah Ouh Puc est le premier club à aligner 2 équipes féminines en France.
+Le PUC Ultimate est le premier club à aligner 2 équipes féminines en France.
 
 ### Lillipuc
 
@@ -45,7 +45,7 @@ ambiance compétitive tout en prenant du plaisir ensemble. Elle a obtenu sa plac
 
 ### Coed 3
 
-Ah Ouh Puc est le premier club à aligner trois équipes mixtes en championnat. Notre équipe 3 rassemble les joueurs qui souhaitent participer au championnat mixte sans pression de résultat.
+Le PUC Ultimate est le premier club à aligner trois équipes mixtes en championnat. Notre équipe 3 rassemble les joueurs qui souhaitent participer au championnat mixte sans pression de résultat.
 
 ##  Equipes Open
 

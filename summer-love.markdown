@@ -2,7 +2,7 @@
 summerlove: true
 facebook: true
 title: Summer Love
-description: La Summer Love est une compétition hat organisée par le Ah Ouh Puc tous les étés. Les équipes s'affrontent une fois par semaine durant les mois de juillet et août.
+description: La Summer Love est une compétition hat organisée par le PUC Ultimate tous les étés. Les équipes s'affrontent une fois par semaine durant les mois de juillet et août.
 cover:
   src: summer-love.jpg
   title: Summer Love
@@ -15,7 +15,7 @@ de ton niveau, et les équipes sont faîtes en conséquence.
 
 La Summer Love est annoncée chaque année sur notre page Facebook :
 
-<div id="summer-love-fb"><div class="fb-like-box" data-href="https://www.facebook.com/ahouhpuc" data-colorscheme="light" data-show-faces="false" data-header="false" data-stream="false" data-show-border="false"></div></div>
+<div id="summer-love-fb"><div class="fb-like-box" data-href="https://www.facebook.com/pucultimate" data-colorscheme="light" data-show-faces="false" data-header="false" data-stream="false" data-show-border="false"></div></div>
 
 ## Édition 2020 : Summer Hits 2020
 Nous revenons pour une année placée sous le thème des tubes de l’été pour l’édition Summer hits 2020 ! Cet été sera rythmé par vos chansons préférées !
@@ -40,7 +40,7 @@ C'est dans une très chaude ambiance que la Summer Love 2015 s’est déroulée 
 
 ## Édition 2014 : Candy
 
-Pour l'été 2014, la Summer Love s'est déplacée au Stage Georges Carpentier pour accueillir pluuuuuus de joueurs sur 4 terrains ! En plus de faire une overdose de bonbons, des réductions spéciales Summer Love t'attendent au QG du Ah Ouh Puc, le <a href="https://www.facebook.com/Le-fleurus-171124089604067/" target="_blank">Fleurus</a>.
+Pour l'été 2014, la Summer Love s'est déplacée au Stage Georges Carpentier pour accueillir pluuuuuus de joueurs sur 4 terrains ! En plus de faire une overdose de bonbons, des réductions spéciales Summer Love t'attendent au QG du PUC Ultimate, le <a href="https://www.facebook.com/Le-fleurus-171124089604067/" target="_blank">Fleurus</a>.
 
 ## Édition 2013 : Video Games
 

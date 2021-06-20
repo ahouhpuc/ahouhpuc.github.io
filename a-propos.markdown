@@ -1,29 +1,29 @@
 ---
-title: À propos du Ah Ouh Puc
-description: Ah Ouh Puc est un club d'Ultimate Frisbee à Paris. Il a été fondé en 2006 en prenant la suite d'un club qui existait depuis 1989, les Invalids.
+title: À propos du PUC Ultimate
+description: Le PUC Ultimate est un club d'Ultimate Frisbee à Paris. Il a été fondé en 2006 en prenant la suite d'un club qui existait depuis 1989, les Invalids.
 ---
 
 ## À propos
 
-<a href="http://www.puc.paris/" target="_blank">![Logo PUC Paris Université Club](logo-puc-paris-université-club.jpg)</a>
+<a href="http://www.puc.paris/" target="_blank">![Logo PUC Paris Université Club](logo-puc-paris-université-club.jpg)</a>
 
-Ah Ouh Puc est un club d'Ultimate Frisbee. C'est une section sportive du PUC,
+Le PUC Ultimate est un club d'Ultimate Frisbee. C'est une section sportive du PUC,
 le <a href="http://www.puc.paris/" target="_blank">Paris Université Club</a>.
 Le PUC est un grand club omnisports qui regroupe 30 sections sportives autour du
 Stade Charléty et de la Cité Universitaire dans le sud de Paris.
 
-Ah Ouh Puc est un club affilié à la FFDF, la <a href="https://www.ffdf.fr/" target="_blank">Fédération Flying Disc France</a>.
+Le PUC Ultimate est affilié à la FFDF, la <a href="https://www.ffdf.fr/" target="_blank">Fédération Flying Disc France</a>.
 
 ## Histoire du club
 
-Ah Ouh Puc a été fondé en 2006 en tant que section sportive du Paris Université
-Club. Mais l’histoire commence en réalité en 1989 avec la naissance des
+Le PUC Ultimate a été fondé en 2006 en tant que section sportive du Paris Université
+Club sous le nom PUC Ultimate. Mais l’histoire commence en réalité en 1989 avec la naissance des
 Invalids.
 
 
 ### 1989 - Les Invalids
 
-![Ah Ouh Puc Invalides 2006](ah-ouh-puc-invalides-2006.jpg)
+![PUC Ultimate Invalides](ah-ouh-puc-invalides-2006.jpg)
 
 Au commencement, quelques joueurs se retrouvent le mercredi soir sur
 l’esplanade des Invalides et le week-end sur la pelouse de Bagatelle dans le
@@ -70,10 +70,15 @@ d'une semaine de découverte du pays de Johannesburg à Soweto en passant par le
 Blyde River Canyon et le Parc Kruger. Ce moment restera gravé dans les
 mémoires.
 
+### 2021 - Le PUC Ultimate
+
+Après 15 ans de présence au haut niveau, PUC Ultimate prend le nom de PUC Ultimate
+pour renforcer ses liens avec le Paris Université Club.
+
 
 ### Aujourd’hui
 
-AhOuhPuc compte plus de 150 licenciés et est solidement installé
+Le PUC Ultimate compte plus de 150 licenciés et est solidement installé
 dans l’Ultimate français, avec de nombreuses équipes de niveaux divers :
 * 4 équipes Open, de N1 à régional 3 ;
 * 3 équipes mixtes en N1, N2 et N3 ;

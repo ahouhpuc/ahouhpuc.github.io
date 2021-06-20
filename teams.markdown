@@ -1,7 +1,7 @@
 ---
 lang: en
-title: Ah Ouh Puc Ultimate Teams
-description: Ah Ouh Puc has a women's team, four open teams and two mixed teams that participate every year in the French championships
+title: PUC Ultimate Teams
+description: PUC Ultimate has a women's team, four open teams and two mixed teams that participate every year in the French championships
 ---
 
 ### Lillipuc

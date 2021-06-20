@@ -3,7 +3,7 @@ lang: en
 summerlove: true
 facebook: true
 title: Summer Love
-description: La Summer Love est une compétition hat organisée par le Ah Ouh Puc tous les étés. Les équipes s'affrontent chaque mercredi soir des mois de juillet et août.
+description: La Summer Love est une compétition hat organisée par le PUC Ultimate tous les étés. Les équipes s'affrontent chaque mercredi soir des mois de juillet et août.
 cover:
   src: summer-love.jpg
   title: Summer Love
@@ -15,7 +15,7 @@ Teams compete each Thursday during July and August.
 
 It is announced each years on our Facebook page:
 
-<div id="summer-love-fb"><div class="fb-like-box" data-href="https://www.facebook.com/ahouhpuc" data-colorscheme="light" data-show-faces="false" data-header="false" data-stream="false" data-show-border="false"></div></div>
+<div id="summer-love-fb"><div class="fb-like-box" data-href="https://www.facebook.com/pucultimate" data-colorscheme="light" data-show-faces="false" data-header="false" data-stream="false" data-show-border="false"></div></div>
 
 ## 2020: Summer Hits 2020
 

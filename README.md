@@ -1,6 +1,6 @@
-# ahouhpuc
+# PUC Ultimate
 
-Website of Ah Ouh PUC (ultimate frisbee club)
+Website of PUC Ultimate (ultimate frisbee club), previously named Ah Ouh Puc
 
 [Visit website](https://puc-ultimate.fr/fr.html)
 

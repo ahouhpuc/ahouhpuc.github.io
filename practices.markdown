@@ -1,7 +1,7 @@
 ---
 lang: en
-title: Ah Ouh Puc Ultimate Practices
-description: Ah Ouh Puc Ultimate practices take place all year long at Stade Charlety in the south of Paris
+title: PUC Ultimate Practices
+description: PUC Ultimate practices take place all year long at Stade Charlety in the south of Paris
 cover:
   src: charlety.jpg
   title: Stade Charlety
