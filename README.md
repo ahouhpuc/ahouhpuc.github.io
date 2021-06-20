@@ -2,9 +2,8 @@
 
 Website of PUC Ultimate (ultimate frisbee club), previously named Ah Ouh Puc
 
-[Visit website](https://puc-ultimate.fr/fr.html)
+[Visit website](https://puc-ultimate.fr/)
 
-<!--
 ## Development
 
 You need a recent version of ruby and go installed.
@@ -35,4 +34,3 @@ See the install.sh script. Additionnal steps:
 	ever commit this file in the git repository).
 - Copy the /home/martin/ahouhpuc/autocert dir on the new server (don’t
 	ever commit these files in the git repository).
--->

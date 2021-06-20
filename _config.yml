@@ -5,6 +5,8 @@ defaults:
     values:
       layout: default
       lang: fr
+plugins:
+  - jekyll-redirect-from
 sass:
   sass_dir: _css
   style: :compressed
