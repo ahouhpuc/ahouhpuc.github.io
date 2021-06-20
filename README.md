@@ -6,15 +6,14 @@ Website of PUC Ultimate (ultimate frisbee club), previously named Ah Ouh Puc
 
 ## Development
 
+**NOTE**: Everything related to go is probably not in use and could be deleted from the repository. It was used when the website was hosted on a dedicated server. Now that we use only Jekyll on Github Pages, it is deprecated.
+
 You need a recent version of ruby and go installed.
 
 ```
-git clone git@github.com:martoche/ahouhpuc.git
-cd ahouhpuc
+git clone git@github.com:ahouhpuc/ahouhpuc.github.io.git
+cd ahouhpuc.github.io
 bundle install
-cd _etc/
-go build
-cd ..
 jekyll serve
 ```
 
@@ -22,15 +21,4 @@ And visit http://localhost:4000/fr.html to see your changes
 
 ## Deployment
 
-1. Ask someone the required credentials (ssh access)
-2. Make sure your local git points to the version you want to deploy
-3. run `_etc/deploy.sh`
-
-## Install a new server
-
-See the install.sh script. Additionnal steps:
-
-- Copy the /home/martin/ahouhpuc/production.env file on the new server (don’t
-	ever commit this file in the git repository).
-- Copy the /home/martin/ahouhpuc/autocert dir on the new server (don’t
-	ever commit these files in the git repository).
+Any update on the `master` branch triggers a new build and deployment of the website.
