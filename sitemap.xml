@@ -62,14 +62,4 @@
     <xhtml:link rel="alternate" href="https://puc-ultimate.fr/a-propos.html" hreflang="fr" />
     <xhtml:link rel="alternate" href="https://puc-ultimate.fr/about-us.html" hreflang="en" />
   </url>
-  <url>
-    <loc>https://puc-ultimate.fr/contact.html</loc>
-    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/contact.html" hreflang="fr" />
-    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/contact-en.html" hreflang="en" />
-  </url>
-  <url>
-    <loc>https://puc-ultimate.fr/contact-en.html</loc>
-    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/contact.html" hreflang="fr" />
-    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/contact-en.html" hreflang="en" />
-  </url>
 </urlset>
