@@ -72,7 +72,7 @@ mémoires.
 
 ### 2021 - Le PUC Ultimate
 
-Après 15 ans de présence au haut niveau, PUC Ultimate prend le nom de PUC Ultimate
+Après 15 ans de présence au haut niveau, Ah Ouh PUC prend le nom de PUC Ultimate
 pour renforcer ses liens avec le Paris Université Club.
 
 
