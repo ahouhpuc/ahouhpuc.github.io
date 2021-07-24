@@ -82,7 +82,9 @@ Le PUC Ultimate compte plus de 150 licenciés et est solidement installé
 dans l’Ultimate français, avec de nombreuses équipes de niveaux divers :
 * 4 équipes Open, de N1 à régional 3 ;
 * 3 équipes mixtes en N1, N2 et N3 ;
-* 2 équipes féminines.
+* 2 équipes féminines ;
+* 1 équipe U17 ;
+* 1 équipe U15.
 
 Le club continu à accueillir de nombreux débutants qui représentent une bonne
 part de l’effectif du club. Il envoie régulièrement des équipes aux différents
