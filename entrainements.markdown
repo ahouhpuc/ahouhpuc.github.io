@@ -12,7 +12,7 @@ En cours d'année, les entraînements sont réservés aux joueurs qui ont été 
 
 ## Quand&nbsp;?
 
-### À partir du 31 août 2020
+### À partir du 31 août 2021
 
 <table>
   <tr>
@@ -29,7 +29,7 @@ En cours d'année, les entraînements sont réservés aux joueurs qui ont été 
   <tr>
     <td>Mardi 17h30 - 19h</td>
     <td>Gymnase des Arts et Métiers</td>
-    <td colspan="2"><a href="juniors.html">Juniors</a></td>
+    <td colspan="2"><a href="juniors.html">Juniors</a>(perfectionnement et filles)</td>
   </tr>
   <tr>
     <td>Mardi 20h30</td>

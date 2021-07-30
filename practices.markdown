@@ -14,7 +14,7 @@ During the rest of the year however practices are restricted to team members onl
 
 ## When?
 
-### From 31 August 2020
+### From 31 August 2021
 
 <table>
   <tr>
