@@ -29,7 +29,7 @@ En cours d'année, les entraînements sont réservés aux joueurs qui ont été 
   <tr>
     <td>Mardi 17h30 - 19h</td>
     <td>Gymnase des Arts et Métiers</td>
-    <td colspan="2"><a href="juniors.html">Juniors</a>(perfectionnement et filles)</td>
+    <td colspan="2"><a href="juniors.html">Juniors</a> (perfectionnement et filles)</td>
   </tr>
   <tr>
     <td>Mardi 20h30</td>
@@ -43,7 +43,7 @@ En cours d'année, les entraînements sont réservés aux joueurs qui ont été 
     <td>Débutants</td>
   </tr>
   <tr>
-    <td>Samedi 10h - 12h</td>
+    <td>Samedi 9h30 - 11h30</td>
     <td>Stade Ouest de la Cité Universitaire</td>
     <td colspan="2"><a href="juniors.html">Juniors</a></td>
   </tr>
