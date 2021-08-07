@@ -31,7 +31,7 @@ During the rest of the year however practices are restricted to team members onl
   <tr>
     <td>Tuesday 5:30pm</td>
     <td>Gymnase des Arts et Métiers</td>
-    <td colspan="2"><a href="youth.html">Youth</a></td>
+    <td colspan="2"><a href="youth.html">Youth (advanced and girls)</a></td>
   </tr>
   <tr>
     <td>Tuesday 8:30 pm</td>
@@ -45,7 +45,7 @@ During the rest of the year however practices are restricted to team members onl
     <td>Rookies</td>
   </tr>
   <tr>
-    <td>Saturday 10am - 12pm</td>
+    <td>Saturday 9:30 am - 11:30 am</td>
     <td>Stade ouest of Cité Universitaire</td>
     <td colspan="2"><a href="youth.html">Youth</a></td>
   </tr>
