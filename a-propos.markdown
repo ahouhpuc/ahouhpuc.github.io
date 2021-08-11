@@ -5,7 +5,7 @@ description: Le PUC Ultimate est un club d'Ultimate Frisbee à Paris. Il a été
 
 ## À propos
 
-<a href="http://www.puc.paris/" target="_blank">![Logo PUC Paris Université Club](logo-puc-paris-université-club.jpg)</a>
+<a href="http://www.puc.paris/" target="_blank">![Logo PUC Paris Université Club](logo_puc.png)</a>
 
 Le PUC Ultimate est un club d'Ultimate Frisbee. C'est une section sportive du PUC,
 le <a href="http://www.puc.paris/" target="_blank">Paris Université Club</a>.
