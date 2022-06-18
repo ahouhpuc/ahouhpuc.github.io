@@ -40,8 +40,12 @@ Londres , as well as the WUCC in Prague (2010).
 
 ### Coed 2
 
-Fun & Win team playing in 2nd national division in France.
+Second elite mixed team, also playing in the french first division!
 
 ### Coed 3
 
-Our club boasts enough players for a second mixed team playing in division 2.
+Fun & Win team playing in 3rd national division in France.
+
+### Coed 4
+
+Our club boasts enough players for a fourth mixed team playing in regional division.

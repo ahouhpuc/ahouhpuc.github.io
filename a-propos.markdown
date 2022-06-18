@@ -78,13 +78,14 @@ pour renforcer ses liens avec le Paris Université Club.
 
 ### Aujourd’hui
 
-Le PUC Ultimate compte plus de 150 licenciés et est solidement installé
+Le PUC Ultimate compte plus de 180 licenciés et est solidement installé
 dans l’Ultimate français, avec de nombreuses équipes de niveaux divers :
 * 4 équipes Open, de N1 à régional 3 ;
-* 3 équipes mixtes en N1, N2 et N3 ;
+* 4 équipes mixtes en N1, N2 et N3 ;
 * 2 équipes féminines ;
-* 1 équipe U17 ;
-* 1 équipe U15.
+* 1 équipe open U20 ;
+* 1 équipe open U17 ;
+* 1 équipe open U15.
 
 Le club continu à accueillir de nombreux débutants qui représentent une bonne
 part de l’effectif du club. Il envoie régulièrement des équipes aux différents
@@ -99,6 +100,7 @@ inter-rives avec nos voisins Révolution'air et bien d'autres encore !
 
 <table>
 <tr><td>Championnat</td><td>Niveau</td><td>Equipe</td><td>Année</td><td>Résultat</td></tr>
+<tr><td>Outdoor</td><td>Europe Master (EMUCC)</td><td>Mixte</td><td>2022</td><td>1er</td></tr>
 <tr><td>Outdoor</td><td>Europe (EUCF)</td><td>Mixte</td><td>2019</td><td>6e</td></tr>
 <tr><td>Outdoor</td><td>Europe zone sud (EUCR)</td><td>Mixte</td><td>2019</td><td>2e</td></tr>
 <tr><td>Outdoor</td><td>France D1</td><td>Mixte</td><td>2019</td><td>3e</td></tr>

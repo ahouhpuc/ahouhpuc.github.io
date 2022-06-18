@@ -14,7 +14,7 @@ During the rest of the year however practices are restricted to team members onl
 
 ## When?
 
-### From 31 August 2021
+### From 31 August 2022
 
 <table>
   <tr>
@@ -36,7 +36,7 @@ During the rest of the year however practices are restricted to team members onl
   <tr>
     <td>Tuesday 8:30 pm</td>
     <td>Stade Charlety</td>
-    <td colspan="2">Coed 1, 2 and 3</td>
+    <td colspan="2">Coed 1, 2, 3 and 4</td>
   </tr>
   <tr>
     <td>Thursday 8:30 pm</td>

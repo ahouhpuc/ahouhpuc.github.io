@@ -12,7 +12,7 @@ En cours d'année, les entraînements sont réservés aux joueurs qui ont été 
 
 ## Quand&nbsp;?
 
-### À partir du 31 août 2021
+### À partir du 31 août 2022
 
 <table>
   <tr>
@@ -34,7 +34,7 @@ En cours d'année, les entraînements sont réservés aux joueurs qui ont été 
   <tr>
     <td>Mardi 20h30</td>
     <td>Stade Charlety</td>
-    <td colspan="2">Mixte 1, 2 et 3</td>
+    <td colspan="2">Mixte 1, 2, 3 et 4</td>
   </tr>
   <tr>
     <td>Jeudi 20h30</td>
