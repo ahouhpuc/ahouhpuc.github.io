@@ -14,6 +14,28 @@ During the rest of the year however practices are restricted to team members onl
 
 ## When?
 
+### Summer 2022
+
+<table>
+  <tr>
+    <td>Schedule</td>
+    <td>Location</td>
+    <td>Practice 1</td>
+    <td>Practice 2</td>
+  </tr>
+  <tr>
+    <td>Monday 6:30 pm</td>
+    <td>Stade Charlety</td>
+    <td colspan="2">Youth (all levels)</td>
+  </tr>
+  <tr>
+    <td>Monday 8:30 pm</td>
+    <td>Stade Charlety</td>
+    <td>Coed (WUCC)</td>
+    <td>Fun practice</td>
+  </tr>
+</table>
+
 ### From 31 August 2022
 
 <table>

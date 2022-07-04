@@ -12,6 +12,28 @@ En cours d'année, les entraînements sont réservés aux joueurs qui ont été 
 
 ## Quand&nbsp;?
 
+### Été 2022
+
+<table>
+  <tr>
+    <td>Horaire</td>
+    <td>Lieu</td>
+    <td>Entraînement 1</td>
+    <td>Entraînement 2</td>
+  </tr>
+  <tr>
+    <td>Lundi 18h30</td>
+    <td>Stade Charlety</td>
+    <td colspan="2">Jeunes de 8 à 18 ans, tous niveaux</td>
+  </tr>
+  <tr>
+    <td>Lundi 20h30</td>
+    <td>Stade Charlety</td>
+    <td>Mixte compétitif (WUCC)</td>
+    <td>Entraînement loisir</td>
+  </tr>
+</table>
+
 ### À partir du 31 août 2022
 
 <table>
