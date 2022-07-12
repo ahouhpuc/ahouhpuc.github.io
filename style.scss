@@ -137,14 +137,12 @@ li {
 }
 
 nav {
-
   position: relative;
   font-weight: bold;
   margin: 0 auto;
   font-size: 87%;
 
   h1 {
-
     font-size: 0.7rem;
     color: $primary-color;
 
@@ -208,6 +206,11 @@ nav {
   #menu.on {
     background-color: $primary-color;
     color: #fff;
+  }
+
+  .hiring {
+    font-weight: initial;
+    font-style: italic;
   }
 }
 
