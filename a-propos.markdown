@@ -100,6 +100,8 @@ inter-rives avec nos voisins Révolution'air et bien d'autres encore !
 
 <table>
 <tr><td>Championnat</td><td>Niveau</td><td>Equipe</td><td>Année</td><td>Résultat</td></tr>
+<tr><td>Outdoor</td><td>World master (WMUCC)</td><td>Mixte</td><td>2022</td><td>17e (sur 32)</td></tr>
+<tr><td>Outdoor</td><td>World (WUCC)</td><td>Mixte</td><td>2022</td><td>25e (sur 40)</td></tr>
 <tr><td>Outdoor</td><td>Europe Master (EMUCC)</td><td>Mixte</td><td>2022</td><td>1er</td></tr>
 <tr><td>Outdoor</td><td>Europe (EUCF)</td><td>Mixte</td><td>2019</td><td>6e</td></tr>
 <tr><td>Outdoor</td><td>Europe zone sud (EUCR)</td><td>Mixte</td><td>2019</td><td>2e</td></tr>
