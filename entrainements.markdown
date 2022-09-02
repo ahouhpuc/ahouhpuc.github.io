@@ -12,30 +12,6 @@ En cours d'année, les entraînements sont réservés aux joueurs qui ont été 
 
 ## Quand&nbsp;?
 
-### Été 2022
-
-<table>
-  <tr>
-    <td>Horaire</td>
-    <td>Lieu</td>
-    <td>Entraînement 1</td>
-    <td>Entraînement 2</td>
-  </tr>
-  <tr>
-    <td>Lundi 18h30</td>
-    <td>Stade Charlety</td>
-    <td colspan="2">Jeunes de 8 à 18 ans, tous niveaux</td>
-  </tr>
-  <tr>
-    <td>Lundi 20h30</td>
-    <td>Stade Charlety</td>
-    <td>Mixte compétitif (WUCC)</td>
-    <td>Entraînement loisir</td>
-  </tr>
-</table>
-
-### À partir du 31 août 2022
-
 <table>
   <tr>
     <td>Horaire</td>
@@ -49,14 +25,14 @@ En cours d'année, les entraînements sont réservés aux joueurs qui ont été 
     <td colspan="2">Open 1, 2, 3</td>
   </tr>
   <tr>
-    <td>Mardi 17h30 - 19h</td>
-    <td>Gymnase des Arts et Métiers</td>
-    <td colspan="2"><a href="juniors.html">Juniors</a> (perfectionnement et filles)</td>
+    <td>Mardi 20h30</td>
+    <td>Stade Charlety</td>
+    <td colspan="2">Mixte 1 et 2</td>
   </tr>
   <tr>
     <td>Mardi 20h30</td>
-    <td>Stade Charlety</td>
-    <td colspan="2">Mixte 1, 2, 3 et 4</td>
+    <td>Stade Ouest</td>
+    <td colspan="2">Mixte 3 et 4</td>
   </tr>
   <tr>
     <td>Jeudi 20h30</td>
@@ -87,10 +63,6 @@ En cours d'année, les entraînements sont réservés aux joueurs qui ont été 
 * Les entraînements à la Cité Universitaire ont lieu sur le terrain du stade Ouest de la Cité Universitaire. L'accès se fait par l'avenue André Rivoire.
 
 <iframe class="charlety" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1313.511257225524!2d2.3299169582910815!3d48.81963186087285!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e671a63b6a4c6f%3A0xd5ab8a3826c34384!2sStade+Ouest+CIUP!5e0!3m2!1sfr!2sfr!4v1537263743348"></iframe>
-
-* Les entraînements au Gymnase des Arts et Métiers ont lieu dans la Cité Universitaire
-
-<iframe class="charlety" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10508.403649345673!2d2.3343372!3d48.818136!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xcc60ba1872d72493!2sGymnase%20des%20Arts%20et%20M%C3%A9tiers!5e0!3m2!1sfr!2sfr!4v1567499121068!5m2!1sfr!2sfr"></iframe>
 
 <p>Pour venir en transports en commun :</p>
 

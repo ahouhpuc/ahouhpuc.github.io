@@ -14,30 +14,6 @@ During the rest of the year however practices are restricted to team members onl
 
 ## When?
 
-### Summer 2022
-
-<table>
-  <tr>
-    <td>Schedule</td>
-    <td>Location</td>
-    <td>Practice 1</td>
-    <td>Practice 2</td>
-  </tr>
-  <tr>
-    <td>Monday 6:30 pm</td>
-    <td>Stade Charlety</td>
-    <td colspan="2">Youth (all levels)</td>
-  </tr>
-  <tr>
-    <td>Monday 8:30 pm</td>
-    <td>Stade Charlety</td>
-    <td>Coed (WUCC)</td>
-    <td>Fun practice</td>
-  </tr>
-</table>
-
-### From 31 August 2022
-
 <table>
   <tr>
     <td>Schedule</td>
@@ -51,14 +27,14 @@ During the rest of the year however practices are restricted to team members onl
     <td colspan="2">Open 1, 2, 3</td>
   </tr>
   <tr>
-    <td>Tuesday 5:30pm</td>
-    <td>Gymnase des Arts et Métiers</td>
-    <td colspan="2"><a href="youth.html">Youth (advanced and girls)</a></td>
+    <td>Tuesday 8:30 pm</td>
+    <td>Stade Charlety</td>
+    <td colspan="2">Mixed 1 and 2</td>
   </tr>
   <tr>
     <td>Tuesday 8:30 pm</td>
-    <td>Stade Charlety</td>
-    <td colspan="2">Coed 1, 2, 3 and 4</td>
+    <td>Stade Ouest</td>
+    <td colspan="2">Mixed 3 and 4</td>
   </tr>
   <tr>
     <td>Thursday 8:30 pm</td>
@@ -90,10 +66,6 @@ During the rest of the year however practices are restricted to team members onl
 * Practices at Cité Universitaire take place at Stade Ouest of Cité Universitaire. The entrance is located at André Rivoire avenue.
 
 <iframe class="charlety" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1313.511257225524!2d2.3299169582910815!3d48.81963186087285!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e671a63b6a4c6f%3A0xd5ab8a3826c34384!2sStade+Ouest+CIUP!5e0!3m2!1sfr!2sfr!4v1537263743348"></iframe>
-
-* Practices at Gymnase des Arts et Métiers take place inside Cité Universitaire
-
-<iframe class="charlety" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10508.403649345673!2d2.3343372!3d48.818136!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xcc60ba1872d72493!2sGymnase%20des%20Arts%20et%20M%C3%A9tiers!5e0!3m2!1sfr!2sfr!4v1567499121068!5m2!1sfr!2sfr"></iframe>
 
 
 <p> It is readily accessible by public transport:</p>
