@@ -43,7 +43,7 @@ En cours d'année, les entraînements sont réservés aux joueurs qui ont été 
   <tr>
     <td>Samedi 9h30 - 11h30</td>
     <td>Stade Ouest de la Cité Universitaire</td>
-    <td colspan="2"><a href="juniors.html">Juniors</a></td>
+    <td colspan="2"><a href="juniors.html">Jeunes</a></td>
   </tr>
 </table>
 

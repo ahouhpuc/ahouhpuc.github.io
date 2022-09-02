@@ -1,7 +1,7 @@
 ---
 lang: en
-title: Section Juniors PUC Ultimate
-description: Notre section junior s'entraîne le samedi matin pour découvrir l'ultimate et participer aux championnats de France en fin d'année.
+title: PUC Ultimate youth teams
+description: Our youth teams practice on saturdays.
 cover:
   src: charlety.jpg
   title: Stade Charlety
