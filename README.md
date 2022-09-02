@@ -12,7 +12,7 @@ You need a recent version of ruby installed.
 git clone git@github.com:ahouhpuc/ahouhpuc.github.io.git
 cd ahouhpuc.github.io
 bundle install
-jekyll serve
+bundle exec jekyll serve
 ```
 
 And visit http://localhost:4000/fr.html to see your changes
