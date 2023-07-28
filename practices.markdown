@@ -52,7 +52,6 @@ During the rest of the year however practices are restricted to team members onl
 
 * Practice is never cancelled, whether it’s windy, raining or snowing.
 * Practice starts right on time. Players are asked to arrive 15 minutes early to get ready. Changing rooms equipped with showers are available both before and after trainings.
-* **No changing room due to Covid-19 restrictions**
 * You’ll need both your runners (for the track) and cleats/boots (for the synthetic pitch).
 
 ## Where?
