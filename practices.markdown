@@ -18,34 +18,32 @@ During the rest of the year however practices are restricted to team members onl
   <tr>
     <td>Schedule</td>
     <td>Location</td>
-    <td>Practice 1</td>
-    <td>Practice 2</td>
+    <td>Practice</td>
   </tr>
   <tr>
-    <td>Monday 8:30 pm</td>
-    <td>Stade Charlety</td>
-    <td colspan="2">Open 1, 2, 3</td>
+    <td>Monday 7:00 pm THEN 8:30 pm</td>
+    <td>Stade Poterne des Peupliers THEN Stade Charlety</td>
+    <td>Open and Women</td>
   </tr>
   <tr>
     <td>Tuesday 8:30 pm</td>
     <td>Stade Charlety</td>
-    <td colspan="2">Mixed 1 and 2</td>
+    <td>Mixed 1 and 2</td>
   </tr>
   <tr>
     <td>Tuesday 8:30 pm</td>
     <td>Stade Ouest</td>
-    <td colspan="2">Mixed 3 and 4</td>
+    <td>Mixed 3 and 4</td>
   </tr>
   <tr>
     <td>Thursday 8:30 pm</td>
     <td>Stade ouest of Cité Universitaire</td>
-    <td>Women</td>
     <td>Rookies</td>
   </tr>
   <tr>
     <td>Saturday 9:30 am - 11:30 am</td>
     <td>Stade ouest of Cité Universitaire</td>
-    <td colspan="2"><a href="youth.html">Youth</a></td>
+    <td><a href="youth.html">Youth</a></td>
   </tr>
 </table>
 
