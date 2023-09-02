@@ -41,7 +41,17 @@ En cours d'année, les entraînements sont réservés aux joueurs qui ont été 
   <tr>
     <td>Samedi 9h30 - 11h30</td>
     <td>Stade Ouest - Cité Universitaire</td>
-    <td><a href="juniors.html">Jeunes</a></td>
+    <td><a href="juniors.html">Débutants (8 - 19 ans)</a></td>
+  </tr>
+  <tr>
+    <td>Samedi 9h30 - 11h30</td>
+    <td>Stade Ouest - Cité Universitaire</td>
+    <td><a href="juniors.html">Jeunes confirmés (8 - 14 ans)</a></td>
+  </tr>
+  <tr>
+    <td>Samedi 11h30 - 13h30</td>
+    <td>Stade Ouest - Cité Universitaire</td>
+    <td><a href="juniors.html">Jeunes confirmés (15 - 19 ans)</a></td>
   </tr>
 </table>
 

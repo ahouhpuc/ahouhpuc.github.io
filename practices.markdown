@@ -42,8 +42,18 @@ During the rest of the year however practices are restricted to team members onl
   </tr>
   <tr>
     <td>Saturday 9:30 am - 11:30 am</td>
-    <td>Stade ouest of Cité Universitaire</td>
-    <td><a href="youth.html">Youth</a></td>
+    <td>Stade Ouest - Cité Universitaire</td>
+    <td><a href="juniors.html">Youth beginners (8 - 19 yo)</a></td>
+  </tr>
+  <tr>
+    <td>Saturday 9:30 am - 11:30 am</td>
+    <td>Stade Ouest - Cité Universitaire</td>
+    <td><a href="juniors.html">Youth experienced (8 - 14 yo)</a></td>
+  </tr>
+  <tr>
+    <td>Saturday 11:30 am - 1:30 pm</td>
+    <td>Stade Ouest - Cité Universitaire</td>
+    <td><a href="juniors.html">Youth experienced confirmés (15 - 19 yo)</a></td>
   </tr>
 </table>
 
