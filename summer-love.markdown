@@ -1,6 +1,5 @@
 ---
 summerlove: true
-facebook: true
 title: Summer Love
 description: La Summer Love est une compétition hat organisée par le PUC Ultimate tous les étés. Les équipes s'affrontent une fois par semaine durant les mois de juillet et août.
 cover:

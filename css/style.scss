@@ -301,46 +301,6 @@ form {
     padding: 0.7rem 1rem;
     margin-top: 1rem;
   }
-
-}
-
-.news {
-  .created-at {
-    margin: 0;
-
-    a {
-      font-size: 90%;
-      font-weight: bold;
-      color: $primary-color;
-      text-decoration: none;
-
-      &:hover {
-        text-decoration: underline;
-      }
-    }
-  }
-
-
-  .message {
-    margin: 0.5rem 0;
-    white-space: pre-wrap;
-  }
-
-  article {
-    font-size: 90%;
-    margin-bottom: 3rem;
-  }
-
-  article img {
-    max-width: 60%;
-    margin: 0 auto;
-    display: block;
-  }
-
-  .external-link {
-    text-decoration: none;
-  }
-
 }
 
 @media (max-width: 840px) {
