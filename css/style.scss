@@ -23,10 +23,6 @@ a,
   color: $primary-color;
 }
 
-.strong {
-  font-weight: bold;
-}
-
 h2 {
   font-size: 1.2rem;
   margin-top: 2rem;
@@ -55,6 +51,7 @@ footer {
 
 .footer {
   display: flex;
+  color: $dark;
 
   > * {
     flex: 1 0 50%;
@@ -76,11 +73,9 @@ nav {
   }
 
   ul {
-    text-transform: uppercase;
     margin: 0;
     padding: 0;
     background: $white;
-    list-style-type: none;
   }
 
   ul.on {
@@ -92,8 +87,7 @@ nav {
 
     &:hover,
     &.current {
-      background-color: $primary-color;
-      color: $white;
+      text-decoration: underline $primary-color 2px;
     }
   }
 
@@ -258,10 +252,6 @@ img[alt*="PUC Ultimate Invalides"] {
 
     #menu {
       display: none;
-    }
-
-    ul {
-      visibility: visible;
     }
 
     li {
