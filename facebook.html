@@ -5,7 +5,7 @@
       {{if eq .Type "status" "photo" "link"}}
         {{if or (ne .Message "") (ne .Description "")}}
           <article itemscope itemtype="http://schema.org/BlogPosting">
-            <p class="created_at">
+            <p class="created-at">
               <a href="https://www.facebook.com/{{or .ObjectId .Id}}">
                 <time itemprop="datePublished" datetime="{{.CreatedTime.RFC3339String}}">{{.CreatedTime.HumanString}}</time>
               </a>

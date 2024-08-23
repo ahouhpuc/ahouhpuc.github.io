@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="{{page.description}}">
     <link rel="icon" type="image/png" href="favicon.png" />
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/style.css">
   </head>
   <body>
     {% if page.facebook %}
@@ -37,27 +37,30 @@
         });
       });
     </script>
-    <nav>
-      <h1>
+    <header>
+      <nav>
+        <h1>
+          {% if page.lang == "fr" %}
+            <a href="/fr.html">
+          {% else %}
+            <a href="/en.html">
+          {% endif %}
+            <img id="logo" src="logo_puc_ultimate.png" alt="PUC Ultimate Paris">
+          </a>
+        </h1>
         {% if page.lang == "fr" %}
-          <a href="/fr.html">
+          <a class="flag" href="en.html" title="PUC Ultimate in English"><img src="en.png" alt="PUC Ultimate in English"></a>
         {% else %}
-          <a href="/en.html">
+          <a class="flag" href="fr.html" title="PUC Ultimate en français"><img src="fr.png" alt="PUC Ultimate en français"></a>
         {% endif %}
-        <img id="logo" src="logo_puc_ultimate.png" alt="PUC Ultimate Paris"></a>
-      </h1>
-      {% if page.lang == "fr" %}
-        <a class="flag" href="en.html" title="PUC Ultimate in English"><img src="en.png" alt="PUC Ultimate in English"></a>
-      {% else %}
-        <a class="flag" href="fr.html" title="PUC Ultimate en français"><img src="fr.png" alt="PUC Ultimate en français"></a>
-      {% endif %}
-      <a href="#" id="menu">Menu</a>
-      {% if page.lang == "fr" %}
-        {% include menu.fr.html %}
-      {% else %}
-        {% include menu.en.html %}
-      {% endif %}
-    </nav>
+        <a href="#" id="menu">Menu</a>
+        {% if page.lang == "fr" %}
+          {% include menu.fr.html %}
+        {% else %}
+          {% include menu.en.html %}
+        {% endif %}
+      </nav>
+    </header>
     {% if page.cover %}
       <div class="cover" style="background-image: url('{{page.cover.src}}');" title="{{page.cover.title}}"></div>
     {% endif %}

@@ -209,50 +209,36 @@ nav {
   }
 }
 
-#storyline {
-  font-size: 120%;
+.join-us {
+  text-align: center;
+  font-size: 1.5rem;
+  margin: 2rem 0;
 
-  h2 {
-    display: inline;
-    font-weight: normal;
-    font-size: 100%;
-    margin: 0;
+  a {
+    font-weight: bold;
+    color: white;
+    background: $primary-color;
+    text-decoration: none;
+    padding: 1rem 1rem 0.7rem 1rem;
+    border-radius: 4px;
   }
 }
 
-p.join-us {
-  text-align: center;
-  font-size: 150%;
-  margin: 2rem 0;
-}
-
-a.join-us {
-  font-weight: bold;
-  color: white;
-  background: $primary-color;
-  text-decoration: none;
-  padding: 0.7rem 1rem;
-}
 
 table {
   margin: 0 auto;
+
+  td {
+    border: 1px solid #999;
+    padding: 0.5rem;
+    text-align: center;
+  }
+
+  tr:first-child {
+    font-weight: bold;
+  }
 }
 
-td {
-  border: 1px solid #999;
-  padding: 0.5rem;
-  text-align: center;
-}
-
-tr:first-child {
-  font-weight: bold;
-}
-
-#summer-love-fb {
-  width: 300px;
-  height: 70px;
-  margin: 0 auto;
-}
 
 .charlety {
   border: none;
@@ -319,21 +305,21 @@ form {
 }
 
 .news {
-
-  .created_at {
+  .created-at {
     margin: 0;
+
+    a {
+      font-size: 90%;
+      font-weight: bold;
+      color: $primary-color;
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
   }
 
-  .created_at a {
-    font-size: 90%;
-    font-weight: bold;
-    color: $primary-color;
-    text-decoration: none;
-  }
-
-	.created_at a:hover {
-		text-decoration: underline;
-	}
 
   .message {
     margin: 0.5rem 0;

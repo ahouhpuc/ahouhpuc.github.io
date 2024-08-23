@@ -15,8 +15,6 @@ Teams compete each Thursday during July and August.
 
 It is announced each years on our <a href="https://www.facebook.com/pucultimate/" target="_blank" rel="noreferrer noopener">Facebook</a> and <a href="https://www.instagram.com/puc_ultimate/" target="_blank" rel="noreferrer noopener">Instagram</a> pages.
 
-<div id="summer-love-fb"><div class="fb-like-box" data-href="https://www.facebook.com/pucultimate" data-colorscheme="light" data-show-faces="false" data-header="false" data-stream="false" data-show-border="false"></div></div>
-
 ## 2020: Summer Hits 2020
 
 ## 2019: Summer Love Channel 2019

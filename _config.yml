@@ -8,5 +8,5 @@ defaults:
 plugins:
   - jekyll-redirect-from
 sass:
-  sass_dir: _css
+  sass_dir: css
   style: :compressed
