@@ -16,16 +16,6 @@
       })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
       ga('create', 'UA-52126894-1', 'puc-ultimate.fr');
       ga('send', 'pageview');
-
-      document.addEventListener("DOMContentLoaded", function() {
-        var menu = document.getElementById("menu"),
-          ul = document.querySelector("nav ul");
-
-        menu.addEventListener("click", function() {
-          menu.classList.toggle("on");
-          ul.classList.toggle("on");
-        });
-      });
     </script>
     <header>
       <nav>
@@ -42,23 +32,27 @@
           <a class="flag" href="fr.html" title="PUC Ultimate en français"><img src="fr.png" alt="PUC Ultimate en français"></a>
         {% endif %}
         <a href="#" id="menu">Menu</a>
-        {% if page.lang == "fr" %}
-          {% include menu.fr.html %}
-        {% else %}
-          {% include menu.en.html %}
-        {% endif %}
+        {% include menu.html %}
       </nav>
     </header>
     {% if page.cover %}
       <div class="cover" style="background-image: url('{{page.cover.src}}');" title="{{page.cover.title}}"></div>
     {% endif %}
-    <div id="container">
+    <div class="container">
       {{content}}
-      {% if page.lang == "fr" %}
-        {% include contact.fr.html %}
-      {% else %}
-        {% include contact.en.html %}
-      {% endif %}
     </div>
+    <footer>
+      <div class="container footer">
+        <div>
+          <p>
+            © 2013-2024 PUC Ultimate<br>
+            (ex Ah Ouh PUC)
+          </p>
+        </div>
+        <div>
+          {% include contact.html %}
+        </div>
+      </div>
+    </footer>
   </body>
 </html>
