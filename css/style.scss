@@ -6,104 +6,6 @@ layout: ""
 
 $primary-color: #7b399c;
 
-@media (max-width: 840px) {
-
-  nav {
-
-    h1 {
-      margin-left: 1rem;
-    }
-
-    #logo {
-      max-width: 70%;
-      height: auto;
-    }
-
-    .flag {
-      display: none;
-    }
-
-    ul .flag {
-      display: block;
-    }
-
-    .flag img {
-      width: 1.2rem;
-      height: 1.2rem;
-      vertical-align: middle;
-    }
-
-    ul, #menu {
-      position: absolute;
-    }
-
-    ul {
-      visibility: hidden;
-      width: 100%;
-      border-top: 1px solid $primary-color;
-      border-bottom: 1px solid $primary-color;
-      text-align: center;
-    }
-
-    li a {
-      padding: 0.5rem 0;
-    }
-  }
-
-}
-
-@media (min-width: 841px) {
-
-  #container, nav {
-    width: 800px;
-  }
-
-  nav {
-
-    h1 {
-      margin-left: 0.4rem;
-    }
-
-    #logo {
-      margin-top: 1rem;
-      height: 4rem;
-    }
-
-    .flag {
-      position: absolute;
-      top: 1.2rem;
-      right: 1rem;
-    }
-
-    ul .flag {
-      display: none;
-    }
-
-    .flag img {
-      width: 1.5rem;
-      height: 1.5rem;
-    }
-
-    #menu {
-      display: none;
-    }
-
-    ul {
-      visibility: visible;
-    }
-
-    li {
-      display: inline-block;
-    }
-
-    li a {
-      padding: 0.5rem 0.7rem;
-    }
-
-  }
-
-}
-
 html, body {
   height: 100%;
 }
@@ -136,22 +38,17 @@ li {
   padding: 0 1rem 2rem 1rem;
 }
 
+header {
+  background-color: white;
+  position: sticky;
+  top: 0;
+}
+
 nav {
   position: relative;
   font-weight: bold;
   margin: 0 auto;
   font-size: 87%;
-
-  h1 {
-    font-size: 0.7rem;
-    color: $primary-color;
-
-    a {
-      display: block;
-      margin-bottom: -1rem;
-    }
-
-  }
 
   a {
     text-decoration: none;
@@ -161,7 +58,6 @@ nav {
     text-transform: uppercase;
     margin: 0;
     padding: 0;
-    top: 2.5rem;
     background: #fff;
     list-style-type: none;
     z-index: 1; // otherwise <sup> elements appear on top
@@ -185,27 +81,13 @@ nav {
     color: #fff;
   }
 
-  li:first-child a {
-    margin-top: 0.5rem;
-  }
-
-  li:last-child a {
-    margin-bottom: 0.5rem;
-  }
-
   #menu {
     border: 1px solid $primary-color;
+    border-radius: 4px;
     color: $primary-color;
     padding: 0.2rem 0.6rem;
-    top: 0.2rem;
-    right: 0.8rem;
     line-height: 1.4rem;
     box-sizing: border-box;
-  }
-
-  #menu.on {
-    background-color: $primary-color;
-    color: #fff;
   }
 }
 
@@ -224,7 +106,6 @@ nav {
   }
 }
 
-
 table {
   margin: 0 auto;
 
@@ -239,7 +120,6 @@ table {
   }
 }
 
-
 .charlety {
   border: none;
   width: 100%;
@@ -250,7 +130,7 @@ table {
   height: 40%;
   background-position: center center;
   background-size: cover;
-  margin: 1rem 0 2rem 0;
+  margin-bottom: 2rem;
 }
 
 img[alt*="equipe"] {
@@ -304,11 +184,111 @@ form {
 }
 
 @media (max-width: 840px) {
+  header {
+    border-bottom: 1px solid $primary-color;
+  }
+
+  nav {
+    #logo {
+      margin: 0.75rem 0.5rem 0;
+      max-width: 70%;
+      height: auto;
+    }
+
+    .flag {
+      display: none;
+    }
+
+    ul .flag {
+      display: block;
+    }
+
+    .flag img {
+      width: 1.2rem;
+      height: 1.2rem;
+      vertical-align: middle;
+    }
+
+    #menu {
+      position: absolute;
+      top: 0.8rem;
+      right: 0.8rem;
+
+      .on {
+        background-color: $primary-color;
+        color: #fff;
+      }
+    }
+
+    ul {
+      position: absolute;
+      top: 3rem;
+      visibility: hidden;
+      width: 100%;
+      border-bottom: 1px solid $primary-color;
+      text-align: center;
+    }
+
+    li a {
+      padding: 0.5rem 0;
+    }
+
+    li:first-child a {
+      margin-top: 0.5rem;
+    }
+
+    li:last-child a {
+      margin-bottom: 0.5rem;
+    }
+  }
+
   .phone-calendar { display: block; }
   .desktop-calendar { display: none; }
 }
 
 @media (min-width: 841px) {
+  #container, nav {
+    width: 800px;
+  }
+
+  nav {
+    #logo {
+      margin-top: .5rem;
+      height: 3rem;
+    }
+
+    .flag {
+      position: absolute;
+      top: 1.2rem;
+      right: 1rem;
+    }
+
+    ul .flag {
+      display: none;
+    }
+
+    .flag img {
+      width: 1.5rem;
+      height: 1.5rem;
+    }
+
+    #menu {
+      display: none;
+    }
+
+    ul {
+      visibility: visible;
+    }
+
+    li {
+      display: inline-block;
+    }
+
+    li a {
+      padding: 0.5rem 0.7rem;
+    }
+  }
+
   .phone-calendar { display: none; }
   .desktop-calendar { display: block; }
 }
