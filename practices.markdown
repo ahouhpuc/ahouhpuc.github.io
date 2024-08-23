@@ -21,9 +21,14 @@ During the rest of the year however practices are restricted to team members onl
     <td>Practice</td>
   </tr>
   <tr>
-    <td>Monday 7:00 pm THEN 8:30 pm</td>
-    <td>Stade Poterne des Peupliers THEN Stade Charlety</td>
-    <td>Open and Women</td>
+    <td>Monday 7:00 pm</td>
+    <td>Stade Poterne des Peupliers</td>
+    <td>Open OR Women</td>
+  </tr>
+  <tr>
+    <td>Monday 8:30 pm</td>
+    <td>Stade Charlety</td>
+    <td>Open OR Women</td>
   </tr>
   <tr>
     <td>Tuesday 8:30 pm</td>
@@ -41,19 +46,9 @@ During the rest of the year however practices are restricted to team members onl
     <td>Rookies</td>
   </tr>
   <tr>
-    <td>Saturday 9:30 am - 11:30 am</td>
+    <td>Saturday 9:30 am - 12:30 pm</td>
     <td>Stade Ouest - Cité Universitaire</td>
-    <td><a href="juniors.html">Youth beginners (8 - 19 yo)</a></td>
-  </tr>
-  <tr>
-    <td>Saturday 9:30 am - 11:30 am</td>
-    <td>Stade Ouest - Cité Universitaire</td>
-    <td><a href="juniors.html">Youth experienced (8 - 14 yo)</a></td>
-  </tr>
-  <tr>
-    <td>Saturday 11:30 am - 1:30 pm</td>
-    <td>Stade Ouest - Cité Universitaire</td>
-    <td><a href="juniors.html">Youth experienced confirmés (15 - 19 yo)</a></td>
+    <td><a href="juniors.html">Youth (8 - 19 yo)</a></td>
   </tr>
 </table>
 

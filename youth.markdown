@@ -23,11 +23,7 @@ Youth training is much developed in France and the French win fame regularly. In
 
 All players must be 8 or older to be eligible for our youth training.
 
-The practice takes place on **Saturday at Stade Ouest of Cité Universitaire**.
-
-* 9h30 - 11h30 : Beginners (8 - 19yo)
-* 9h30 - 11h30 : Experienced (8 - 14yo)
-* 11h30 - 13h30 : Experienced (15 - 19yo)
+The practice takes place on **Saturday at Stade Ouest of Cité Universitaire**, from 9:30 am to 12:30 pm.
 
 <iframe class="charlety" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1313.511257225524!2d2.3299169582910815!3d48.81963186087285!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e671a63b6a4c6f%3A0xd5ab8a3826c34384!2sStade+Ouest+CIUP!5e0!3m2!1sfr!2sfr!4v1537263743348"></iframe>
 

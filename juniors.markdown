@@ -21,11 +21,7 @@ La formation est très développée en France et les jeunes français s'illustre
 
 L'entraînement est accessible aux jeunes à partir de 8 ans.
 
-Il a lieu le **samedi au stade Ouest de la Cité Universitaire**.
-
-* 9h30 - 11h30 : Jeunes débutants 8 - 19 ans
-* 9h30 - 11h30 : Jeunes confirmés 8 - 14 ans
-* 11h30 - 13h30 : Jeunes confirmés 15 - 19 ans
+Il a lieu le **samedi au stade Ouest de la Cité Universitaire** de 9h30 à 12h30.
 
 <iframe class="charlety" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1313.511257225524!2d2.3299169582910815!3d48.81963186087285!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e671a63b6a4c6f%3A0xd5ab8a3826c34384!2sStade+Ouest+CIUP!5e0!3m2!1sfr!2sfr!4v1537263743348"></iframe>
 

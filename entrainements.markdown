@@ -19,9 +19,14 @@ En cours d'année, les entraînements sont réservés aux joueurs qui ont été 
     <td>Entraînement</td>
   </tr>
   <tr>
-    <td>Lundi 19h PUIS 20h30</td>
-    <td>Stade Poterne des Peupliers PUIS Stade Charlety</td>
-    <td>Open et Féminines</td>
+    <td>Lundi 19h</td>
+    <td>Stade Poterne des Peupliers</td>
+    <td>Open OU Féminines</td>
+  </tr>
+  <tr>
+    <td>Lundi 20h30</td>
+    <td>Stade Charlety</td>
+    <td>Open OU Féminines</td>
   </tr>
   <tr>
     <td>Mardi 20h30</td>
@@ -39,19 +44,9 @@ En cours d'année, les entraînements sont réservés aux joueurs qui ont été 
     <td>Débutants</td>
   </tr>
   <tr>
-    <td>Samedi 9h30 - 11h30</td>
+    <td>Samedi 9h30 - 12h30</td>
     <td>Stade Ouest - Cité Universitaire</td>
-    <td><a href="juniors.html">Débutants (8 - 19 ans)</a></td>
-  </tr>
-  <tr>
-    <td>Samedi 9h30 - 11h30</td>
-    <td>Stade Ouest - Cité Universitaire</td>
-    <td><a href="juniors.html">Jeunes confirmés (8 - 14 ans)</a></td>
-  </tr>
-  <tr>
-    <td>Samedi 11h30 - 13h30</td>
-    <td>Stade Ouest - Cité Universitaire</td>
-    <td><a href="juniors.html">Jeunes confirmés (15 - 19 ans)</a></td>
+    <td><a href="juniors.html">Jeunes (8 - 19 ans)</a></td>
   </tr>
 </table>
 
