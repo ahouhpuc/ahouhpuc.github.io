@@ -26,7 +26,7 @@ En cours d'année, les entraînements sont réservés aux joueurs qui ont été 
   <tr>
     <td>Lundi 20h30</td>
     <td>Stade Charlety</td>
-    <td>Open OU Féminines</td>
+    <td>Féminines OU Open</td>
   </tr>
   <tr>
     <td>Mardi 20h30</td>

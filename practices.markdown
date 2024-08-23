@@ -28,7 +28,7 @@ During the rest of the year however practices are restricted to team members onl
   <tr>
     <td>Monday 8:30 pm</td>
     <td>Stade Charlety</td>
-    <td>Open OR Women</td>
+    <td>Women OR Open</td>
   </tr>
   <tr>
     <td>Tuesday 8:30 pm</td>
