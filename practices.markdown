@@ -41,7 +41,7 @@ During the rest of the year however practices are restricted to team members onl
     <td>Mixed 3 and 4</td>
   </tr>
   <tr>
-    <td>Thursday 8:30 pm</td>
+    <td>Thursday 9:00 pm</td>
     <td>Stade ouest of Cité Universitaire</td>
     <td>Rookies</td>
   </tr>

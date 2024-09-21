@@ -39,7 +39,7 @@ En cours d'année, les entraînements sont réservés aux joueurs qui ont été 
     <td>Mixte 3 et 4</td>
   </tr>
   <tr>
-    <td>Jeudi 20h30</td>
+    <td>Jeudi 21h</td>
     <td>Stade Ouest - Cité Universitaire</td>
     <td>Débutants</td>
   </tr>
