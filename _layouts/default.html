@@ -1,57 +1,87 @@
 <!DOCTYPE html>
 <html lang="{{page.lang}}">
   <head>
-    <meta charset="utf-8">
+    <meta charset="utf-8" />
     <title>{{page.title}}</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="{{page.description}}">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="{{page.description}}" />
     <link rel="icon" type="image/png" href="/assets/images/favicon.png" />
-    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/style.css" />
   </head>
   <body>
     <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-      ga('create', 'UA-52126894-1', 'puc-ultimate.fr');
-      ga('send', 'pageview');
+      ;(function (i, s, o, g, r, a, m) {
+        i["GoogleAnalyticsObject"] = r
+        ;(i[r] =
+          i[r] ||
+          function () {
+            ;(i[r].q = i[r].q || []).push(arguments)
+          }),
+          (i[r].l = 1 * new Date())
+        ;(a = s.createElement(o)), (m = s.getElementsByTagName(o)[0])
+        a.async = 1
+        a.src = g
+        m.parentNode.insertBefore(a, m)
+      })(window, document, "script", "//www.google-analytics.com/analytics.js", "ga")
+      ga("create", "UA-52126894-1", "puc-ultimate.fr")
+      ga("send", "pageview")
     </script>
     <header>
       <nav>
         {% if page.lang == "fr" %}
-          <a href="/fr">
-        {% else %}
-          <a href="/en">
-        {% endif %}
-          <img id="logo" src="/assets/images/logo_puc_ultimate.png" alt="PUC Ultimate Paris">
+        <a href="/fr">
+          <img id="logo" src="/assets/images/logo_puc_ultimate.png" alt="PUC Ultimate Paris" />
         </a>
-        {% if page.lang == "fr" %}
-          <a class="flag" href="/en" title="PUC Ultimate in English"><img src="/assets/images/en.png" alt="PUC Ultimate in English"></a>
+        <span class="social-icons social-icons-fixed">
+          <a href="https://www.instagram.com/puc_ultimate/" target="_blank" rel="noopener" title="Instagram PUC Ultimate">
+            <img class="puc-da" src="/assets/images/link/instagram.png" alt="Instagram" />
+          </a>
+          <a href="https://discord.gg/H9zbbXr" target="_blank" rel="noopener" title="Discord PUC Ultimate">
+            <img class="puc-da" src="/assets/images/link/discord.png" alt="Discord" />
+          </a>
+          <a href="https://pucultimate.fr" target="_blank" rel="noopener" title="Site officiel PUC Ultimate">
+            <img src="/assets/images/link/puc.svg" alt="Site officiel" />
+          </a>
+          <a href="{% if page.url contains '/fr/' %}/en{{ page.url | remove_first:'/fr' }}{% else %}/en{% endif %}" title="PUC Ultimate in English">
+            <img src="/assets/images/en.png" alt="PUC Ultimate in English" />
+          </a>
+        </span>
         {% else %}
-          <a class="flag" href="/fr" title="PUC Ultimate en français"><img src="/assets/images/fr.png" alt="PUC Ultimate en français"></a>
+        <a href="/en">
+          <img id="logo" src="/assets/images/logo_puc_ultimate.png" alt="PUC Ultimate Paris" />
+        </a>
+        <span class="social-icons social-icons-fixed">
+          <a href="https://www.instagram.com/puc_ultimate/" target="_blank" rel="noopener" title="Instagram PUC Ultimate">
+            <img class="puc-da" src="/assets/images/link/instagram.png" alt="Instagram" />
+          </a>
+          <a href="https://discord.gg/H9zbbXr" target="_blank" rel="noopener" title="Discord PUC Ultimate">
+            <img class="puc-da" src="/assets/images/link/discord.png" alt="Discord" />
+          </a>
+          <a href="https://pucultimate.fr" target="_blank" rel="noopener" title="Site officiel PUC Ultimate">
+            <img src="/assets/images/link/puc.svg" alt="Site officiel" />
+          </a>
+          <a href="{% if page.url contains '/en/' %}/fr{{ page.url | remove_first:'/en' }}{% else %}/fr{% endif %}" title="PUC Ultimate en français">
+            <img src="/assets/images/fr.png" alt="PUC Ultimate en français" />
+          </a>
+        </span>
         {% endif %}
         <a href="#" id="menu">Menu</a>
         {% include menu.html %}
       </nav>
     </header>
     {% if page.cover %}
-      <div class="cover" style="background-image: url('{{page.cover.src}}');" title="{{page.cover.title}}"></div>
+    <div class="cover" style="background-image: url('{{page.cover.src}}');" title="{{page.cover.title}}"></div>
     {% endif %}
-    <div class="container">
-      {{content}}
-    </div>
+    <div class="container">{{content}}</div>
     <footer>
       <div class="container footer">
         <div>
           <p>
-            © 2013-2024 PUC Ultimate<br>
+            © 2013-2026 PUC Ultimate<br />
             (ex Ah Ouh PUC)
           </p>
         </div>
-        <div>
-          {% include contact.html %}
-        </div>
+        <div>{% include contact.html %}</div>
       </div>
     </footer>
   </body>

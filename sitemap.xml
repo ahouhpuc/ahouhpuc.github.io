@@ -13,16 +13,6 @@
     <xhtml:link rel="alternate" href="https://puc-ultimate.fr/en" hreflang="en" />
   </url>
   <url>
-    <loc>https://puc-ultimate.fr/fr/teams</loc>
-    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/fr/teams" hreflang="fr" />
-    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/en/teams" hreflang="en" />
-  </url>
-  <url>
-    <loc>https://puc-ultimate.fr/en/teams</loc>
-    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/fr/teams" hreflang="fr" />
-    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/en/teams" hreflang="en" />
-  </url>
-  <url>
     <loc>https://puc-ultimate.fr/fr/practices</loc>
     <xhtml:link rel="alternate" href="https://puc-ultimate.fr/fr/practices" hreflang="fr" />
     <xhtml:link rel="alternate" href="https://puc-ultimate.fr/en/practices" hreflang="en" />

@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+<h1>{{ page.subtitle }}</h1>
+{% if page.overview %}
+<div class="overview">{{ page.overview | markdownify }}</div>
+{% endif %} {{ content }}
+
+<div class="teams-list">
+  {% for team in page.teams %}
+  <div class="team">
+    <h2>{{ team.name }}</h2>
+    {% if team.image %}
+    <img src="{{ team.image }}" alt="{{ team.name }}" class="team-photo" />
+    {% endif %}
+    <p>{{ team.description | markdownify}}</p>
+  </div>
+  {% endfor %}
+</div>
+<div id="image-popup" style="display: none">
+  <img id="popup-img" src="" alt="Agrandissement" />
+</div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    var popup = document.getElementById("image-popup")
+    var popupImg = document.getElementById("popup-img")
+    document.querySelectorAll(".team").forEach(function (card) {
+      card.addEventListener("click", function () {
+        var img = card.querySelector(".team-photo")
+        if (img) {
+          popupImg.src = img.src
+          popup.style.display = "flex"
+        }
+      })
+    })
+    popup.addEventListener("click", function () {
+      popup.style.display = "none"
+      popupImg.src = ""
+    })
+  })
+</script>

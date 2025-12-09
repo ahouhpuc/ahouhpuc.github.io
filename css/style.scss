@@ -9,7 +9,8 @@ $white: #fff;
 $light: #ddd;
 $dark: #999;
 
-html, body {
+html,
+body {
   height: 100%;
 }
 
@@ -21,6 +22,10 @@ body {
 a,
 .blue {
   color: $primary-color;
+}
+
+h1 {
+  text-align: center;
 }
 
 h2 {
@@ -35,13 +40,15 @@ ol li {
 .container {
   margin: 0 auto;
   padding: 0 1rem 2rem 1rem;
+  max-width: 80%;
+  width: 100vw;
 }
 
 header {
   background-color: $white;
   position: sticky;
   top: 0;
-  box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.5);
+  box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.5);
 }
 
 footer {
@@ -76,6 +83,13 @@ nav {
     margin: 0;
     padding: 0;
     background: $white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5em;
+    padding: 0;
+    margin: 0 auto;
+    list-style: none;
   }
 
   ul.on {
@@ -101,6 +115,42 @@ nav {
   }
 }
 
+.social-icons {
+  display: flex;
+  gap: 0.7em;
+  align-items: center;
+}
+.social-icons img {
+  height: 1.3em;
+  vertical-align: middle;
+  transition: transform 0.15s;
+}
+.social-icons a:hover img {
+  transform: scale(1.18);
+}
+
+.puc-da {
+  width: 1.5em;
+  height: 1.5em;
+  min-width: 1.5em;
+  min-height: 1.5em;
+  max-width: 1.5em;
+  max-height: 1.5em;
+  filter: brightness(0) saturate(100%) invert(24%) sepia(41%) saturate(1042%) hue-rotate(238deg) brightness(92%) contrast(92%);
+}
+
+.puc-da a:hover {
+  filter: brightness(0) saturate(100%) invert(34%) sepia(41%) saturate(1042%) hue-rotate(238deg) brightness(110%) contrast(110%);
+  transform: scale(1.18);
+}
+
+.social-icons-fixed {
+  position: absolute;
+  top: 1.1em;
+  right: 1.2em;
+  z-index: 100;
+}
+
 .join-us {
   text-align: center;
   font-size: 1.5rem;
@@ -111,8 +161,16 @@ nav {
     color: $white;
     background: $primary-color;
     text-decoration: none;
-    padding: 1rem 1rem 0.7rem 1rem;
-    border-radius: 4px;
+    padding: 1rem 2.5rem 0.9rem 2.5rem;
+    border-radius: 2em;
+    transition: background 0.2s, transform 0.2s;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    display: inline-block;
+  }
+
+  a:hover {
+    background: #5e2677;
+    transform: scale(1.08);
   }
 }
 
@@ -161,9 +219,93 @@ img[alt*="PUC Ultimate Invalides"] {
   margin: 0 auto;
 }
 
+.teams-list {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.team {
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  padding: 1.5rem 1rem;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.team-photo {
+  width: 100%;
+  max-width: 320px;
+  height: 200px;
+  display: block;
+  margin: 0 auto 1rem auto;
+  object-fit: cover;
+  border-radius: 8px;
+  background: #eee;
+}
+.team {
+  transition: box-shadow 0.2s, transform 0.2s, border 0.2s, background 0.2s;
+  box-sizing: border-box;
+}
+.team:hover {
+  box-shadow: 0 12px 48px rgba(0, 0, 0, 0.22);
+  transform: scale(1.05);
+  z-index: 5;
+  outline: 3px solid $primary-color;
+  outline-offset: 0.1rem;
+  background: #f3edff;
+}
+
+.overview {
+  text-align: center;
+  text-align-last: center;
+  margin: 0 auto 2em auto;
+  max-width: 80%;
+  display: block;
+  text-align: justify;
+  text-align-last: center;
+}
+
+#image-popup {
+  display: none;
+  position: fixed;
+  z-index: 1000;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.8);
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+#image-popup[style*="display: flex"] {
+  display: flex !important;
+}
+#image-popup img {
+  max-width: 90vw;
+  max-height: 80vh;
+  border-radius: 8px;
+  box-shadow: 0 2px 16px #0008;
+}
+.calendar-main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
 @media (max-width: 840px) {
   header {
     border-bottom: 1px solid $primary-color;
+  }
+
+  .teams-list {
+    grid-template-columns: 1fr;
   }
 
   nav {
@@ -171,20 +313,6 @@ img[alt*="PUC Ultimate Invalides"] {
       margin: 0.75rem 0.5rem 0;
       max-width: 70%;
       height: auto;
-    }
-
-    .flag {
-      display: none;
-    }
-
-    ul .flag {
-      display: block;
-    }
-
-    .flag img {
-      width: 1.2rem;
-      height: 1.2rem;
-      vertical-align: middle;
     }
 
     #menu {
@@ -220,18 +348,26 @@ img[alt*="PUC Ultimate Invalides"] {
     }
   }
 
-  .phone-calendar { display: block; }
-  .desktop-calendar { display: none; }
+  .phone-calendar {
+    display: block;
+  }
+  .desktop-calendar {
+    display: none;
+  }
 }
 
 @media (min-width: 841px) {
-  .container, nav {
+  .container {
+    max-width: 80%;
+  }
+
+  nav {
     width: 800px;
   }
 
   nav {
     #logo {
-      margin-top: .5rem;
+      margin-top: 0.5rem;
       height: 3rem;
     }
 
@@ -263,6 +399,10 @@ img[alt*="PUC Ultimate Invalides"] {
     }
   }
 
-  .phone-calendar { display: none; }
-  .desktop-calendar { display: block; }
+  .phone-calendar {
+    display: none;
+  }
+  .desktop-calendar {
+    display: block;
+  }
 }
