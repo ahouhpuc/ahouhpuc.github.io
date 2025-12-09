@@ -1,5 +1,6 @@
 ---
-title: Équipes PUC Ultimate
+permalink: /fr/teams
+title: PUC Ultimate - Équipes
 description: Le PUC Ultimate a une équipe féminine, quatre équipes open et quatre équipes mixtes qui participent chaque année aux championnats de France d'Ultimate.
 ---
 
@@ -7,12 +8,12 @@ description: Le PUC Ultimate a une équipe féminine, quatre équipes open et qu
 
 Les équipes mixtes doivent aligner obligatoirement à chaque point soit :
 
-* 3 garçons, 4 filles
-* 4 garçons, 3 filles
+- 3 garçons, 4 filles
+- 4 garçons, 3 filles
 
 ### Mixte 1
 
-![equipe](coed1-2018.jpg)
+![equipe](/assets/images/coed1-2018.jpg)
 
 L’équipe est composée des meilleurs joueuses et joueurs du club sélectionnés en début d’année.
 
@@ -44,32 +45,29 @@ des meilleures joueuses du club et se place depuis plusieurs années dans le top
 3 français. L’équipe a participé en 2018 à sa première phase de championnat
 d’Europe de la zone sud (EUCR) à Bologne.
 
-
 ### Lillipuc 2
 
 Seule équipe 2 de France à l'heure actuelle, elle permet à des joueuses moins expérimentées de progresser et d'aller se frotter aux meilleures en championnat.
 
-##  Equipes Open
+## Equipes Open
 
 Open signifie que l’équipe est ouverte garçons et aux filles, sans restrictions
 quant à la composition d’équipe. En pratique, à haut niveau, les équipes open
 sont essentiellement masculines.
 
-###  Open 1
+### Open 1
 
-![equipe](open1-2018.jpg)
+![equipe](/assets/images/open1-2018.jpg)
 
 L'équipe Open 1 est composée des meilleurs joueurs du club, sélectionnés au
-début de chaque saison.  Elle évolue en première division du championnat de
+début de chaque saison. Elle évolue en première division du championnat de
 France et vise le haut de tableau. Elle a obtenu la médaille de bronze en 2019 et participe chaque année à des tournois
 européens.
-
 
 ### Open 2
 
 L’Open 2 évolue en N3 et a pour objectif une montée en N2. L’équipe est
 composée de joueurs performants, d’anciens et de débutants.
-
 
 ### Open 3
 
@@ -82,5 +80,3 @@ et collectivement, avec pour objectif de remporter le titre régional pour monte
 
 Chaque année, le club envoie une équipe composée principalement des recrues
 (filles et garçons) de l’année disputer leurs premiers championnats en open régional.
-
-

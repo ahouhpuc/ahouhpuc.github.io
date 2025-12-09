@@ -1,10 +1,11 @@
 ---
 lang: en
-title: PUC Ultimate Teams
+permalink: /en/teams
+title: PUC Ultimate - Teams
 description: PUC Ultimate has a women's team, four open teams and two mixed teams that participate every year in the French championships
 ---
 
-![equipe](coed1-2018.jpg)
+![equipe](/assets/images/coed1-2018.jpg)
 
 ### Mixed 1
 
@@ -45,8 +46,8 @@ The Open 1 team plays in division 1 and fights year after year to stay on top le
 
 Whether you’re a beginner or a more experienced player, there is a team for
 you!
-Our Open 2 team plays in *Nationale 3* but aim to climb into division 2, level that had been reached in 2014 season.
-Our Open 3  team plays in *Regional*, progresses years after years and aims to reach National level in a few years.
+Our Open 2 team plays in _Nationale 3_ but aim to climb into division 2, level that had been reached in 2014 season.
+Our Open 3 team plays in _Regional_, progresses years after years and aims to reach National level in a few years.
 
 ### Rookies (Open 4)
 

@@ -1,11 +1,12 @@
 ---
-title: À propos du PUC Ultimate
+permalink: /fr/about
+title: PUC Ultimate - À propos
 description: Le PUC Ultimate est un club d'Ultimate Frisbee à Paris. Il a été fondé en 2006 en prenant la suite d'un club qui existait depuis 1989, les Invalids.
 ---
 
 ## À propos
 
-<a href="http://www.puc.paris/" target="_blank">![Logo PUC Paris Université Club](logo_puc_small.png)</a>
+<a href="http://www.puc.paris/" target="_blank">![Logo PUC Paris Université Club](/assets/images/logo_puc_small.png)</a>
 
 Le PUC Ultimate est un club d'Ultimate Frisbee. C'est une section sportive du PUC,
 le <a href="http://www.puc.paris/" target="_blank">Paris Université Club</a>.
@@ -20,10 +21,9 @@ Le PUC Ultimate a été fondé en 2006 en tant que section sportive du Paris Uni
 Club sous le nom PUC Ultimate. Mais l’histoire commence en réalité en 1989 avec la naissance des
 Invalids.
 
-
 ### 1989 - Les Invalids
 
-![PUC Ultimate Invalides](ah-ouh-puc-invalides-2006.jpg)
+![PUC Ultimate Invalides](/assets/images/ah-ouh-puc-invalides-2006.jpg)
 
 Au commencement, quelques joueurs se retrouvent le mercredi soir sur
 l’esplanade des Invalides et le week-end sur la pelouse de Bagatelle dans le
@@ -75,17 +75,17 @@ mémoires.
 Après 15 ans de présence au haut niveau, Ah Ouh PUC prend le nom de PUC Ultimate
 pour renforcer ses liens avec le Paris Université Club.
 
-
 ### Aujourd’hui
 
 Le PUC Ultimate compte plus de 180 licenciés et est solidement installé
 dans l’Ultimate français, avec de nombreuses équipes de niveaux divers :
-* 4 équipes Open, de N1 à régional 3 ;
-* 4 équipes mixtes en N1, N2 et N3 ;
-* 2 équipes féminines ;
-* 1 équipe open U20 ;
-* 1 équipe open U17 ;
-* 1 équipe open U15.
+
+- 4 équipes Open, de N1 à régional 3 ;
+- 4 équipes mixtes en N1, N2 et N3 ;
+- 2 équipes féminines ;
+- 1 équipe open U20 ;
+- 1 équipe open U17 ;
+- 1 équipe open U15.
 
 Le club continu à accueillir de nombreux débutants qui représentent une bonne
 part de l’effectif du club. Il envoie régulièrement des équipes aux différents
@@ -94,7 +94,6 @@ tournois en France et à l’étranger, pour tous les niveaux.
 Le club conserve un esprit festif avec de nombreux rendez-vous annuels
 incontournables : les AhOuhWards, décernant les meilleurs prix, des fêtes
 inter-rives avec nos voisins Révolution'air et bien d'autres encore !
-
 
 ## Résultats marquants et palmarès
 

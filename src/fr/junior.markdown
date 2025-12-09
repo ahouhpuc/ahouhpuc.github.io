@@ -1,8 +1,9 @@
 ---
-title: Section Jeunes PUC Ultimate
+permalink: /fr/junior
+title: PUC Ultimate - Section Jeunes
 description: Notre section jeune s'entraîne le samedi matin pour découvrir l'ultimate et participer aux championnats de France en fin d'année.
 cover:
-  src: charlety.jpg
+  src: /assets/images/charlety.jpg
   title: Stade Charlety
 ---
 
@@ -11,9 +12,10 @@ cover:
 L'ultimate est un sport en pleine croissance. Il nécessite des capacités athlétiques et techniques importantes à un bon niveau, mais c'est un sport sans contact, facile à apprendre. Il permet aussi d'évoluer dans un groupe et de découvrir le plaisir de relever des défis ensemble.
 
 L'ultimate se démarque des autres sports collectifs par :
-* La mixité sur le terrain
-* L'auto-arbitrage, même à haut niveau
-* Le fair-play, qui est évalué en fin de match
+
+- La mixité sur le terrain
+- L'auto-arbitrage, même à haut niveau
+- Le fair-play, qui est évalué en fin de match
 
 La formation est très développée en France et les jeunes français s'illustrent régulièrement, comme à l'été 2019 avec <a href="https://www.youtube.com/watch?v=26fasW7isYM">2 titres de champions d'Europe</a>
 
@@ -27,12 +29,12 @@ Il a lieu le **samedi au stade Ouest de la Cité Universitaire** de 9h30 à 12h3
 
 ## Informations
 
-* Qu'il pleuve, qu'il vente ou qu'il neige, l'entraînement a toujours lieu.
-* L'entraînement commence à l'horaire indiqué, en tenue. Prévois donc d'arriver 15 minutes en avance. Un vestiaire est disponible pour se changer avant, et prendre une douche après.
+- Qu'il pleuve, qu'il vente ou qu'il neige, l'entraînement a toujours lieu.
+- L'entraînement commence à l'horaire indiqué, en tenue. Prévois donc d'arriver 15 minutes en avance. Un vestiaire est disponible pour se changer avant, et prendre une douche après.
 
 ## Pour venir en transports en commun
 
-* **RER B** : Cité Universitaire
-* **Bus 21** et **67** : arrêt Stade Charlety – Porte de Gentilly
-* **Tram T3** : arrêt Stade Charlety – Porte de Gentilly
-* **Vélib'** : station située au 5 boulevard Jourdan
+- **RER B** : Cité Universitaire
+- **Bus 21** et **67** : arrêt Stade Charlety – Porte de Gentilly
+- **Tram T3** : arrêt Stade Charlety – Porte de Gentilly
+- **Vélib'** : station située au 5 boulevard Jourdan

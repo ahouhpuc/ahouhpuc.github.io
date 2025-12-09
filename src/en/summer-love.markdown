@@ -1,16 +1,16 @@
 ---
+permalink: /en/summer-love
 lang: en
 summerlove: true
-title: Summer Love
+title: PUC Ultimate - Summer Love
 description: La Summer Love est une compétition hat organisée par le PUC Ultimate tous les étés. Les équipes s'affrontent chaque mercredi soir des mois de juillet et août.
 cover:
-  src: summer-love.jpg
+  src: /assets/images/summer-love.jpg
   title: Summer Love
 ---
 
 The Summer Love is a hat competition we organyze each summers.
 Teams compete each Thursday during July and August.
-
 
 It is announced each years on our <a href="https://www.facebook.com/pucultimate/" target="_blank" rel="noreferrer noopener">Facebook</a> and <a href="https://www.instagram.com/puc_ultimate/" target="_blank" rel="noreferrer noopener">Instagram</a> pages.
 
@@ -39,4 +39,3 @@ It is announced each years on our <a href="https://www.facebook.com/pucultimate/
 ## 2009: Cocktail
 
 ## 2008: Summer Love
-

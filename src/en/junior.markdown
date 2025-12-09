@@ -1,9 +1,10 @@
 ---
 lang: en
-title: PUC Ultimate youth teams
-description: Our youth teams practice on saturdays.
+permalink: /en/junior
+title: PUC Ultimate - Junior Information
+description: Our junior teams practice on saturdays.
 cover:
-  src: charlety.jpg
+  src: /assets/images/charlety.jpg
   title: Stade Charlety
 ---
 
@@ -13,9 +14,10 @@ Ultimate is a fast-moving team sport enjoyed by hundreds of thousands of people 
 
 Ultimate has some unique features among team sports:
 L'ultimate se démarque des autres sports collectifs par :
-* Mixed gender teams
-* Self-referring
-* Fair-play, which is evaluated at the end of each game
+
+- Mixed gender teams
+- Self-referring
+- Fair-play, which is evaluated at the end of each game
 
 Youth training is much developed in France and the French win fame regularly. In August 2019 they won two titles at <a href="https://www.youtube.com/watch?v=26fasW7isYM">European Youth Ultimate Championship</a>
 
@@ -29,12 +31,12 @@ The practice takes place on **Saturday at Stade Ouest of Cité Universitaire**, 
 
 ## Information
 
-* Practice is never cancelled, whether it’s windy, raining or snowing.
-* Practice starts right on time. Players are asked to arrive 15 minutes early to get ready. Changing rooms equipped with showers are available both before and after trainings.
+- Practice is never cancelled, whether it’s windy, raining or snowing.
+- Practice starts right on time. Players are asked to arrive 15 minutes early to get ready. Changing rooms equipped with showers are available both before and after trainings.
 
 <p> It is readily accessible by public transport:</p>
 
-* **RER B** : Cité Universitaire
-* **Bus 21** and **67** : stop at Stade Charlety – Porte de Gentilly
-* **Tram T3** : stop at Stade Charlety – Porte de Gentilly
-* **Vélib'** : station located at 5 boulevard Jourdan
+- **RER B** : Cité Universitaire
+- **Bus 21** and **67** : stop at Stade Charlety – Porte de Gentilly
+- **Tram T3** : stop at Stade Charlety – Porte de Gentilly
+- **Vélib'** : station located at 5 boulevard Jourdan
