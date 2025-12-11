@@ -26,13 +26,25 @@ a,
 
 h1 {
   text-align: center;
+  font-weight: bold;
+  color: $primary-color;
   padding-left: 2%;
   padding-right: 2%;
 }
 
 h2 {
   font-size: 1.2rem;
+  font-weight: bold;
+  color: $primary-color;
   margin-top: 2rem;
+}
+
+.slide-title {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: $primary-color;
+  text-align: center;
+  margin-top: 0rem;
 }
 
 ol li {
@@ -107,21 +119,13 @@ nav {
       text-decoration: underline $primary-color 2px;
     }
   }
-
-  #menu {
-    border: 1px solid $primary-color;
-    border-radius: 4px;
-    color: $primary-color;
-    padding: 0.2rem 0.6rem;
-    line-height: 1.4rem;
-    box-sizing: border-box;
-  }
 }
 
 .social-icons {
   display: flex;
   gap: 0.7em;
   align-items: center;
+  justify-content: center;
 }
 .social-icons img {
   height: 1.3em;
@@ -131,7 +135,10 @@ nav {
 .social-icons a:hover img {
   transform: scale(1.18);
 }
-
+.copyright {
+  margin-right: 1em;
+  text-align: end;
+}
 .puc-da {
   width: 1.5em;
   height: 1.5em;
@@ -145,6 +152,24 @@ nav {
 .puc-da a:hover {
   filter: brightness(0) saturate(100%) invert(34%) sepia(41%) saturate(1042%) hue-rotate(238deg) brightness(110%) contrast(110%);
   transform: scale(1.18);
+}
+.burger {
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+
+.menu-icon {
+  width: 2.2em;
+  height: 2.2em;
+  filter: brightness(0) saturate(100%) invert(34%) sepia(41%) saturate(1042%) hue-rotate(238deg) brightness(110%) contrast(110%);
+}
+
+.menu-icon on {
+  border-color: $primary-color;
 }
 
 .social-icons-fixed {
@@ -239,6 +264,8 @@ img[alt*="PUC Ultimate Invalides"] {
   display: flex;
   flex-direction: column;
   align-items: center;
+  transition: box-shadow 0.2s, transform 0.2s, border 0.2s, background 0.2s;
+  box-sizing: border-box;
 }
 
 .team-photo {
@@ -251,10 +278,7 @@ img[alt*="PUC Ultimate Invalides"] {
   border-radius: 8px;
   background: #eee;
 }
-.team {
-  transition: box-shadow 0.2s, transform 0.2s, border 0.2s, background 0.2s;
-  box-sizing: border-box;
-}
+
 .team:hover {
   box-shadow: 0 12px 48px rgba(0, 0, 0, 0.22);
   transform: scale(1.05);
@@ -304,6 +328,14 @@ img[alt*="PUC Ultimate Invalides"] {
   text-align: center;
 }
 
+.about {
+  text-align: justify;
+}
+
+.slide-description {
+  text-align: justify;
+}
+
 /* Carrousel mobile pour les équipes */
 .teams-carousel {
   position: relative;
@@ -326,28 +358,116 @@ img[alt*="PUC Ultimate Invalides"] {
   transition: 0.5s ease-in-out;
 }
 
-.carousel-dots {
-  position: absolute;
-  z-index: 5;
-  left: 50%;
-  right: 50%;
-  bottom: 10%;
+.team-slide-border {
+  border: 2px solid $primary-color;
+  border-radius: 8px;
+  padding: 1rem;
+  height: 600px;
+  background: #f9f5ff;
+}
+.summer {
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  padding: 1.5rem 1rem;
+  text-align: center;
   display: flex;
-  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  transition: box-shadow 0.2s, transform 0.2s, border 0.2s, background 0.2s;
+  box-sizing: border-box;
 }
 
-.carousel-dots .dot {
+.summer-photo {
+  width: 100%;
+  max-width: 320px;
+  height: 200px;
+  display: block;
+  margin: 0 auto 1rem auto;
+  object-fit: cover;
+  border-radius: 8px;
+  background: #eee;
+}
+
+.summer:hover {
+  box-shadow: 0 12px 48px rgba(0, 0, 0, 0.22);
+  transform: scale(1.05);
+  z-index: 5;
+  outline: 3px solid $primary-color;
+  outline-offset: 0.1rem;
+  background: #f3edff;
+}
+
+.summers-list {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+  margin-top: 2rem;
+  margin-bottom: 0;
+}
+
+.summers-carousel {
+  position: relative;
+}
+
+.summers-carousel-inner {
+  display: flex;
+  overflow: hidden;
+  height: auto;
+  flex-wrap: nowrap;
+  touch-action: pan-y;
+}
+
+.summer-slide {
+  flex: 0 0 auto;
+  padding-left: 10%;
+  padding-right: 10%;
+  width: 80%;
+  transition: 0.5s ease-in-out;
+}
+
+.summer-slide-border {
+  border: 2px solid $primary-color;
+  border-radius: 8px;
+  padding: 1rem;
+  height: 600px;
+  background: #f9f5ff;
+}
+
+.carousel-dots {
+  position: relative;
+  z-index: 5;
+  display: flex;
+  justify-content: center;
+  overflow: hidden;
+  margin: 0 auto;
+  width: 80%;
+}
+
+.carousel-dots-inner {
+  display: flex;
+  transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  padding-top: 1rem;
+  gap: 8px;
+  will-change: transform;
+}
+
+.dot {
+  width: 20px;
+  height: 20px;
   border-radius: 50%;
-  margin: 5px;
+  background: #ccc;
+  transition: background 0.3s;
   cursor: pointer;
 }
 
-.carousel-dots .active {
-  border: 10px solid #761530 !important;
+.dot.active {
+  background: $primary-color;
+  opacity: 1;
 }
-
-.carousel-dots .inactive {
-  border: 10px solid #2596be;
+.dot.inactive {
+  background: $primary-color;
+  opacity: 0.1;
 }
 
 .highlights-table {
@@ -370,8 +490,45 @@ img[alt*="PUC Ultimate Invalides"] {
   font-weight: bold;
 }
 
+.header-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.header-logo {
+  flex: 1 1 auto;
+}
+.header-social {
+  flex: 1 1 auto;
+  text-align: right;
+}
+
+.footer-social {
+  flex: 1 1 auto;
+}
+
 @media (max-width: 840px) {
+  .header-row {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0.5rem;
+  }
+  .header-logo {
+    text-align: center;
+    margin-bottom: 0.2rem;
+  }
+  .header-social {
+    display: none;
+  }
+
+  .footer {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0.5rem;
+  }
+
   .teams-list {
+    display: none;
     margin-bottom: 0.5rem;
   }
   .teams-carousel {
@@ -384,6 +541,22 @@ img[alt*="PUC Ultimate Invalides"] {
     overflow: hidden;
     top: 0;
   }
+
+  .summers-list {
+    display: none;
+    margin-bottom: 0.5rem;
+  }
+  .summers-carousel {
+    display: block !important;
+    margin-top: 0.5rem;
+    margin-bottom: 0;
+    position: relative;
+    min-height: 650px;
+    background: #fff;
+    overflow: hidden;
+    top: 0;
+  }
+
   header {
     border-bottom: 1px solid $primary-color;
   }
@@ -399,10 +572,6 @@ img[alt*="PUC Ultimate Invalides"] {
     padding-right: 0;
   }
 
-  .teams-list {
-    grid-template-columns: 1fr;
-  }
-
   nav {
     #logo {
       margin: 0.75rem 0.5rem 0;
@@ -414,17 +583,12 @@ img[alt*="PUC Ultimate Invalides"] {
       position: absolute;
       top: 0.8rem;
       right: 0.8rem;
-
-      .on {
-        background-color: $primary-color;
-        color: $white;
-      }
     }
 
     ul {
       position: absolute;
       display: block;
-      top: 3rem;
+      top: 3.1rem;
       visibility: hidden;
       width: 100%;
       border-bottom: 1px solid $primary-color;
@@ -450,14 +614,6 @@ img[alt*="PUC Ultimate Invalides"] {
   .desktop-calendar {
     display: none;
   }
-
-  .teams-list {
-    display: none;
-  }
-  .teams-carousel {
-    display: block;
-    position: relative;
-  }
 }
 
 @media (min-width: 841px) {
@@ -466,6 +622,10 @@ img[alt*="PUC Ultimate Invalides"] {
   }
 
   .teams-carousel {
+    display: none;
+  }
+
+  .summers-carousel {
     display: none;
   }
 

@@ -3,12 +3,12 @@ layout: default
 ---
 
 <div class="about">{{ page.about | markdownify }}</div>
-<h1 class="about-history">{{ page.history-title | markdownify }}</h1>
-<div class="about-history">{{ page.history | markdownify }}</div>
-<h1 class="about-today">{{ page.today-title | markdownify }}</h1>
-<div class="about-today">{{ page.today | markdownify }}</div>
+<h1 class="about">{{ page.history-title | markdownify }}</h1>
+<div class="about">{{ page.history | markdownify }}</div>
+<h1 class="about">{{ page.today-title | markdownify }}</h1>
+<div class="about">{{ page.today | markdownify }}</div>
 {% if page.highlights %}
-<div class="about-highlights">
+<div class="about">
   <h1>{{ page.highlights-title | markdownify }}</h1>
   <table class="highlights-table">
     <thead>

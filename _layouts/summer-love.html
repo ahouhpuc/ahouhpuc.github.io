@@ -7,28 +7,28 @@ layout: default
 <div class="overview">{{ page.overview | markdownify }}</div>
 {% endif %} {{ content }}
 
-<div class="teams-list">
-  {% for team in page.teams %}
-  <div class="team">
-    <h2>{{ team.name }}</h2>
-    {% if team.image %}
-    <img src="{{ team.image }}" alt="{{ team.name }}" class="team-photo" />
+<div class="summers-list">
+  {% for summer in page.summers %}
+  <div class="summer">
+    <h2 style="text-align: center">{{ summer.edition }}<br />{{ summer.name }}</h2>
+    {% if summer.image %}
+    <img src="{{ summer.image }}" alt="{{ summer.name }}" class="summer-photo" />
     {% endif %}
-    <p>{{ team.description | markdownify}}</p>
+    <p>{{ summer.description | markdownify}}</p>
   </div>
   {% endfor %}
 </div>
 
-<div class="teams-carousel">
-  <div class="teams-carousel-inner">
-    {% for team in page.teams %}
-    <div class="team-slide">
-      <div class="team-slide-border">
-        <h2 class="slide-title">{{ team.name }}</h2>
-        {% if team.image %}
-        <img src="{{ team.image }}" alt="{{ team.name }}" class="team-photo" />
+<div class="summers-carousel">
+  <div class="summers-carousel-inner">
+    {% for summer in page.summers %}
+    <div class="summer-slide">
+      <div class="summer-slide-border">
+        <h2 class="slide-title">{{ summer.edition }}<br />{{ summer.name }}</h2>
+        {% if summer.image %}
+        <img src="{{ summer.image }}" alt="{{ summer.name }}" class="summer-photo" />
         {% endif %}
-        <p>{{ team.description | markdownify}}</p>
+        <div class="slide-description">{{ summer.description | markdownify}}</div>
       </div>
     </div>
     {% endfor %}
@@ -45,9 +45,9 @@ layout: default
     // Popup image (desktop)
     var popup = document.getElementById("image-popup")
     var popupImg = document.getElementById("popup-img")
-    document.querySelectorAll(".team").forEach(function (card) {
+    document.querySelectorAll(".summer").forEach(function (card) {
       card.addEventListener("click", function () {
-        var img = card.querySelector(".team-photo")
+        var img = card.querySelector(".summer-photo")
         if (img) {
           popupImg.src = img.src
           popup.style.display = "flex"
@@ -67,7 +67,7 @@ layout: default
     const slideTimeout = 5000
 
     // Récupère tous les éléments de type "slide"
-    const $slides = document.querySelectorAll(".team-slide")
+    const $slides = document.querySelectorAll(".summer-slide")
 
     // Initialisation de la variable pour les "dots"
     let $dots
@@ -104,7 +104,6 @@ layout: default
       resetInterval()
     }
     slideTo(0)
-
     // Fonction pour afficher le prochain slide
     function showSlide() {
       slideTo(currentSlide + 1)

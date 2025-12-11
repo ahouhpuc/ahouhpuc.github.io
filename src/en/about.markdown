@@ -1,5 +1,6 @@
 ---
 permalink: /en/about
+lang: en
 title: PUC Ultimate - About
 description: PUC Ultimate is an Ultimate Frisbee club and a sports section of the Paris Université Club
 
@@ -9,7 +10,7 @@ cover:
 
 layout: about
 about: |
-  <a href="https://puc.paris/" target="_blank">![Logo PUC Paris Université Club](/assets/images/logo_puc_small.png)</a>
+  <a>![Logo PUC Paris Université Club](/assets/images/logo_puc_small.png)</a>
 
   PUC Ultimate is an Ultimate Frisbee club and a sports section of the Paris Université Club (<a href="https://puc.paris/" target="_blank">PUC</a>).
   The PUC is a large multi-sport club with 30 sports sections around Stade Charléty and the Cité Universitaire in southern Paris.

@@ -28,44 +28,42 @@
     </script>
     <header>
       <nav>
-        {% if page.lang == "fr" %}
-        <a href="/fr">
-          <img id="logo" src="/assets/images/logo_puc_ultimate.png" alt="PUC Ultimate Paris" />
-        </a>
-        <span class="social-icons social-icons-fixed">
-          <a href="https://www.instagram.com/puc_ultimate/" target="_blank" rel="noopener" title="Instagram PUC Ultimate">
-            <img class="puc-da" src="/assets/images/link/instagram.png" alt="Instagram" />
-          </a>
-          <a href="https://discord.gg/H9zbbXr" target="_blank" rel="noopener" title="Discord PUC Ultimate">
-            <img class="puc-da" src="/assets/images/link/discord.png" alt="Discord" />
-          </a>
-          <a href="https://pucultimate.fr" target="_blank" rel="noopener" title="Site officiel PUC Ultimate">
-            <img src="/assets/images/link/puc.svg" alt="Site officiel" />
-          </a>
-          <a href="{% if page.url contains '/fr/' %}/en{{ page.url | remove_first:'/fr' }}{% else %}/en{% endif %}" title="PUC Ultimate in English">
-            <img src="/assets/images/en.png" alt="PUC Ultimate in English" />
-          </a>
-        </span>
-        {% else %}
-        <a href="/en">
-          <img id="logo" src="/assets/images/logo_puc_ultimate.png" alt="PUC Ultimate Paris" />
-        </a>
-        <span class="social-icons social-icons-fixed">
-          <a href="https://www.instagram.com/puc_ultimate/" target="_blank" rel="noopener" title="Instagram PUC Ultimate">
-            <img class="puc-da" src="/assets/images/link/instagram.png" alt="Instagram" />
-          </a>
-          <a href="https://discord.gg/H9zbbXr" target="_blank" rel="noopener" title="Discord PUC Ultimate">
-            <img class="puc-da" src="/assets/images/link/discord.png" alt="Discord" />
-          </a>
-          <a href="https://pucultimate.fr" target="_blank" rel="noopener" title="Site officiel PUC Ultimate">
-            <img src="/assets/images/link/puc.svg" alt="Site officiel" />
-          </a>
-          <a href="{% if page.url contains '/en/' %}/fr{{ page.url | remove_first:'/en' }}{% else %}/fr{% endif %}" title="PUC Ultimate en français">
-            <img src="/assets/images/fr.png" alt="PUC Ultimate en français" />
-          </a>
-        </span>
-        {% endif %}
-        <a href="#" id="menu">Menu</a>
+        <div class="header-row">
+          <div class="header-logo">
+            {% if page.lang == "fr" %}
+            <a href="/fr">
+              <img id="logo" src="/assets/images/logo_puc_ultimate.png" alt="PUC Ultimate Paris" />
+            </a>
+            {% else %}
+            <a href="/en">
+              <img id="logo" src="/assets/images/logo_puc_ultimate.png" alt="PUC Ultimate Paris" />
+            </a>
+            {% endif %}
+          </div>
+          <div class="header-social">
+            <span class="social-icons social-icons-fixed">
+              <a href="https://www.instagram.com/puc_ultimate/" target="_blank" rel="noopener" title="Instagram PUC Ultimate">
+                <img class="puc-da" src="/assets/images/link/instagram.png" alt="Instagram" />
+              </a>
+              <a href="https://discord.gg/H9zbbXr" target="_blank" rel="noopener" title="Discord PUC Ultimate">
+                <img class="puc-da" src="/assets/images/link/discord.png" alt="Discord" />
+              </a>
+              <a href="https://pucultimate.fr" target="_blank" rel="noopener" title="Site officiel PUC Ultimate">
+                <img src="/assets/images/link/puc.svg" alt="Site officiel" />
+              </a>
+              {% if page.lang == "fr" %}
+              <a href="{% if page.url contains '/fr/' %}/en{{ page.url | remove_first:'/fr' }}{% else %}/en{% endif %}" title="PUC Ultimate in English">
+                <img src="/assets/images/en.png" alt="PUC Ultimate in English" />
+              </a>
+              {% else %}
+              <a href="{% if page.url contains '/en/' %}/fr{{ page.url | remove_first:'/en' }}{% else %}/fr{% endif %}" title="PUC Ultimate en français">
+                <img src="/assets/images/fr.png" alt="PUC Ultimate en français" />
+              </a>
+              {% endif %}
+            </span>
+          </div>
+        </div>
+        <a href="#" id="menu" class="burger"><img src="/assets/images/menu.png" alt="Menu" class="menu-icon" /></a>
         {% include menu.html %}
       </nav>
     </header>
@@ -75,12 +73,6 @@
     <div class="container">{{content}}</div>
     <footer>
       <div class="container footer">
-        <div>
-          <p>
-            © 2013-2026 PUC Ultimate<br />
-            (ex Ah Ouh PUC)
-          </p>
-        </div>
         <div>{% include contact.html %}</div>
       </div>
     </footer>

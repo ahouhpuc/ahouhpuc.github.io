@@ -1,6 +1,7 @@
 ---
 permalink: /en
 team: true
+lang: en
 title: PUC Ultimate
 cover:
   src: /assets/images/ahouhpuc-team.jpg
