@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+<div class="about">{{ page.about | markdownify }}</div>
+<h1 class="about-history">{{ page.history-title | markdownify }}</h1>
+<div class="about-history">{{ page.history | markdownify }}</div>
+<h1 class="about-today">{{ page.today-title | markdownify }}</h1>
+<div class="about-today">{{ page.today | markdownify }}</div>
+{% if page.highlights %}
+<div class="about-highlights">
+  <h1>{{ page.highlights-title | markdownify }}</h1>
+  <table class="highlights-table">
+    <thead>
+      <tr>
+        <th>{{page.highlights-team}}</th>
+        <th>{{page.highlights-field}}</th>
+        <th>{{page.highlights-level}}</th>
+        <th>{{page.highlights-year}}</th>
+        <th>{{page.highlights-result}}</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for h in page.highlights %}
+      <tr>
+        <td>{{ h.equipe }}</td>
+        <td>{{ h.type }}</td>
+        <td>{{ h.niveau }}</td>
+        <td>{{ h.annee }}</td>
+        <td>
+          <strong>
+            {% assign res = h.resultat | downcase %} {% if res contains '1e' or res contains '1er' or res contains '1st' %} 🥇 {% elsif res contains '2e' or res contains '2nd' %} 🥈 {% elsif res
+            contains '3e' or res contains '3rd' %} 🥉 {% else %}
+            <em>{{ h.resultat }}</em>
+            {% endif %}
+          </strong>
+        </td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+{% endif %}

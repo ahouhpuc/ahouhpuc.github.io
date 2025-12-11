@@ -350,6 +350,26 @@ img[alt*="PUC Ultimate Invalides"] {
   border: 10px solid #2596be;
 }
 
+.highlights-table {
+  width: 75%;
+  max-width: 90vw;
+  margin: 2rem auto;
+  border-collapse: collapse;
+  background: #fff;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.07);
+}
+.highlights-table th,
+.highlights-table td {
+  border: 1px solid #ddd;
+  padding: 0.6em 1em;
+  text-align: center;
+  font-weight: normal;
+}
+.highlights-table th {
+  background: #f3edff;
+  font-weight: bold;
+}
+
 @media (max-width: 840px) {
   .teams-list {
     margin-bottom: 0.5rem;
