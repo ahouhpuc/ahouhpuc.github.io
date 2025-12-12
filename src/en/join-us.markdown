@@ -6,7 +6,7 @@ title: PUC Ultimate - Join Us
 subtitle: Join Us!
 description: Registration for PUC Ultimate is open at the start of the season in September. A second session may take place mid-season around February/March.
 cover:
-  src: /assets/images/ahouhpuc-team.jpg
+  src: /assets/images/charlety.jpg
   title: PUC Ultimate team photo
 overview: |
   The PUC Ultimate season starts on September 1st and ends on August 31st. Registration is open at the start of the season during September. It is also possible to register for a half-season (from September 1st to February 28th, or from March 1st to August 31st).

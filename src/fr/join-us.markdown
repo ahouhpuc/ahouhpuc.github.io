@@ -3,7 +3,7 @@ permalink: /fr/join-us
 title: PUC Ultimate - Rejoins-nous
 subtitle: Rejoins-nous !
 cover:
-  src: /assets/images/ahouhpuc-team.jpg
+  src: /assets/images/charlety.jpg
   title: Photo d'équipe PUC Ultimate
 description: Les inscriptions au PUC Ultimate sont ouvertes en début de saison en septembre. Une deuxième session peut avoir lieu en milieu de saison vers février/mars.
 layout: join-us
