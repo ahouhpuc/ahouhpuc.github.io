@@ -1,5 +1,28 @@
-<ul>
-  <li><a href="mailto:contact@puc-ultimate.fr">contact@puc-ultimate.fr</a></li>
-  <li><a href="https://www.facebook.com/pucultimate/" target="_blank" rel="noreferrer noopener">Facebook</a></li>
-  <li><a href="https://www.instagram.com/puc_ultimate/" target="_blank" rel="noreferrer noopener">Instagram</a></li>
-</ul>
+<div class="footer-social">
+  <span class="social-icons">
+    <a href="https://www.instagram.com/puc_ultimate/" target="_blank" rel="noopener" title="Instagram PUC Ultimate">
+      <img class="puc-da" src="/assets/images/link/instagram.png" alt="Instagram" />
+    </a>
+    <a href="https://discord.gg/H9zbbXr" target="_blank" rel="noopener" title="Discord PUC Ultimate">
+      <img class="puc-da" src="/assets/images/link/discord.png" alt="Discord" />
+    </a>
+    <a href="https://pucultimate.fr" target="_blank" rel="noopener" title="Site officiel PUC Ultimate">
+      <img src="/assets/images/link/puc.svg" alt="Site officiel" />
+    </a>
+    {% if page.lang == "fr" %}
+    <a href="{% if page.url contains '/fr/' %}/en{{ page.url | remove_first:'/fr' }}{% else %}/en{% endif %}" title="PUC Ultimate in English">
+      <img src="/assets/images/en.png" alt="PUC Ultimate in English" />
+    </a>
+    {% else %}
+    <a href="{% if page.url contains '/en/' %}/fr{{ page.url | remove_first:'/en' }}{% else %}/fr{% endif %}" title="PUC Ultimate en français">
+      <img src="/assets/images/fr.png" alt="PUC Ultimate en français" />
+    </a>
+    {% endif %}
+  </span>
+</div>
+<div>
+  <p class="copyright">
+    © 2013-2026 PUC Ultimate<br />
+    (ex Ah Ouh PUC)
+  </p>
+</div>

@@ -1,0 +1,49 @@
+---
+layout: default
+---
+
+<h1 class="join-us-title">{{ page.subtitle }}</h1>
+<div class="overview">{{ page.overview | markdownify }}</div>
+
+<h2>{{ page.why-title }}</h2>
+<div>{{page.why | markdownify }}</div>
+
+<h2>{{ page.information-title }}</h2>
+<div>{{page.information | markdownify }}</div>
+
+<h2>{{ page.when-title.global }}</h2>
+<table class="highlights-table">
+  <thead>
+    <tr>
+      <th>{{ page.when-title.date }}</th>
+      <th>{{ page.when-title.location }}</th>
+      <th>{{ page.when-title.group }}</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for h in page.when %}
+    <tr>
+      <td>{{ h.date }}</td>
+      <td>{{ h.location }}</td>
+      <td>{{ h.group }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+
+<h2>{{ page.where-title }}</h2>
+<div class="where-grid">
+  {% for h in page.where %}
+  <div class="where-item">
+    <h2 class="slide-title">{{ h.title }}</h2>
+    <div style="text-align: justify">{{ h.description }}</div>
+    {% if h.map %}
+    <iframe src="{{ h.map }}" width="auto" height="auto" style="border: 0" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    {% endif %}
+    <div>{{ h.transport}}</div>
+  </div>
+  {% endfor %}
+</div>
+
+<h2>{{ page.process-title }}</h2>
+<div class="process">{{ page.process }}</div>

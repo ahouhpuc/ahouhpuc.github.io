@@ -1,0 +1,166 @@
+---
+layout: default
+---
+
+<h1>{{ page.subtitle }}</h1>
+{% if page.overview %}
+<div class="overview">{{ page.overview | markdownify }}</div>
+{% endif %} {{ content }}
+
+<div class="summers-list">
+  {% for summer in page.summers %}
+  <div class="summer">
+    <h2 style="text-align: center">{{ summer.edition }}<br />{{ summer.name }}</h2>
+    {% if summer.image %}
+    <img src="{{ summer.image }}" alt="{{ summer.name }}" class="summer-photo" />
+    {% endif %}
+    <p>{{ summer.description | markdownify}}</p>
+  </div>
+  {% endfor %}
+</div>
+
+<div class="summers-carousel">
+  <div class="summers-carousel-inner">
+    {% for summer in page.summers %}
+    <div class="summer-slide">
+      <div class="summer-slide-border">
+        <h2 class="slide-title">{{ summer.edition }}<br />{{ summer.name }}</h2>
+        {% if summer.image %}
+        <img src="{{ summer.image }}" alt="{{ summer.name }}" class="summer-photo" />
+        {% endif %}
+        <div class="slide-description">{{ summer.description | markdownify}}</div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+  <div class="carousel-dots"><div class="carousel-dots-inner"></div></div>
+</div>
+
+<div id="image-popup" style="display: none">
+  <img id="popup-img" src="" alt="Agrandissement" />
+</div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    // Popup image (desktop)
+    var popup = document.getElementById("image-popup")
+    var popupImg = document.getElementById("popup-img")
+    document.querySelectorAll(".summer").forEach(function (card) {
+      card.addEventListener("click", function () {
+        var img = card.querySelector(".summer-photo")
+        if (img) {
+          popupImg.src = img.src
+          popup.style.display = "flex"
+        }
+      })
+    })
+    popup.addEventListener("click", function () {
+      popup.style.display = "none"
+      popupImg.src = ""
+    })
+
+    // Carrousel mobile
+    function isMobile() {
+      return window.matchMedia("(max-width: 840px)").matches
+    }
+    // Déclare la constante pour la durée de chaque slide
+    const slideTimeout = 5000
+
+    // Récupère tous les éléments de type "slide"
+    const $slides = document.querySelectorAll(".summer-slide")
+
+    // Initialisation de la variable pour les "dots"
+    let $dots
+    let $dotsInner = document.querySelector(".carousel-dots-inner")
+    // Initialisation de la variable pour l'intervalle d'affichage des slides
+    let intervalId
+    // Initialisation du slide courant à 0
+    let currentSlide = 0
+
+    // Boucle pour créer les "dots" en fonction du nombre de slides
+    for (let i = 0; i < $slides.length; i++) {
+      let dotClass = i == currentSlide ? "active" : "inactive"
+      let $dot = `<span data-slidId="${i}" class="dot ${dotClass}"></span>`
+      $dotsInner.innerHTML += $dot
+    }
+    $dots = $dotsInner.querySelectorAll(".dot")
+
+    // Fonction pour afficher un slide spécifique en utilisant un index
+    function resetInterval() {
+      clearInterval(intervalId)
+      intervalId = setInterval(showSlide, slideTimeout)
+    }
+    function slideTo(index) {
+      // Vérifie si l'index est valide (compris entre 0 et le nombre de slides - 1)
+      currentSlide = index >= $slides.length || index < 1 ? 0 : index
+      // Boucle sur tous les éléments de type "slide" pour les déplacer
+      $slides.forEach(($elt) => ($elt.style.transform = `translateX(-${currentSlide * 100}%)`))
+      // Boucle sur tous les "dots" pour mettre à jour la couleur par la classe "active" ou "inactive"
+      $dots.forEach(($elt, key) => ($elt.classList = `dot ${key === currentSlide ? "active" : "inactive"}`))
+      // Transition du conteneur des dots pour centrer le dot actif
+      const dotWidth = 20 + 8 // 8px de marge
+      const containerWidth = $dotsInner.offsetWidth / 2
+      $dotsInner.style.transform = `translateX(${containerWidth - currentSlide * dotWidth}px)`
+      resetInterval()
+    }
+    slideTo(0)
+    // Fonction pour afficher le prochain slide
+    function showSlide() {
+      slideTo(currentSlide + 1)
+    }
+
+    // Boucle pour ajouter des écouteurs d'événement "click" sur chaque "dot"
+    $dots.forEach(($elt, key) => $elt.addEventListener("click", () => slideTo(key)))
+
+    // Initialisation de l'intervalle pour afficher les slides
+    intervalId = setInterval(showSlide, slideTimeout)
+    // Boucle sur tous les éléments de type "slide" pour ajouter des écouteurs d'événement pour les interactions avec la souris et le toucher
+    $slides.forEach(($elt) => {
+      let startX, startY
+      let endX, endY
+      // Efface l'intervalle d'affichage des slides lorsque la souris passe sur un slide
+      $elt.addEventListener(
+        "mouseover",
+        () => {
+          clearInterval(intervalId)
+        },
+        false
+      )
+      // Réinitialise l'intervalle d'affichage des slides lorsque la souris sort d'un slide
+      $elt.addEventListener(
+        "mouseout",
+        () => {
+          resetInterval()
+        },
+        false
+      )
+      // Enregistre la position initiale du toucher lorsque l'utilisateur touche un slide
+      $elt.addEventListener("touchstart", (event) => {
+        startX = event.touches[0].clientX
+        startY = event.touches[0].clientY
+      })
+      // Enregistre la position finale du toucher lorsque l'utilisateur relâche son doigt
+      $elt.addEventListener(
+        "touchend",
+        (event) => {
+          endX = event.changedTouches[0].clientX
+          endY = event.changedTouches[0].clientY
+          const dx = Math.abs(endX - startX)
+          const dy = Math.abs(endY - startY)
+          // Si le mouvement est principalement horizontal, on bloque le scroll vertical
+          if (dx > dy && dx > 30) {
+            event.preventDefault()
+            if (startX > endX) {
+              slideTo(currentSlide + 1)
+            } else if (startX < endX) {
+              slideTo(currentSlide - 1)
+            }
+            resetInterval()
+          }
+          // Si le mouvement est principalement vertical, on laisse le scroll de la page
+        },
+        { passive: false }
+      )
+    })
+  })
+</script>

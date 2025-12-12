@@ -1,65 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://puc-ultimate.fr/fr.html</loc>
+    <loc>https://puc-ultimate.fr/fr</loc>
     <xhtml:link rel="alternate" href="https://puc-ultimate.fr/" hreflang="x-default" />
-    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/fr.html" hreflang="fr" />
-    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/en.html" hreflang="en" />
+    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/fr" hreflang="fr" />
+    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/en" hreflang="en" />
   </url>
   <url>
-    <loc>https://puc-ultimate.fr/en.html</loc>
+    <loc>https://puc-ultimate.fr/en</loc>
     <xhtml:link rel="alternate" href="https://puc-ultimate.fr/" hreflang="x-default" />
-    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/fr.html" hreflang="fr" />
-    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/en.html" hreflang="en" />
+    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/fr" hreflang="fr" />
+    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/en" hreflang="en" />
   </url>
   <url>
-    <loc>https://puc-ultimate.fr/equipes.html</loc>
-    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/equipes.html" hreflang="fr" />
-    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/teams.html" hreflang="en" />
+    <loc>https://puc-ultimate.fr/fr/join-us</loc>
+    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/fr/join-us" hreflang="fr" />
+    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/en/join-us" hreflang="en" />
   </url>
   <url>
-    <loc>https://puc-ultimate.fr/teams.html</loc>
-    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/equipes.html" hreflang="fr" />
-    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/teams.html" hreflang="en" />
+    <loc>https://puc-ultimate.fr/en/join-us</loc>
+    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/fr/join-us" hreflang="fr" />
+    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/en/join-us" hreflang="en" />
   </url>
   <url>
-    <loc>https://puc-ultimate.fr/entrainements.html</loc>
-    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/entrainements.html" hreflang="fr" />
-    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/practices.html" hreflang="en" />
+    <loc>https://puc-ultimate.fr/fr/summer-love</loc>
+    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/fr/summer-love" hreflang="fr" />
+    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/en/summer-love" hreflang="en" />
   </url>
   <url>
-    <loc>https://puc-ultimate.fr/practices.html</loc>
-    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/entrainements.html" hreflang="fr" />
-    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/practices.html" hreflang="en" />
+    <loc>https://puc-ultimate.fr/en/summer-love</loc>
+    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/fr/summer-love" hreflang="fr" />
+    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/en/summer-love" hreflang="en" />
   </url>
   <url>
-    <loc>https://puc-ultimate.fr/juniors.html</loc>
-    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/juniors.html" hreflang="fr" />
-    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/youth.html" hreflang="en" />
+    <loc>https://puc-ultimate.fr/fr/about</loc>
+    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/fr/about" hreflang="fr" />
+    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/en/about" hreflang="en" />
   </url>
   <url>
-    <loc>https://puc-ultimate.fr/youth.html</loc>
-    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/juniors.html" hreflang="fr" />
-    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/youth.html" hreflang="en" />
-  </url>
-  <url>
-    <loc>https://puc-ultimate.fr/summer-love.html</loc>
-    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/summer-love.html" hreflang="fr" />
-    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/summer-love-en.html" hreflang="en" />
-  </url>
-  <url>
-    <loc>https://puc-ultimate.fr/summer-love-en.html</loc>
-    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/summer-love.html" hreflang="fr" />
-    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/summer-love-en.html" hreflang="en" />
-  </url>
-  <url>
-    <loc>https://puc-ultimate.fr/a-propos.html</loc>
-    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/a-propos.html" hreflang="fr" />
-    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/about-us.html" hreflang="en" />
-  </url>
-  <url>
-    <loc>https://puc-ultimate.fr/about-us.html</loc>
-    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/a-propos.html" hreflang="fr" />
-    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/about-us.html" hreflang="en" />
+    <loc>https://puc-ultimate.fr/en/about</loc>
+    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/fr/about" hreflang="fr" />
+    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/en/about" hreflang="en" />
   </url>
 </urlset>

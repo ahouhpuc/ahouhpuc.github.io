@@ -12,25 +12,17 @@
 
 {% if page.lang == "fr" %}
   <ul>
-    <li><a {% if page.path contains "inscription" %} class="current" {% endif %} href="inscription.html">Inscription</a></li>
-    <li><a {% if page.path contains "entrainements" %} class="current" {% endif %} href="entrainements.html">Entraînements</a></li>
-    <li><a {% if page.path contains "juniors" %} class="current" {% endif %} href="juniors.html">Jeunes</a></li>
-    <li><a {% if page.path contains "equipes" %} class="current" {% endif %} href="equipes.html">Équipes</a></li>
-    <li><a {% if page.path contains "summer-love" %} class="current" {% endif %} href="summer-love.html">Summer&nbsp;Love&nbsp;♥</a></li>
-    <li><a {% if page.path contains "a-propos" %} class="current" {% endif %} href="a-propos.html">À propos</a></li>
-    <li><a {% if page.path contains "calendrier" %} class="current" {% endif %} href="calendrier.html">Calendrier</a></li>
-    <li><a class="flag" href="en.html" title="PUC Ultimate in English"><img src="en.png" alt="PUC Ultimate in English"> English</a></li>
+    <li><a {% if page.path contains "join-us" %} class="current" {% endif %} href="/fr/join-us">Rejoins-nous</a></li>
+    <li><a {% if page.path contains "summer-love" %} class="current" {% endif %} href="/fr/summer-love">Summer&nbsp;Love&nbsp;♥</a></li>
+    <li><a {% if page.path contains "about" %} class="current" {% endif %} href="/fr/about">À propos</a></li>
+    <li><a {% if page.path contains "calendar" %} class="current" {% endif %} href="/fr/calendar">Calendrier</a></li>
   </ul>
 {% else %}
   <ul>
-    <li><a {% if page.path contains "sign-up" %} class="current" {% endif %} href="sign-up.html">Sign Up</a></li>
-    <li><a {% if page.path contains "practices" %} class="current" {% endif %} href="practices.html">Practices</a></li>
-    <li><a {% if page.path contains "youth" %} class="current" {% endif %} href="youth.html">Youth</a></li>
-    <li><a {% if page.path contains "teams" %} class="current" {% endif %} href="teams.html">Teams</a></li>
-    <li><a {% if page.path contains "summer-love-en" %} class="current" {% endif %} href="summer-love-en.html">Summer&nbsp;Love&nbsp;♥</a></li>
-    <li><a {% if page.path contains "about-us" %} class="current" {% endif %} href="about-us.html">About Us</a></li>
-    <li><a {% if page.path contains "calendar" %} class="current" {% endif %} href="calendar.html">Calendar</a></li>
-    <li><a class="flag" href="fr.html" title="PUC Ultimate en français"><img src="fr.png" alt="PUC Ultimate en français"> Français</a></li>
+    <li><a {% if page.path contains "join-us" %} class="current" {% endif %} href="/en/join-us">Join us</a></li>
+    <li><a {% if page.path contains "summer-love" %} class="current" {% endif %} href="/en/summer-love">Summer&nbsp;Love&nbsp;♥</a></li>
+    <li><a {% if page.path contains "about" %} class="current" {% endif %} href="/en/about">About Us</a></li>
+    <li><a {% if page.path contains "calendar" %} class="current" {% endif %} href="/en/calendar">Calendar</a></li>
   </ul>
 {% endif %}
 
