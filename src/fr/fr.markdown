@@ -83,8 +83,12 @@ teams:
       Ouverte à tous les joueurs et joueuses désireux de progresser individuellement et collectivement, elle a pour objectif de renforcer les compétences et l’esprit d’équipe. 
 
       Elle a remporté le championnat DR2 en 2025, une étape marquante dans son évolution.
+  - name: Junior
+    image: /assets/images/teams/junior2025.jpg
+    description: |
+      L’équipe Junior, des jeunes joueurs motivés, qui apprennent les bases, progressent ensemble et jouent dans un esprit convivial.
 ---
 
 <div class="join-us">
-  <a href="/fr/practices">Rejoins-nous !</a>
+  <a href="/fr/join-us">Rejoins-nous !</a>
 </div>

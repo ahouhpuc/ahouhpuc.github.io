@@ -87,8 +87,12 @@ teams:
       Open to all players wishing to progress individually and collectively, its goal is to strengthen skills and team spirit.
 
       The team won the DR2 championship in 2025, a milestone in its development.
+  - name: Junior
+    image: /assets/images/teams/junior2025.jpg
+    description: |
+      L’équipe Junior, young, motivated players learning the basics, improving together, and playing in a friendly spirit.
 ---
 
 <div class="join-us">
-  <a href="/en/practices">Join us!</a>
+  <a href="/en/join-us">Join us!</a>
 </div>

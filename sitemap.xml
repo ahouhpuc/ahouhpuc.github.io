@@ -13,24 +13,14 @@
     <xhtml:link rel="alternate" href="https://puc-ultimate.fr/en" hreflang="en" />
   </url>
   <url>
-    <loc>https://puc-ultimate.fr/fr/practices</loc>
-    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/fr/practices" hreflang="fr" />
-    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/en/practices" hreflang="en" />
+    <loc>https://puc-ultimate.fr/fr/join-us</loc>
+    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/fr/join-us" hreflang="fr" />
+    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/en/join-us" hreflang="en" />
   </url>
   <url>
-    <loc>https://puc-ultimate.fr/en/practices</loc>
-    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/fr/practices" hreflang="fr" />
-    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/en/practices" hreflang="en" />
-  </url>
-  <url>
-    <loc>https://puc-ultimate.fr/fr/junior</loc>
-    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/fr/junior" hreflang="fr" />
-    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/en/junior" hreflang="en" />
-  </url>
-  <url>
-    <loc>https://puc-ultimate.fr/en/junior</loc>
-    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/fr/junior" hreflang="fr" />
-    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/en/junior" hreflang="en" />
+    <loc>https://puc-ultimate.fr/en/join-us</loc>
+    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/fr/join-us" hreflang="fr" />
+    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/en/join-us" hreflang="en" />
   </url>
   <url>
     <loc>https://puc-ultimate.fr/fr/summer-love</loc>
