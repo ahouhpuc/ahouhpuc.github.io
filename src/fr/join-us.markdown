@@ -24,7 +24,7 @@ why: |
   - Le fair-play, qui est évalué en fin de match
 
   La formation est très développée en France et les jeunes français s'illustrent régulièrement, comme à l'été 2019 avec <a href="https://www.youtube.com/watch?v=26fasW7isYM">2 titres de champions d'Europe</a>
-information-title: Informations practiques
+information-title: Informations pratiques
 information: |
   - Qu'il pleuve, qu'il vente ou qu'il neige, l'entraînement a toujours lieu.
   - L'entraînement commence à l'horaire indiqué, en tenue. Prévois donc d'arriver 15 minutes en avance. Un vestiaire est disponible pour se changer avant.
@@ -80,7 +80,7 @@ where:
       Métro 7 / 14 : Maison blanche<br>
       Tram T3 : arrêt Poterne des peupliers<br>
       Vélib' : station situé rue Gouthière, 75013 Paris
-process-title: Procedure d'inscription
+process-title: Procédure d'inscription
 process: |
   Envoie un mail à <b>inscription@puc-ultimate.fr</b> pour accéder au formulaire d'inscription. Le paiement se fera en ligne par CB. Tu peux préparer les documents suivants :
   <ol>

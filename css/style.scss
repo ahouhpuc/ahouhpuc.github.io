@@ -163,6 +163,8 @@ nav {
 }
 
 .menu-icon {
+  padding: 20px;
+  margin: -20px;
   width: 2.2em;
   height: 2.2em;
   filter: brightness(0) saturate(100%) invert(34%) sepia(41%) saturate(1042%) hue-rotate(238deg) brightness(110%) contrast(110%);
