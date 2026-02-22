@@ -3,6 +3,7 @@ permalink: /en
 team: true
 lang: en
 title: PUC Ultimate
+description: Ultimate Frisbee in the heart of Paris!
 cover:
   src: /assets/images/ahouhpuc-team.jpg
   title: PUC Ultimate team photo
