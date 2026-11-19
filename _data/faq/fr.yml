@@ -1,0 +1,421 @@
+# FAQ du PUC Ultimate (français)
+# Pour modifier une réponse : éditer le texte sous « a: | » (format Markdown).
+# Pour ajouter une question : copier un bloc « - id / q / a » dans la bonne catégorie.
+# « id » sert de lien direct (ex. /fr/faq#inscription) : lettres minuscules, chiffres et tirets uniquement.
+# « top: true » affiche la question dans les raccourcis « Questions populaires ».
+
+saison: "2026-2027"
+
+ui:
+  title: Foire aux questions
+  intro: |
+    Tu as une question et tu veux une réponse claire, vite ? Elle est sûrement ici.
+    Sinon, écris au bureau&nbsp;: [bureau@puc-ultimate.fr](mailto:bureau@puc-ultimate.fr).
+  search_placeholder: "Rechercher : licence, minibus, maillot, blessure…"
+  search_label: Rechercher dans la FAQ
+  all: Tout
+  popular: Questions populaires
+  expand_all: Tout déplier
+  collapse_all: Tout replier
+  no_results: Aucune question ne correspond à ta recherche.
+  results_one: question trouvée
+  results_many: questions trouvées
+  copy_link: Copier le lien
+  link_copied: Lien copié !
+  contact_title: Tu n'as pas trouvé ta réponse ?
+  contact_text: Le bureau est là pour t'aider.
+  contact_button: Écrire au bureau
+
+categories:
+  - id: bureau
+    icon: "👥"
+    title: Bureau et vie associative
+    questions:
+      - id: membres-bureau
+        q: Qui sont les membres du bureau ?
+        a: |
+          | Fonction | Membre(s) |
+          |---|---|
+          | Présidente | Léa Guelaud |
+          | Trésorier.e.s | Selma Kindo, Bruno Fontaine, Mouad Berrehal |
+          | Secrétaire et responsable des inscriptions | Cédric Welty |
+          | Responsables communication | Marien Aparicio, Awa Dakono, Elsa Boileau |
+          | Responsable maillots et matériel | Nathan Cohen |
+          | Commission sportive | Cédric Welty |
+          | Section junior | Raphaël Candelier |
+
+          Pour contacter n'importe quel membre du bureau, écris à [bureau@puc-ultimate.fr](mailto:bureau@puc-ultimate.fr) en précisant à qui s'adresse ton message.
+
+      - id: statuts-ag
+        q: Où trouver les statuts du PUC et les comptes rendus d'AG ?
+        a: |
+          Le PUC Ultimate est la section ultimate du Paris Université Club (PUC), une association loi 1901.
+
+          La plupart des documents publics du bureau sont dans ce [dossier Google Drive](https://drive.google.com/drive/folders/0BwS1eSb3GlGFX0hhSjZ2c1lrOVk).
+
+      - id: prochaine-ag
+        q: Quand a lieu la prochaine assemblée générale ?
+        a: |
+          L'AG du PUC Ultimate a lieu **chaque année en juin**. Une convocation est envoyée par mail à tou.te.s les adhérent.e.s plusieurs semaines avant.
+
+      - id: liste-bureau
+        q: Comment présenter une liste pour le bureau ?
+        a: |
+          Quand tu reçois le mail qui annonce l'assemblée générale, préviens le bureau que tu souhaites présenter une liste.
+
+  - id: tresorerie
+    icon: "💶"
+    title: Trésorerie
+    questions:
+      - id: cotisation
+        q: À quoi sert ma cotisation ?
+        a: |
+          Pour les seniors, la cotisation de **210,50 €** se répartit ainsi :
+
+          - **65,50 €** pour la licence fédérale et l'assurance responsabilité civile et dommages corporels ;
+          - **55 €** pour le Paris Université Club (accès aux installations sportives, aide logistique) ;
+          - **90 €** pour la section PUC Ultimate (frais de fonctionnement).
+
+          Pour les tarifs réduits (étudiant.e.s, juniors…), c'est la part reçue par la section PUC Ultimate qui est réduite.
+
+      - id: depenses-remboursees
+        q: Quelles dépenses sont remboursées ?
+        a: |
+          **Team fee payé en totalité** pour :
+
+          - les tournois ouverts à tout le club (en Île-de-France et ailleurs) ;
+          - les tournois de préparation d'une équipe du club (en Île-de-France et ailleurs).
+
+          **S'il n'y a pas de team fee :**
+
+          - 10 € par licencié.e pour les tournois en France ;
+          - jusqu'à 20 € par licencié.e pour les tournois en Europe et hors Europe.
+
+          **Défraiement forfaitaire des coachs non joueur.euse.s** (championnats et week-ends de préparation) :
+
+          | Lieu | Montant |
+          |---|---|
+          | Île-de-France | 0 € |
+          | France | jusqu'à 140 € |
+          | Europe / hors Europe | jusqu'à 140 € |
+
+          **Et aussi :**
+
+          - 27 € de participation par kit de maillots pour chaque nouvel.le inscrit.e ;
+          - une participation aux déplacements des joueur.euse.s en difficulté financière et des juniors, sur demande.
+
+      - id: payer-team-fee
+        q: Comment faire payer un team fee par le club ?
+        a: |
+          1. Envoie au bureau la facture **à l'ordre du PUC**, avec les coordonnées bancaires complètes de l'organisation.
+          2. Compte une dizaine de jours avant que le paiement soit reçu.
+
+          Le club peut aussi avancer les player fees, que les joueur.euse.s remboursent ensuite.
+
+      - id: remboursement
+        q: Comment me faire rembourser ?
+        a: |
+          #### Avant le championnat ou le tournoi
+
+          Contacte l'intendant.e de ton équipe : cette personne gère le remboursement et prévient le bureau ([bureau@puc-ultimate.fr](mailto:bureau@puc-ultimate.fr)). S'il n'y a pas d'intendant.e, contacte directement le bureau.
+
+          #### Pendant
+
+          L'intendant.e récupère les factures (hébergement, repas), si possible à l'ordre du PUC, et centralise les originaux (péages, essence, etc.). Pour un logement Airbnb, une facture à un autre nom est acceptée.
+
+          #### Après
+
+          L'intendant.e remet en main propre à un.e trésorier.e (ou à un autre membre du bureau si vos entraînements ne coïncident pas) la **note de frais** remplie et signée, avec les factures et le RIB de la personne à rembourser.
+
+          Le club peut avancer certains frais (hébergement, transport), que les joueur.euse.s remboursent ensuite. Dans tous les cas, n'hésite pas à demander conseil à la trésorerie.
+
+      - id: usages
+        q: Désistement, covoiturage… quelles sont les règles ?
+        a: |
+          - **Désistement :** les frais engagés (player fee, hébergement, etc.) doivent être remboursés, même en cas de blessure, sauf si une solution est trouvée (par exemple un.e remplaçant.e).
+          - **Covoiturage :** la personne qui prête sa voiture ne paie pas le trajet. Les frais (essence, péages, etc.) sont partagés entre les passager.ère.s.
+          - **Véhicules sur place :** quand des véhicules sont nécessaires pour se déplacer pendant un week-end de championnat, de stage ou de tournoi, une participation peut être demandée à celles et ceux qui viennent par leurs propres moyens.
+
+      - id: frais-accompagnement-juniors
+        q: Comment sont pris en charge les frais d'accompagnement des juniors ?
+        a: |
+          Lors des tournois et championnats jeunes, ce sont généralement les coachs, les bénévoles et les parents qui accompagnent, le plus souvent avec leur véhicule personnel.
+
+          Le club ne pouvant pas rembourser tous ces trajets à 100 %, tu peux en faire **don au club** et bénéficier de **66 % de réduction d'impôts** grâce à une attestation fournie par le PUC.
+
+          Pour cela, nous avons besoin d'une copie de ta carte grise et de ton adresse (pour calculer la distance et le barème). Remplis ce [formulaire](https://forms.gle/dwBUzpEqHqbTueqS7) ou envoie ces informations à [bureau@puc-ultimate.fr](mailto:bureau@puc-ultimate.fr).
+
+          Les attestations sont généralement envoyées en mars, avant la déclaration d'impôts, et portent sur l'année fiscale précédente.
+
+  - id: secretariat
+    icon: "📝"
+    title: Inscriptions et licence
+    questions:
+      - id: tarifs
+        top: true
+        q: Quels sont les tarifs d'inscription ?
+        a: |
+          Pour rejoindre le PUC Ultimate, il faut obligatoirement payer l'inscription au PUC **et** la licence fédérale. Tarifs de la saison %SAISON% :
+
+          | Catégorie | Tarif |
+          |---|---|
+          | Adultes | 210,50 € |
+          | Juniors U17-U20 | 196,50 € |
+          | Juniors U13-U15 | 181,50 € |
+
+          Besoin d'un tarif réduit ? Contacte la [personne responsable des inscriptions](#membres-bureau) : on verra ensemble comment t'aider.
+
+      - id: inscription
+        top: true
+        q: Comment m'inscrire ou me réinscrire ?
+        a: |
+          L'inscription se fait en **deux étapes, toutes deux obligatoires**.
+
+          #### Étape 1 : inscription au PUC
+
+          1. Connecte-toi (ou crée un compte) sur [MonClub](https://puc.monclub.app/).
+          2. Sélectionne la section « Ultimate Frisbee » et la formule « Adhésion %SAISON% ».
+          3. À l'étape 4, choisis la formule correspondant à ton type de licence, puis paie à l'étape 5.
+
+          Tu peux aussi payer directement au secrétariat du PUC, par carte ou par chèque. Ton reçu est ensuite téléchargeable dans ton espace adhérent, rubrique « Mes adhésions ».
+
+          #### Étape 2 : licence fédérale
+
+          1. Va sur ton espace [eLicence de la FFFD](https://monespace.ff-flyingdisc.fr/auth/login). Première connexion ? [Active ton compte ici](https://monespace.ff-flyingdisc.fr/activer-mon-compte).
+          2. Ton numéro de licence compte six chiffres : complète avec des zéros devant si besoin (ex. 001234).
+          3. Suis le [guide de la fédération](http://monespace.ff-flyingdisc.fr/gestdoc/document/470/telecharger) pour prendre ta licence.
+          4. **Décoche l'IA (assurance)**, sauf si tu joues en équipe de France.
+          5. Dans tes informations personnelles, autorise le droit à l'image et les conditions d'utilisation des données.
+          6. Ajoute ton certificat médical selon le modèle de la fédération, avec la mention « compétition ».
+
+          Garde cet espace en favori : il sert pour toutes les démarches avec la fédération (transfert de club, équipes nationales…).
+
+          #### Certificat médical : à retenir
+
+          - **Seniors :** tu peux prolonger ton certificat d'un an (deux fois maximum) en attestant avoir répondu « non » à tout le questionnaire de santé (CERFA n°15699-01).
+          - **Juniors :** pas de prolongation possible. Pour les compétitions fédérales, il faut être surclassé.e ou doublement surclassé.e ; les encadrant.e.s peuvent t'aider.
+          - **Équipes nationales :** pas de prolongation non plus. Le certificat doit être établi chaque saison par un.e médecin du sport.
+          - Tes anciens certificats restent disponibles dans eLicence.
+
+          Une question ? Écris à la [personne responsable des inscriptions](#membres-bureau).
+
+      - id: numero-licence
+        q: Quel est mon numéro de licence FFFD ?
+        a: |
+          Si tu as déjà été licencié.e à la FFFD, tu reçois ta licence dématérialisée par mail à chaque début de saison. Tu la retrouves aussi dans ton [espace personnel](https://monespace.ff-flyingdisc.fr/auth/login) sur le site de la fédération.
+
+      - id: espace-ffdf
+        q: Comment accéder à mon espace personnel FFFD ?
+        a: |
+          Ton espace personnel est [ici](https://monespace.ff-flyingdisc.fr/auth/login). Première connexion ? [Active ton compte](https://monespace.ff-flyingdisc.fr/activer-mon-compte).
+
+      - id: attestation
+        q: Comment obtenir une attestation d'inscription ou une facture ?
+        a: |
+          Demande-la par mail à la [personne responsable des inscriptions](#membres-bureau).
+
+  - id: equipement
+    icon: "👕"
+    title: Équipement
+    questions:
+      - id: acheter-disque
+        top: true
+        q: Comment acheter un disque ?
+        a: |
+          Les disques du club coûtent **10 €** et se paient en ligne sur HelloAsso :
+          [1 disque](https://www.helloasso.com/associations/ultimate-rive-gauche/paiements/disque-hand-signals) ·
+          [2 disques](https://www.helloasso.com/associations/ultimate-rive-gauche/paiements/2-disques-hand-signals-puc) ·
+          [5 disques](https://www.helloasso.com/associations/ultimate-rive-gauche/paiements/5-disques-hand-signals-puc) ·
+          [10 disques](https://www.helloasso.com/associations/ultimate-rive-gauche/paiements/10-disques-hand-signals-puc)
+
+          Après le paiement, contacte le bureau pour le récupérer à un entraînement. Nous ne faisons pas de livraison (et encore moins à l'étranger).
+
+      - id: maillots
+        q: Comment avoir mon set de maillots ?
+        a: |
+          Chaque année **à l'automne**, le club passe une commande groupée. Chacun.e choisit son numéro selon les disponibilités et les articles de son choix :
+
+          | Article | Prix |
+          |---|---|
+          | Set compétition complet (short coupe classique + maillot bleu + maillot blanc) | 76,80 € |
+          | Set compétition complet (short coupe « velocity » + maillot bleu + maillot blanc) | 83,60 € |
+          | Premier set compétition complet | −20 € (subventionné par le PUC) |
+          | Short compétition seul | 20,80 € (classique) ou 25,60 € (velocity) |
+          | Maillot compétition seul | 29 € |
+          | Maillot d'entraînement manches longues | 31,20 € |
+
+          Remplis le formulaire reçu par mail pendant la période de commande, paie en ligne avec le lien e-cotiz, puis attends la livraison.
+
+          **Attention :** deux joueur.euse.s d'une même équipe ne peuvent pas avoir le même numéro en championnat de France. Si cela arrive, la priorité va à l'ancienneté : la personne qui portait le numéro en premier le garde.
+
+      - id: rachat-maillots
+        q: Le club peut-il racheter mes maillots ?
+        a: |
+          Oui. Si tu quittes le club, le club peut racheter ton kit de maillots **20 €**, s'il est en bon état. Contacte le bureau.
+
+  - id: sportif
+    icon: "🥏"
+    title: Sportif
+    questions:
+      - id: tournoi
+        top: true
+        q: Comment participer à un tournoi ?
+        a: |
+          Tout au long de l'année, le club essaie d'inscrire des équipes à des tournois.
+
+          Dès que la pré-inscription de l'équipe est confirmée par l'organisation, nous cherchons un.e **référent.e** qui prend le lead sur l'équipe et l'inscription finale. Pas de référent.e volontaire = pas d'inscription !
+
+          #### Monter toi-même une équipe PUC Ultimate
+
+          1. Avant d'inscrire l'équipe, écris au ou à la référent.e tournoi pour vérifier qu'aucune équipe PUC n'est déjà prévue.
+          2. Inscris l'équipe toi-même, ou demande au ou à la référent.e de contacter le club organisateur.
+          3. Propose le tournoi à tout le club sur Discord.
+          4. Finalise l'équipe avec la [personne responsable des tournois](#membres-bureau). Un.e joueur.euse ayant déjà fait un tournoi avec le club n'est pas prioritaire sur quelqu'un qui fait son premier.
+          5. Demande une facture du team fee au nom du « Paris Université Club » et envoie-la à la [trésorerie](#membres-bureau).
+          6. En voiture, partagez les frais de trajet entre passager.ère.s, sans faire payer celles et ceux qui prêtent leur voiture.
+          7. Désigne quelqu'un pour envoyer un récap et une belle photo au bureau et à la com' à la fin du week-end, pour les réseaux sociaux.
+
+      - id: mineurs-deplacement
+        q: Quelles règles pour un.e joueur.euse mineur.e en déplacement ?
+        a: |
+          Les mineur.e.s sont placé.e.s sous la responsabilité d'un.e adulte présent.e pendant tout le déplacement.
+
+          - **Équipe junior :** l'encadrant.e est responsable des jeunes.
+          - **Équipe senior avec un ou plusieurs mineur.e.s :** un.e participant.e majeur.e est désigné.e auprès du bureau comme responsable, et l'équipe en est informée.
+
+          L'adulte responsable doit avoir lu et accepté la [charte pour l'accueil des mineur.e.s](https://docs.google.com/document/d/1KCqeomIFqIXPpvJh5z9Lf2YAbtWcy5O6Gf0L3S7t9X8/edit#).
+
+          Les mineur.e.s qui ne sont pas inscrit.e.s via le formulaire junior (par exemple des jeunes qui s'entraînent avec les adultes) doivent faire remplir cette [feuille d'autorisations](https://drive.google.com/file/d/1twDRT47SyIgC1r56T-m_JeKl3jkhOYmz/view?usp=sharing) par un.e représentant.e légal.e.
+
+      - id: deplacements
+        q: Comment organiser mes déplacements ?
+        a: |
+          Pour les entraînements, championnats et tournois, privilégie les **modes de transport doux** : marche, vélo, transports en commun. À défaut, le **covoiturage** est l'alternative à préférer.
+
+          Le PUC met des minibus à disposition sur réservation (voir [comment emprunter un minibus](#minibus)) : remplissons au maximum les places disponibles, dans les minibus comme dans nos voitures.
+
+      - id: minibus
+        top: true
+        q: Comment emprunter un minibus ou un van ?
+        a: |
+          1. Consulte le [planning de réservation des minibus](https://puc.paris/planning-reservation).
+          2. Remplis ce [formulaire de réservation](https://drive.google.com/file/d/1AH3o0mIr_pRwFoyk2ti1aBY5-bKADHW7/view?usp=sharing) et envoie-le au bureau ([bureau@puc-ultimate.fr](mailto:bureau@puc-ultimate.fr)), qui signera la case « responsable section ». Laisse la case « responsable omnisport » vide.
+          3. Transmets-le ensuite par mail au service minibus du PUC ([minibus@puc.paris](mailto:minibus@puc.paris)), avec le bureau en copie.
+          4. N'oublie pas de **faire le plein** avant de rendre le minibus !
+
+          **Pas de minibus disponible ?** Le bureau peut faire une demande auprès d'un loueur partenaire du PUC (la demande passe par la présidente).
+
+          Tu peux aussi regarder sur [Ouicar](https://www.ouicar.fr/) ou [Getaround](https://fr.getaround.com/).
+
+      - id: terrain-stade-ouest
+        q: Comment réserver le terrain du stade Ouest le samedi matin ?
+        a: |
+          Le stade Ouest de la Cité universitaire nous est attribué **tous les samedis de 9 h 30 à 13 h 30**. Vérifie que le créneau est libre sur le [calendrier du club](https://calendar.google.com/calendar/embed?src=ahouhpuc%40gmail.com&ctz=Europe%2FParis), puis contacte le bureau ([bureau@puc-ultimate.fr](mailto:bureau@puc-ultimate.fr)) pour valider la réservation.
+
+      - id: terrain-charlety
+        q: Comment réserver le terrain de Charléty le samedi soir ?
+        a: |
+          Le terrain synthétique de Charléty est généralement disponible **le samedi de 19 h 30 à 22 h**. Contacte le bureau ([bureau@puc-ultimate.fr](mailto:bureau@puc-ultimate.fr)), qui vérifiera auprès du PUC et de la section foot que le terrain est libre à la date demandée.
+
+      - id: categories-age
+        q: Quelles sont les catégories d'âge ?
+        a: |
+          Catégories de la saison %SAISON% :
+
+          | Catégorie | Années de naissance |
+          |---|---|
+          | U13 | 2014 et après |
+          | U15 | 2012 et 2013 |
+          | U17 | 2010 et 2011 |
+          | U20 | 2007, 2008 et 2009 |
+          | Senior | hommes nés entre 1990 et 2002, femmes nées entre 1993 et 2002 |
+          | Master | hommes nés en 1989 ou avant, femmes nées en 1992 ou avant |
+          | Grand master | hommes nés en 1983 ou avant, femmes nées en 1986 ou avant |
+          | Great grand master | hommes nés en 1974 ou avant, femmes nées en 1977 ou avant |
+
+  - id: communication
+    icon: "💬"
+    title: Communication
+    questions:
+      - id: reseaux-sociaux
+        q: Comment publier sur les réseaux sociaux du club ?
+        a: |
+          Envoie un mail aux [responsables communication](#membres-bureau) avec, si possible, une ou plusieurs photos et un petit texte. L'équipe com' s'occupe du tri et publie au meilleur endroit (section ou club omnisports).
+
+      - id: canaux
+        q: Où suivre l'actualité du club ?
+        a: |
+          L'actualité du club et les résultats des équipes sont publiés sur notre [Instagram](https://www.instagram.com/puc_ultimate/) et sur les salons dédiés de notre [serveur Discord](https://discord.gg/H9zbbXr).
+
+      - id: discord-notifications
+        q: Comment gérer les notifications Discord ?
+        a: |
+          À ta première connexion, un.e modérateur.ice ou un.e coach te donne accès aux salons de ton équipe. Les notifications sont activées par défaut : pour les régler, fais un **appui long** sur le salon (smartphone) ou un **clic droit** (ordinateur).
+
+          - **Rendre le salon muet :** le salon devient grisé, sans indicateur de nouveaux messages, mais reste visible.
+          - **Mentions uniquement :** le salon affiche les nouveaux messages, mais tu n'es notifié.e que pour @here ou @tonpseudo.
+          - **Tous les messages :** pour ne rien rater (réglage par défaut du serveur).
+
+          Un souci ? Écris dans le salon « questions ».
+
+      - id: contacts-federation
+        q: Où trouver les contacts des clubs, ligues et comités FFFD ?
+        a: |
+          Dans ce [document de la fédération](https://drive.google.com/file/d/1AN65dnR_Riq_gZJmtWqULMA4Py34f9_y/view?usp=sharing) (édition 2021-2022).
+
+  - id: equipes-de-france
+    icon: "🇫🇷"
+    title: Équipes de France
+    questions:
+      - id: selection-edf
+        q: Comment participer à un stage de sélection en équipe de France ?
+        a: |
+          1. Le bureau transmet à tou.te.s les joueur.euse.s du PUC chaque appel à candidature dès qu'il en a connaissance.
+          2. Contacte ton ou ta coach pour obtenir son accord.
+          3. Envoie un mail au bureau ([bureau@puc-ultimate.fr](mailto:bureau@puc-ultimate.fr)) avec ton ou ta coach en copie.
+          4. Tiens le bureau informé de l'avancée de ta sélection, et des week-ends de sélection ou de stage auxquels tu participes.
+
+  - id: autres
+    icon: "ℹ️"
+    title: Assurance, bien-être et infos pratiques
+    questions:
+      - id: assurance
+        q: Quelles sont les garanties de l'assurance comprise avec la licence ?
+        a: |
+          Les garanties sont détaillées dans ce [document MAIF](https://drive.google.com/file/d/1qmoNmhYJAaNAmELmuHiGrKFcDQrnevhp/view?usp=sharing) (édition 2022-2023).
+
+      - id: blessure
+        top: true
+        q: Que faire en cas de blessure ?
+        a: |
+          1. Fais établir un **certificat médical** par un.e médecin.
+          2. Remplis le [formulaire de déclaration de dommages corporels](https://drive.google.com/file/d/0BwS1eSb3GlGFOEdfcnppU2ZKUHNQR0lBZ3pLWTYweGFoS19v/view?resourcekey=0-7jec2MtYZofCpsxKci-egg) de la MAIF.
+          3. Envoie-le au bureau ([bureau@puc-ultimate.fr](mailto:bureau@puc-ultimate.fr)) ou directement à la présidente de la section, qui le signera et l'enverra à la MAIF **sous 48 h**.
+
+      - id: bien-etre
+        q: Que faire si je suis témoin ou victime d'un comportement déplacé ou de violences ?
+        a: |
+          Un club, c'est avant tout une aventure humaine : nous tenons à ce que chacun.e s'y sente bien, écouté.e et respecté.e.
+
+          C'est pourquoi un **pôle bien-être** a été créé, avec deux référent.e.s bien-être par équipe (un homme et une femme). Ce sont des personnes de confiance, disponibles pour écouter, échanger et accompagner sur toutes les questions de bien-être, de relations dans les équipes ou de situations inconfortables.
+
+          Si tu es témoin ou victime d'un comportement inapproprié, d'un malaise ou d'une situation de violence (sexuelle ou non), tu peux en parler à un.e référent.e bien-être, à un membre du bureau ou, si nécessaire, aux autorités compétentes. **L'important est de ne pas rester seul.e : le club est là pour te soutenir.**
+
+          Les référent.e.s de chaque équipe seront communiqué.e.s prochainement sur Discord. En attendant, les trois référentes bien-être du bureau, **Amélie, Selma et Elsa**, sont disponibles pour t'écouter et faire le lien.
+
+          Le club a aussi mis en place une [charte pour l'accueil des mineur.e.s](https://docs.google.com/document/d/1KCqeomIFqIXPpvJh5z9Lf2YAbtWcy5O6Gf0L3S7t9X8/edit#).
+
+      - id: calendrier
+        q: Où trouver le calendrier du club ?
+        a: |
+          Le calendrier est consultable [en ligne](https://calendar.google.com/calendar/embed?src=ahouhpuc%40gmail.com&ctz=Europe%2FParis) et sur la page [Calendrier](/fr/calendar) du site. Tu peux aussi l'[ajouter à ton agenda Google](https://calendar.google.com/calendar?cid=YWhvdWhwdWNAZ21haWwuY29t) ou t'y abonner au [format iCal](https://calendar.google.com/calendar/ical/ahouhpuc%40gmail.com/public/basic.ics).
+
+      - id: regles
+        q: Où trouver les règles et passer l'accréditation ?
+        a: |
+          Les règles officielles de l'ultimate sont publiées par la WFDF : [rules.wfdf.sport](https://rules.wfdf.sport). Elles existent aussi en application sur le [Play Store](https://play.google.com/store/apps/details?id=com.ultimate.timeout) et l'[App Store](https://apps.apple.com/us/app/timeout-ultimate/id1607673533).
+
+          Pour jouer un championnat national, il faut passer une [accréditation aux règles](https://rules.wfdf.org/accreditation) :
+
+          - **standard :** environ 5 minutes, très accessible ;
+          - **avancée :** environ 1 heure, pour les joueur.euse.s déjà expérimenté.e.s.

@@ -1,0 +1,422 @@
+# PUC Ultimate FAQ (English)
+# To edit an answer: change the text under "a: |" (Markdown format).
+# To add a question: copy a "- id / q / a" block into the right category.
+# "id" is used for direct links (e.g. /en/faq#registration): lowercase letters, digits and hyphens only.
+# "top: true" shows the question in the "Popular questions" shortcuts.
+# Keep the same ids as the French file so links work in both languages.
+
+saison: "2026-2027"
+
+ui:
+  title: Frequently asked questions
+  intro: |
+    Got a question and need a clear answer, fast? It's probably here.
+    If not, email the board: [bureau@puc-ultimate.fr](mailto:bureau@puc-ultimate.fr).
+  search_placeholder: "Search: licence, minibus, jersey, injury…"
+  search_label: Search the FAQ
+  all: All
+  popular: Popular questions
+  expand_all: Expand all
+  collapse_all: Collapse all
+  no_results: No question matches your search.
+  results_one: question found
+  results_many: questions found
+  copy_link: Copy link
+  link_copied: Link copied!
+  contact_title: Didn't find your answer?
+  contact_text: The board is here to help.
+  contact_button: Email the board
+
+categories:
+  - id: bureau
+    icon: "👥"
+    title: Board and club governance
+    questions:
+      - id: membres-bureau
+        q: Who is on the board?
+        a: |
+          | Role | Member(s) |
+          |---|---|
+          | President | Léa Guelaud |
+          | Treasurers | Selma Kindo, Bruno Fontaine, Mouad Berrehal |
+          | Secretary and registrations manager | Cédric Welty |
+          | Communication | Marien Aparicio, Awa Dakono, Elsa Boileau |
+          | Jerseys and equipment | Nathan Cohen |
+          | Sports committee | Cédric Welty |
+          | Junior section | Raphaël Candelier |
+
+          To reach any board member, email [bureau@puc-ultimate.fr](mailto:bureau@puc-ultimate.fr) and say who your message is for.
+
+      - id: statuts-ag
+        q: Where can I find the PUC statutes and general assembly minutes?
+        a: |
+          PUC Ultimate is the ultimate section of Paris Université Club (PUC), a non-profit association under the French 1901 law.
+
+          Most public documents shared by the board are in this [Google Drive folder](https://drive.google.com/drive/folders/0BwS1eSb3GlGFX0hhSjZ2c1lrOVk).
+
+      - id: prochaine-ag
+        q: When is the next general assembly?
+        a: |
+          The PUC Ultimate general assembly takes place **every year in June**. An invitation is emailed to all members several weeks beforehand.
+
+      - id: liste-bureau
+        q: How do I run for the board?
+        a: |
+          When you receive the email announcing the general assembly, let the board know you'd like to present a list.
+
+  - id: tresorerie
+    icon: "💶"
+    title: Treasury
+    questions:
+      - id: cotisation
+        q: What is my membership fee used for?
+        a: |
+          For adults, the **€210.50** fee is split as follows:
+
+          - **€65.50** for the federal licence and the liability and personal injury insurance;
+          - **€55** for Paris Université Club (access to sports facilities, logistics);
+          - **€90** for the PUC Ultimate section (running costs).
+
+          For reduced rates (students, juniors…), it's the PUC Ultimate share that is reduced.
+
+      - id: depenses-remboursees
+        q: Which expenses are reimbursed?
+        a: |
+          **Team fee fully paid** for:
+
+          - tournaments open to the whole club (in Île-de-France and elsewhere);
+          - preparation tournaments for a club team (in Île-de-France and elsewhere).
+
+          **If there is no team fee:**
+
+          - €10 per licensed player for tournaments in France;
+          - up to €20 per licensed player for tournaments in Europe and beyond.
+
+          **Flat allowance for non-playing coaches** (championships and preparation weekends):
+
+          | Location | Amount |
+          |---|---|
+          | Île-de-France | €0 |
+          | France | up to €140 |
+          | Europe / outside Europe | up to €140 |
+
+          **Also:**
+
+          - €27 towards the jersey kit of every new member;
+          - help with travel costs for players facing financial difficulties and for juniors, on request.
+
+      - id: payer-team-fee
+        q: How do I get the club to pay a team fee?
+        a: |
+          1. Send the board an invoice **made out to PUC**, with the organiser's full bank details.
+          2. Allow about ten days for the payment to arrive.
+
+          The club can also advance player fees, which players then pay back.
+
+      - id: remboursement
+        q: How do I get reimbursed?
+        a: |
+          #### Before the championship or tournament
+
+          Contact your team's quartermaster: they handle the reimbursement and let the board know ([bureau@puc-ultimate.fr](mailto:bureau@puc-ultimate.fr)). If there's no quartermaster, contact the board directly.
+
+          #### During
+
+          The quartermaster collects the invoices (accommodation, meals), made out to PUC when possible, and keeps the original receipts (tolls, fuel, etc.). For Airbnb accommodation, an invoice in another name is accepted.
+
+          #### After
+
+          The quartermaster hands a treasurer (or another board member if your practices don't overlap) the completed and signed **expense report**, together with the invoices and the bank details (RIB) of the person to reimburse.
+
+          The club can advance some costs (accommodation, transport), which players then pay back. Whatever the case, feel free to ask the treasurers for advice.
+
+      - id: usages
+        q: Dropping out, carpooling… what are the rules?
+        a: |
+          - **Dropping out:** costs already committed (player fee, accommodation, etc.) must be paid back, even if you're injured, unless an alternative is found (for example a replacement player).
+          - **Carpooling:** whoever lends their car doesn't pay for the trip. Costs (fuel, tolls, etc.) are shared among passengers.
+          - **Vehicles on site:** when vehicles are needed to get around during a championship, camp or tournament weekend, people who travel on their own may be asked to contribute.
+
+      - id: frais-accompagnement-juniors
+        q: How are travel costs for accompanying juniors covered?
+        a: |
+          For youth tournaments and championships, coaches, volunteers and parents usually accompany the players, most often in their own cars.
+
+          As the club can't reimburse all these trips in full, you can **donate them to the club** and get a **66% tax reduction** with a certificate provided by PUC.
+
+          To do so, we need a copy of your vehicle registration document and your address (to calculate distance and rates). Fill in this [form](https://forms.gle/dwBUzpEqHqbTueqS7) or send the information to [bureau@puc-ultimate.fr](mailto:bureau@puc-ultimate.fr).
+
+          Certificates are usually sent in March, before the tax return, and apply to the previous tax year.
+
+  - id: secretariat
+    icon: "📝"
+    title: Registration and licence
+    questions:
+      - id: tarifs
+        top: true
+        q: How much does registration cost?
+        a: |
+          To join PUC Ultimate, you must pay both the PUC registration **and** the federal licence. Prices for the %SAISON% season:
+
+          | Category | Price |
+          |---|---|
+          | Adults | €210.50 |
+          | Juniors U17-U20 | €196.50 |
+          | Juniors U13-U15 | €181.50 |
+
+          Need a reduced rate? Contact the [registrations manager](#membres-bureau) and we'll see how we can help.
+
+      - id: inscription
+        top: true
+        q: How do I register or renew my membership?
+        a: |
+          Registration has **two steps, both mandatory**.
+
+          #### Step 1: PUC registration
+
+          1. Log in (or create an account) on [MonClub](https://puc.monclub.app/).
+          2. Select the "Ultimate Frisbee" section and the "Adhésion %SAISON%" option.
+          3. At step 4, choose the option matching your licence type, then pay at step 5.
+
+          You can also pay directly at the PUC office, by card or cheque. Your receipt can then be downloaded from your member area, under "Mes adhésions".
+
+          #### Step 2: federal licence
+
+          1. Go to your [FFFD eLicence area](https://monespace.ff-flyingdisc.fr/auth/login). First login? [Activate your account here](https://monespace.ff-flyingdisc.fr/activer-mon-compte).
+          2. Your licence number has six digits: add leading zeros if needed (e.g. 001234).
+          3. Follow the [federation's guide](http://monespace.ff-flyingdisc.fr/gestdoc/document/470/telecharger) to take out your licence.
+          4. **Untick the IA (insurance) option**, unless you play for a national team.
+          5. In your personal information, accept the image rights and the data use terms.
+          6. Upload your medical certificate using the federation template, with the word "compétition".
+
+          Bookmark this area: you'll need it for everything involving the federation (club transfers, national teams…).
+
+          #### Medical certificate: key points
+
+          - **Adults:** you can extend your certificate by one year (twice at most) by confirming you answered "no" to the whole health questionnaire (CERFA no. 15699-01).
+          - **Juniors:** no extension possible. For federal competitions, you must be upgraded to an older category (surclassement); coaches can help.
+          - **National teams:** no extension either. A sports doctor must issue a new certificate every season.
+          - Your previous certificates remain available in eLicence.
+
+          Any question? Email the [registrations manager](#membres-bureau).
+
+      - id: numero-licence
+        q: What is my FFFD licence number?
+        a: |
+          If you've already been licensed with the FFFD, you receive your digital licence by email at the start of each season. You can also find it in your [personal area](https://monespace.ff-flyingdisc.fr/auth/login) on the federation website.
+
+      - id: espace-ffdf
+        q: How do I access my FFFD personal area?
+        a: |
+          Your personal area is [here](https://monespace.ff-flyingdisc.fr/auth/login). First login? [Activate your account](https://monespace.ff-flyingdisc.fr/activer-mon-compte).
+
+      - id: attestation
+        q: How do I get a registration certificate or an invoice?
+        a: |
+          Ask the [registrations manager](#membres-bureau) by email.
+
+  - id: equipement
+    icon: "👕"
+    title: Equipment
+    questions:
+      - id: acheter-disque
+        top: true
+        q: How do I buy a disc?
+        a: |
+          Club discs cost **€10** and are paid online on HelloAsso:
+          [1 disc](https://www.helloasso.com/associations/ultimate-rive-gauche/paiements/disque-hand-signals) ·
+          [2 discs](https://www.helloasso.com/associations/ultimate-rive-gauche/paiements/2-disques-hand-signals-puc) ·
+          [5 discs](https://www.helloasso.com/associations/ultimate-rive-gauche/paiements/5-disques-hand-signals-puc) ·
+          [10 discs](https://www.helloasso.com/associations/ultimate-rive-gauche/paiements/10-disques-hand-signals-puc)
+
+          After paying, contact the board to pick it up at a practice. We don't deliver (especially not abroad).
+
+      - id: maillots
+        q: How do I get my jersey set?
+        a: |
+          Every **autumn**, the club places a group order. Everyone picks their number based on availability, and the items they want:
+
+          | Item | Price |
+          |---|---|
+          | Full competition set (classic-cut shorts + blue jersey + white jersey) | €76.80 |
+          | Full competition set ("velocity"-cut shorts + blue jersey + white jersey) | €83.60 |
+          | First full competition set | −€20 (subsidised by PUC) |
+          | Competition shorts only | €20.80 (classic) or €25.60 (velocity) |
+          | Competition jersey only | €29 |
+          | Long-sleeve practice jersey | €31.20 |
+
+          Fill in the form emailed during the ordering period, pay online with the e-cotiz link, then wait for delivery.
+
+          **Note:** two players on the same team can't wear the same number at the French championships. If it happens, seniority wins: whoever wore the number first keeps it.
+
+      - id: rachat-maillots
+        q: Can the club buy back my jerseys?
+        a: |
+          Yes. If you leave the club, it can buy back your jersey kit for **€20**, provided it's in good condition. Contact the board.
+
+  - id: sportif
+    icon: "🥏"
+    title: Sports
+    questions:
+      - id: tournoi
+        top: true
+        q: How do I take part in a tournament?
+        a: |
+          Throughout the year, the club tries to enter teams in tournaments.
+
+          Once the organisers confirm the team's pre-registration, we look for a **team lead** to take charge of the team and the final registration. No volunteer lead = no registration!
+
+          #### Putting together a PUC Ultimate team yourself
+
+          1. Before registering, email the tournament lead to check no PUC team is already planned.
+          2. Register the team yourself, or ask the tournament lead to contact the organising club.
+          3. Share the tournament with the whole club on Discord.
+          4. Finalise the team with the [tournament manager](#membres-bureau). A player who has already played a tournament with the club doesn't get priority over someone playing their first.
+          5. Ask for a team fee invoice made out to "Paris Université Club" and send it to the [treasurers](#membres-bureau).
+          6. If you go by car, split travel costs among passengers, without charging those who lend their car.
+          7. Choose someone to send a recap and a nice photo to the board and the comms team at the end of the weekend, for social media.
+
+      - id: mineurs-deplacement
+        q: What are the rules for underage players travelling with the club?
+        a: |
+          Minors are under the responsibility of an adult present throughout the trip.
+
+          - **Junior team:** the coach is responsible for the young players.
+          - **Adult team with one or more minors:** an adult participant is named to the board as responsible for them, and the team is informed.
+
+          The responsible adult must have read and accepted the [charter for welcoming minors](https://docs.google.com/document/d/1KCqeomIFqIXPpvJh5z9Lf2YAbtWcy5O6Gf0L3S7t9X8/edit#).
+
+          Minors who didn't register through the junior form (for example young players practising with adults) must have this [authorisation form](https://drive.google.com/file/d/1twDRT47SyIgC1r56T-m_JeKl3jkhOYmz/view?usp=sharing) filled in by a legal guardian.
+
+      - id: deplacements
+        q: How should I organise my travel?
+        a: |
+          For practices, championships and tournaments, favour **low-carbon transport**: walking, cycling, public transport. Otherwise, **carpooling** is the preferred option.
+
+          PUC provides minibuses that can be booked in advance (see [how to borrow a minibus](#minibus)): let's fill as many seats as possible, in minibuses and in our own cars.
+
+      - id: minibus
+        top: true
+        q: How do I borrow a minibus or van?
+        a: |
+          1. Check the [minibus booking schedule](https://puc.paris/planning-reservation).
+          2. Fill in this [booking form](https://drive.google.com/file/d/1AH3o0mIr_pRwFoyk2ti1aBY5-bKADHW7/view?usp=sharing) and send it to the board ([bureau@puc-ultimate.fr](mailto:bureau@puc-ultimate.fr)), who will sign the "responsable section" box. Leave the "responsable omnisport" box empty.
+          3. Then email it to the PUC manager ([minibus@puc.paris](mailto:minibus@puc.paris)), copying the board.
+          4. Don't forget to **fill up the tank** before returning the minibus!
+
+          **No minibus available?** The board can request one from a PUC partner rental company (the request goes through the president).
+
+          You can also check [Ouicar](https://www.ouicar.fr/) or [Getaround](https://fr.getaround.com/).
+
+      - id: terrain-stade-ouest
+        q: How do I book the Stade Ouest field on Saturday morning?
+        a: |
+          The Stade Ouest field at the Cité universitaire is allocated to us **every Saturday from 9:30am to 1:30pm**. Check the slot is free on the [club calendar](https://calendar.google.com/calendar/embed?src=ahouhpuc%40gmail.com&ctz=Europe%2FParis), then contact the board ([bureau@puc-ultimate.fr](mailto:bureau@puc-ultimate.fr)) to confirm the booking.
+
+      - id: terrain-charlety
+        q: How do I book the Charléty field on Saturday evening?
+        a: |
+          The Charléty artificial turf is usually available **on Saturdays from 7:30pm to 10pm**. Contact the board ([bureau@puc-ultimate.fr](mailto:bureau@puc-ultimate.fr)), who will check with PUC and the football section that the field is free on the requested date.
+
+      - id: categories-age
+        q: What are the age categories?
+        a: |
+          Categories for the %SAISON% season:
+
+          | Category | Year of birth |
+          |---|---|
+          | U13 | 2014 and later |
+          | U15 | 2012 and 2013 |
+          | U17 | 2010 and 2011 |
+          | U20 | 2007, 2008 and 2009 |
+          | Senior | men born 1990–2002, women born 1993–2002 |
+          | Master | men born 1989 or earlier, women born 1992 or earlier |
+          | Grand master | men born 1983 or earlier, women born 1986 or earlier |
+          | Great grand master | men born 1974 or earlier, women born 1977 or earlier |
+
+  - id: communication
+    icon: "💬"
+    title: Communication
+    questions:
+      - id: reseaux-sociaux
+        q: How do I post on the club's social media?
+        a: |
+          Email the [comms team](#membres-bureau) with, if possible, one or more photos and a short text. They'll sort it out and post it in the best place (section or multi-sport club).
+
+      - id: canaux
+        q: Where can I follow club news?
+        a: |
+          Club news and team results are posted on our [Instagram](https://www.instagram.com/puc_ultimate/) and in the dedicated channels of our [Discord server](https://discord.gg/H9zbbXr).
+
+      - id: discord-notifications
+        q: How do I manage Discord notifications?
+        a: |
+          When you first join, a moderator or coach gives you access to your team's channels. Notifications are on by default: to change them, **long-press** the channel (phone) or **right-click** it (computer).
+
+          - **Mute channel:** the channel turns grey with no unread indicator, but stays visible.
+          - **Only mentions:** the channel shows new messages, but you're only notified for @here or @yourname.
+          - **All messages:** so you don't miss anything (server default).
+
+          Having trouble? Post in the "questions" channel.
+
+      - id: contacts-federation
+        q: Where can I find contacts for FFFD clubs, leagues and committees?
+        a: |
+          In this [federation document](https://drive.google.com/file/d/1AN65dnR_Riq_gZJmtWqULMA4Py34f9_y/view?usp=sharing) (2021-2022 edition).
+
+  - id: equipes-de-france
+    icon: "🇫🇷"
+    title: French national teams
+    questions:
+      - id: selection-edf
+        q: How do I try out for a French national team?
+        a: |
+          1. The board forwards every call for applications to all PUC players as soon as it hears about it.
+          2. Ask your coach for their approval.
+          3. Email the board ([bureau@puc-ultimate.fr](mailto:bureau@puc-ultimate.fr)) with your coach in copy.
+          4. Keep the board updated on your selection, and on the selection or training weekends you attend.
+
+  - id: autres
+    icon: "ℹ️"
+    title: Insurance, wellbeing and practical info
+    questions:
+      - id: assurance
+        q: What does the insurance included with the licence cover?
+        a: |
+          Coverage is detailed in this [MAIF document](https://drive.google.com/file/d/1qmoNmhYJAaNAmELmuHiGrKFcDQrnevhp/view?usp=sharing) (2022-2023 edition, in French).
+
+      - id: blessure
+        top: true
+        q: What should I do if I get injured?
+        a: |
+          1. Get a **medical certificate** from a doctor.
+          2. Fill in the MAIF [personal injury claim form](https://drive.google.com/file/d/0BwS1eSb3GlGFOEdfcnppU2ZKUHNQR0lBZ3pLWTYweGFoS19v/view?resourcekey=0-7jec2MtYZofCpsxKci-egg).
+          3. Send it to the board ([bureau@puc-ultimate.fr](mailto:bureau@puc-ultimate.fr)) or directly to the section president, who will sign it and send it to MAIF **within 48 hours**.
+
+      - id: bien-etre
+        q: What should I do if I witness or experience inappropriate behaviour or violence?
+        a: |
+          A club is above all a human adventure: we want everyone to feel good, heard and respected.
+
+          That's why we created a **wellbeing team**, with two wellbeing contacts in each team (a man and a woman). They are trusted people, available to listen, talk and support you on anything related to wellbeing, relationships within teams or uncomfortable situations.
+
+          If you witness or experience inappropriate behaviour, discomfort or violence (sexual or otherwise), you can talk to a wellbeing contact, a board member or, if needed, the relevant authorities. **What matters is that you're not alone: the club is here to support you.**
+
+          Each team's contacts will be announced soon on Discord. In the meantime, the board's three wellbeing contacts, **Amélie, Selma and Elsa**, are available to listen and to put you in touch.
+
+          The club has also adopted a [charter for welcoming minors](https://docs.google.com/document/d/1KCqeomIFqIXPpvJh5z9Lf2YAbtWcy5O6Gf0L3S7t9X8/edit#).
+
+      - id: calendrier
+        q: Where can I find the club calendar?
+        a: |
+          The calendar is available [online](https://calendar.google.com/calendar/embed?src=ahouhpuc%40gmail.com&ctz=Europe%2FParis) and on the site's [Calendar](/en/calendar) page. You can also [add it to Google Calendar](https://calendar.google.com/calendar?cid=YWhvdWhwdWNAZ21haWwuY29t) or subscribe in [iCal format](https://calendar.google.com/calendar/ical/ahouhpuc%40gmail.com/public/basic.ics).
+
+      - id: regles
+        q: Where can I find the rules and take the accreditation?
+        a: |
+          The official rules of ultimate are published by WFDF: [rules.wfdf.sport](https://rules.wfdf.sport). They're also available as an app on the [Play Store](https://play.google.com/store/apps/details?id=com.ultimate.timeout) and the [App Store](https://apps.apple.com/us/app/timeout-ultimate/id1607673533).
+
+          To play in a national championship, you must pass a [rules accreditation](https://rules.wfdf.org/accreditation):
+
+          - **standard:** about 5 minutes, very accessible;
+          - **advanced:** about 1 hour, for experienced players.

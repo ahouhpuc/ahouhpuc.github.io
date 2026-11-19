@@ -42,4 +42,14 @@
     <xhtml:link rel="alternate" href="https://puc-ultimate.fr/fr/about" hreflang="fr" />
     <xhtml:link rel="alternate" href="https://puc-ultimate.fr/en/about" hreflang="en" />
   </url>
+  <url>
+    <loc>https://puc-ultimate.fr/fr/faq</loc>
+    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/fr/faq" hreflang="fr" />
+    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/en/faq" hreflang="en" />
+  </url>
+  <url>
+    <loc>https://puc-ultimate.fr/en/faq</loc>
+    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/fr/faq" hreflang="fr" />
+    <xhtml:link rel="alternate" href="https://puc-ultimate.fr/en/faq" hreflang="en" />
+  </url>
 </urlset>

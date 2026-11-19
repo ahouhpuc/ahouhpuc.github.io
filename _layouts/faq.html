@@ -1,0 +1,244 @@
+---
+layout: default
+---
+{% assign faq = site.data.faq[page.lang] %}
+{% assign ui = faq.ui %}
+<div class="faq">
+  <h1>{{ ui.title }}</h1>
+  <div class="faq-intro">{{ ui.intro | markdownify }}</div>
+
+  <div class="faq-search">
+    <label for="faq-search-input" class="visually-hidden">{{ ui.search_label }}</label>
+    <svg class="faq-search-icon" aria-hidden="true" viewBox="0 0 24 24" width="20" height="20">
+      <circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="2" />
+      <line x1="16.5" y1="16.5" x2="21" y2="21" stroke="currentColor" stroke-width="2" stroke-linecap="round" />
+    </svg>
+    <input type="search" id="faq-search-input" placeholder="{{ ui.search_placeholder }}" autocomplete="off" />
+  </div>
+
+  <div class="faq-chips" role="group" aria-label="{{ ui.title }}">
+    <button type="button" class="faq-chip is-active" data-cat="all" aria-pressed="true">{{ ui.all }}</button>
+    {% for cat in faq.categories %}
+    <button type="button" class="faq-chip" data-cat="{{ cat.id }}" aria-pressed="false"><span aria-hidden="true">{{ cat.icon }}</span> {{ cat.title }}</button>
+    {% endfor %}
+  </div>
+
+  <div class="faq-popular" id="faq-popular">
+    <span class="faq-popular-label">{{ ui.popular }} :</span>
+    {% for cat in faq.categories %}{% for item in cat.questions %}{% if item.top %}
+    <a class="faq-popular-link" href="#{{ item.id }}">{{ item.q }}</a>
+    {% endif %}{% endfor %}{% endfor %}
+  </div>
+
+  <div class="faq-meta">
+    <span id="faq-count" aria-live="polite"></span>
+    <button type="button" id="faq-toggle-all" class="faq-link-button" data-expand="{{ ui.expand_all }}" data-collapse="{{ ui.collapse_all }}">{{ ui.expand_all }}</button>
+  </div>
+
+  {% for cat in faq.categories %}
+  <section class="faq-category" id="cat-{{ cat.id }}" data-cat="{{ cat.id }}">
+    <h2><span class="faq-category-icon" aria-hidden="true">{{ cat.icon }}</span> {{ cat.title }}</h2>
+    {% for item in cat.questions %}
+    <details class="faq-item" id="{{ item.id }}">
+      <summary>
+        <span class="faq-question">{{ item.q }}</span>
+        <a class="faq-permalink" href="#{{ item.id }}" title="{{ ui.copy_link }}" aria-label="{{ ui.copy_link }}">#</a>
+      </summary>
+      <div class="faq-answer">{{ item.a | replace: "%SAISON%", faq.saison | markdownify }}</div>
+    </details>
+    {% endfor %}
+  </section>
+  {% endfor %}
+
+  <p id="faq-empty" class="faq-empty" hidden>{{ ui.no_results }}</p>
+
+  <div class="faq-contact">
+    <div>
+      <strong>{{ ui.contact_title }}</strong><br />
+      {{ ui.contact_text }}
+    </div>
+    <a class="faq-contact-button" href="mailto:bureau@puc-ultimate.fr">{{ ui.contact_button }}</a>
+  </div>
+
+  <div id="faq-toast" class="faq-toast" role="status" hidden>{{ ui.link_copied }}</div>
+</div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    var input = document.getElementById("faq-search-input")
+    var chips = Array.prototype.slice.call(document.querySelectorAll(".faq-chip"))
+    var sections = Array.prototype.slice.call(document.querySelectorAll(".faq-category"))
+    var items = Array.prototype.slice.call(document.querySelectorAll(".faq-item"))
+    var count = document.getElementById("faq-count")
+    var empty = document.getElementById("faq-empty")
+    var popular = document.getElementById("faq-popular")
+    var toggleAll = document.getElementById("faq-toggle-all")
+    var toast = document.getElementById("faq-toast")
+    var labels = { one: {{ ui.results_one | jsonify }}, many: {{ ui.results_many | jsonify }} }
+    var currentCat = "all"
+
+    // Texte sans accents ni majuscules, pour une recherche tolérante
+    function normalize(text) {
+      return text.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "")
+    }
+
+    items.forEach(function (item) {
+      var question = item.querySelector(".faq-question")
+      item._label = question.textContent
+      item._text = normalize(item.textContent)
+    })
+
+    function escapeHtml(text) {
+      return text.replace(/[&<>"]/g, function (c) {
+        return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]
+      })
+    }
+
+    // Surligne les mots recherchés dans l'intitulé de la question
+    function highlight(item, words) {
+      var label = item._label
+      var question = item.querySelector(".faq-question")
+      if (!words.length) {
+        question.textContent = label
+        return
+      }
+      var norm = normalize(label)
+      var marks = []
+      words.forEach(function (w) {
+        var i = norm.indexOf(w)
+        while (i !== -1) {
+          marks.push([i, i + w.length])
+          i = norm.indexOf(w, i + w.length)
+        }
+      })
+      if (!marks.length) {
+        question.textContent = label
+        return
+      }
+      marks.sort(function (a, b) { return a[0] - b[0] })
+      var html = ""
+      var pos = 0
+      marks.forEach(function (m) {
+        if (m[0] < pos) return
+        html += escapeHtml(label.slice(pos, m[0])) + "<mark>" + escapeHtml(label.slice(m[0], m[1])) + "</mark>"
+        pos = m[1]
+      })
+      question.innerHTML = html + escapeHtml(label.slice(pos))
+    }
+
+    function apply() {
+      var words = normalize(input.value.trim()).split(/\s+/).filter(Boolean)
+      var visible = 0
+      sections.forEach(function (section) {
+        var catOk = currentCat === "all" || section.dataset.cat === currentCat
+        var sectionVisible = 0
+        section.querySelectorAll(".faq-item").forEach(function (item) {
+          var ok = catOk && words.every(function (w) { return item._text.indexOf(w) !== -1 })
+          item.hidden = !ok
+          highlight(item, words)
+          if (ok) sectionVisible++
+        })
+        section.hidden = sectionVisible === 0
+        visible += sectionVisible
+      })
+      empty.hidden = visible !== 0
+      popular.hidden = words.length > 0 || currentCat !== "all"
+      count.textContent = words.length ? visible + " " + (visible > 1 ? labels.many : labels.one) : ""
+      // Peu de résultats : on les ouvre directement
+      if (words.length && visible <= 3) {
+        items.forEach(function (item) { if (!item.hidden) item.open = true })
+      }
+      updateToggleLabel()
+    }
+
+    function setCategory(cat) {
+      currentCat = cat
+      chips.forEach(function (chip) {
+        var active = chip.dataset.cat === cat
+        chip.classList.toggle("is-active", active)
+        chip.setAttribute("aria-pressed", active ? "true" : "false")
+      })
+      apply()
+    }
+
+    function visibleItems() {
+      return items.filter(function (item) { return !item.hidden && !item.parentNode.hidden })
+    }
+
+    function updateToggleLabel() {
+      var list = visibleItems()
+      var allOpen = list.length > 0 && list.every(function (item) { return item.open })
+      toggleAll.textContent = allOpen ? toggleAll.dataset.collapse : toggleAll.dataset.expand
+    }
+
+    // Ouvre une question depuis l'URL (#id), même si elle est filtrée
+    function openFromHash() {
+      var id = decodeURIComponent(location.hash.slice(1))
+      var target = id && document.getElementById(id)
+      if (!target || !target.classList.contains("faq-item")) return
+      if (target.hidden || target.parentNode.hidden) {
+        input.value = ""
+        setCategory("all")
+      }
+      target.open = true
+      target.scrollIntoView({ block: "start" })
+      updateToggleLabel()
+    }
+
+    function showToast() {
+      toast.hidden = false
+      clearTimeout(showToast._t)
+      showToast._t = setTimeout(function () { toast.hidden = true }, 1800)
+    }
+
+    input.addEventListener("input", apply)
+    input.addEventListener("keydown", function (e) {
+      if (e.key === "Escape") {
+        input.value = ""
+        apply()
+      }
+    })
+
+    chips.forEach(function (chip) {
+      chip.addEventListener("click", function () { setCategory(chip.dataset.cat) })
+    })
+
+    toggleAll.addEventListener("click", function () {
+      var list = visibleItems()
+      var open = !list.every(function (item) { return item.open })
+      list.forEach(function (item) { item.open = open })
+      updateToggleLabel()
+    })
+
+    // Liens internes (#question) : ouvrent la question même si l'URL contient déjà ce #
+    document.querySelectorAll('.faq a[href^="#"]:not(.faq-permalink)').forEach(function (link) {
+      link.addEventListener("click", function (e) {
+        e.preventDefault()
+        if (history.pushState) history.pushState(null, "", link.getAttribute("href"))
+        else location.hash = link.getAttribute("href")
+        openFromHash()
+      })
+    })
+
+    items.forEach(function (item) {
+      // Met à jour l'URL quand l'utilisateur ouvre une question (lien partageable)
+      item.querySelector("summary").addEventListener("click", function () {
+        if (!item.open && history.replaceState) history.replaceState(null, "", "#" + item.id)
+      })
+      item.addEventListener("toggle", updateToggleLabel)
+      // Le « # » copie le lien direct vers la question
+      item.querySelector(".faq-permalink").addEventListener("click", function (e) {
+        e.preventDefault()
+        e.stopPropagation()
+        var url = location.href.split("#")[0] + "#" + item.id
+        if (history.replaceState) history.replaceState(null, "", "#" + item.id)
+        item.open = true
+        if (navigator.clipboard) navigator.clipboard.writeText(url).then(showToast, function () {})
+      })
+    })
+
+    window.addEventListener("hashchange", openFromHash)
+    openFromHash()
+    updateToggleLabel()
+  })
+</script>
