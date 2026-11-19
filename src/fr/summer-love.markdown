@@ -14,6 +14,16 @@ overview: |
   La Summer Love est annoncée chaque année sur nos pages <a href="https://www.facebook.com/pucultimate/" target="_blank" rel="noreferrer noopener">Facebook</a> et <a href="https://www.instagram.com/puc_ultimate/" target="_blank" rel="noreferrer noopener">Instagram</a>.
 
 summers:
+  - edition: Édition 2026
+    name: Summer Love Story
+    image: /assets/images/summerlove/summer2026.png
+    description: |
+      Ici la voix 👁️
+
+      La 19e édition de la Summer Love est placée sous le signe du secret 🤐🤐🤭
+
+      Entre pouvoirs et thèmes d'équipe secrets, et confessions intimes des participants, la Summer Love Story saura satisfaire les adeptes de dramas en tout genre.
+
   - edition: Édition 2025
     name: Summer Like & Follow
     image: /assets/images/summerlove/summer2025.png

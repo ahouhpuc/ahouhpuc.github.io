@@ -14,6 +14,16 @@ overview: |
   Summer Love is announced each year on our <a href="https://www.facebook.com/pucultimate/" target="_blank" rel="noreferrer noopener">Facebook</a> and <a href="https://www.instagram.com/puc_ultimate/" target="_blank" rel="noreferrer noopener">Instagram</a> pages.
 
 summers:
+  - edition: 2026 Edition
+    name: Summer Love Story
+    image: /assets/images/summerlove/summer2026.png
+    description: |
+      This is the voice speaking 👁️
+
+      The 19th edition of Summer Love is all about secrets 🤐🤐🤭
+
+      Between secret powers and team themes, and the players' intimate confessions, Summer Love Story will delight fans of every kind of drama.
+
   - edition: 2025 Edition
     name: Summer Like & Follow
     image: /assets/images/summerlove/summer2025.png
